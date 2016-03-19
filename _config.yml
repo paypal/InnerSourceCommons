@@ -26,11 +26,11 @@ author: cewilliams
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 url: ''
-baseurl: ''
+baseurl: '/InnerSourceCommons'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/paypal/InnerSourceCommons/edit/gh-pages
+improve_content: https://github.com/paypal/InnerSourceCommons/edit/master
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
