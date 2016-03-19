@@ -5,7 +5,7 @@ title: 'Getting Started with InnerSource'
 permalink: "/getting-started/"
 ---
 
-[![Getting Started with InnerSource](/assets/img/gettingstarted.gif)](http://www.oreilly.com/programming/free/getting-started-with-innersource.csp) 
+[![Getting Started with InnerSource](/InnerSourceCommons/assets/img/gettingstarted.gif)](http://www.oreilly.com/programming/free/getting-started-with-innersource.csp) 
 
 
 Welcome to InnerSource, the powerful movement for developing open source software within the walls of a single organization, where the "openness" of a project extends across teams inside the company. In this report, O’Reilly editor and author Andy Oram takes you inside InnerSource, first by reviewing the principles that make open source development successful, and then by describing how InnerSource has worked at PayPal, the leading Internet commerce facilitator.
