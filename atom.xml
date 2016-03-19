@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
-<?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
+<?xml-stylesheet type="text/xsl" href="/InnerSourceCommons/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/InnerSourceCommons/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<id>/</id>
+	<id>/InnerSourceCommons/</id>
 	<title>InnerSource Commons</title>
-	<updated>2016-03-19T02:11:33-07:00</updated>
+	<updated>2016-03-19T02:32:23-07:00</updated>
 
 	<subtitle>InnerSource applies the lessons of Open Source to all software engineering, using collaboration and transparency to increase quality, speed, and developer joy</subtitle>
 
@@ -19,8 +19,8 @@
 		</author>
 	
 
-	<link href="/atom.xml" rel="self" type="application/rss+xml" />
-	<link href="/" rel="alternate" type="text/html" />
+	<link href="/InnerSourceCommons/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="/InnerSourceCommons/" rel="alternate" type="text/html" />
 
 	<generator uri="http://jekyllrb.com" version="3.0.2">Jekyll</generator>
 

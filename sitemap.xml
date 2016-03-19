@@ -5,9 +5,9 @@
 
 	
 	<url>
-	<loc>/404.html</loc>
+	<loc>/InnerSourceCommons/404.html</loc>
 	
-		<lastmod>2016-03-19T02:11:33-07:00</lastmod>
+		<lastmod>2016-03-19T02:32:23-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -20,26 +20,9 @@
 
 	
 	<url>
-	<loc>/blog/archive/</loc>
+	<loc>/InnerSourceCommons/blog/archive/</loc>
 	
-		<lastmod>2016-03-19T02:11:33-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-	<url>
-	<loc>/atom.xml</loc>
-	
-		<lastmod>2016-03-19T02:11:33-07:00</lastmod>
+		<lastmod>2016-03-19T02:32:23-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -54,9 +37,26 @@
 
 	
 	<url>
-	<loc>/contact/</loc>
+	<loc>/InnerSourceCommons/atom.xml</loc>
 	
-		<lastmod>2016-03-19T02:11:33-07:00</lastmod>
+		<lastmod>2016-03-19T02:32:23-07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>/InnerSourceCommons/contact/</loc>
+	
+		<lastmod>2016-03-19T02:32:23-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -69,24 +69,9 @@
 
 	
 	<url>
-	<loc>/contribute/</loc>
+	<loc>/InnerSourceCommons/contribute/</loc>
 	
-		<lastmod>2016-03-19T02:11:33-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/feed.xml</loc>
-	
-		<lastmod>2016-03-19T02:11:33-07:00</lastmod>
+		<lastmod>2016-03-19T02:32:23-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -99,24 +84,9 @@
 
 	
 	<url>
-	<loc>/getting-started/</loc>
+	<loc>/InnerSourceCommons/feed.xml</loc>
 	
-		<lastmod>2016-03-19T02:11:33-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/humans.txt</loc>
-	
-		<lastmod>2016-03-19T02:11:33-07:00</lastmod>
+		<lastmod>2016-03-19T02:32:23-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -129,24 +99,9 @@
 
 	
 	<url>
-	<loc>/blog/</loc>
+	<loc>/InnerSourceCommons/getting-started/</loc>
 	
-		<lastmod>2016-03-19T02:11:33-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/</loc>
-	
-		<lastmod>2016-03-19T02:11:33-07:00</lastmod>
+		<lastmod>2016-03-19T02:32:23-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -159,24 +114,9 @@
 
 	
 	<url>
-	<loc>/events/isc-spring-2016/</loc>
+	<loc>/InnerSourceCommons/humans.txt</loc>
 	
-		<lastmod>2016-03-19T02:11:33-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/events/oscon-us-2016/</loc>
-	
-		<lastmod>2016-03-19T02:11:33-07:00</lastmod>
+		<lastmod>2016-03-19T02:32:23-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -189,9 +129,69 @@
 
 	
 	<url>
-	<loc>/robots.txt</loc>
+	<loc>/InnerSourceCommons/blog/</loc>
 	
-		<lastmod>2016-03-19T02:11:33-07:00</lastmod>
+		<lastmod>2016-03-19T02:32:23-07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/InnerSourceCommons/</loc>
+	
+		<lastmod>2016-03-19T02:32:23-07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/InnerSourceCommons/events/isc-spring-2016/</loc>
+	
+		<lastmod>2016-03-19T02:32:23-07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/InnerSourceCommons/events/oscon-us-2016/</loc>
+	
+		<lastmod>2016-03-19T02:32:23-07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/InnerSourceCommons/robots.txt</loc>
+	
+		<lastmod>2016-03-19T02:32:23-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -208,9 +208,9 @@
 
 	
 	<url>
-	<loc>/search/</loc>
+	<loc>/InnerSourceCommons/search/</loc>
 	
-		<lastmod>2016-03-19T02:11:33-07:00</lastmod>
+		<lastmod>2016-03-19T02:32:23-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -223,9 +223,9 @@
 
 	
 	<url>
-	<loc>/sitemap.xml</loc>
+	<loc>/InnerSourceCommons/sitemap.xml</loc>
 	
-		<lastmod>2016-03-19T02:11:33-07:00</lastmod>
+		<lastmod>2016-03-19T02:32:23-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>

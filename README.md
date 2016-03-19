@@ -5,3 +5,11 @@ This repo primarily serves to host the pages for InnerSource Commons. The master
 ## Contributing
 
 TODO: Add contributing guidelines.
+
+## Build process:
+
+* Install ruby
+* Install bundler gem
+* Run 'bundle install'
+* Run 'jekyll build -s <master branch location> -d <gh-pages location>'
+* Copy README.md from <master branch location> to <gh-pages location>

@@ -9,8 +9,8 @@
 		<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Atom Feed (Styled)</title>
-	<link rel="stylesheet" type="text/css" href="/assets/css/styles_feeling_responsive.css">
-	<script src="/assets/js/modernizr.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="/InnerSourceCommons/assets/css/styles_feeling_responsive.css">
+	<script src="/InnerSourceCommons/assets/js/modernizr.min.js"></script>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
@@ -38,7 +38,7 @@
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="Atom Feed (Styled)">
 	<meta property="og:description" content="InnerSource applies the lessons of Open Source to all software engineering, using collaboration and transparency to increase quality, speed, and developer joy">
-	<meta property="og:url" content="/assets/xslt/atom.xslt">
+	<meta property="og:url" content="/InnerSourceCommons/assets/xslt/atom.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="InnerSource Commons">
@@ -56,7 +56,7 @@
 	
 	
 
-	<link type="text/plain" rel="author" href="/humans.txt">
+	<link type="text/plain" rel="author" href="/InnerSourceCommons/humans.txt">
 
 	
 
@@ -98,7 +98,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="" class="icon-tree"> InnerSource Commons</a></h1>
+      <h1 class="show-for-small-only"><a href="/InnerSourceCommons" class="icon-tree"> InnerSource Commons</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Navigation</span></a></li>
@@ -139,7 +139,7 @@
             
             
               <li class="divider"></li>
-              <li><a href="/contact/">Contact</a></li>
+              <li><a href="/InnerSourceCommons/contact/">Contact</a></li>
 
             
             
@@ -158,7 +158,7 @@
 
             
             
-              <li><a href="/">Home</a></li>
+              <li><a href="/InnerSourceCommons/">Home</a></li>
               <li class="divider"></li>
 
             
@@ -173,7 +173,7 @@
 
             
             
-              <li><a href="/getting-started/">Getting Started</a></li>
+              <li><a href="/InnerSourceCommons/getting-started/">Getting Started</a></li>
               <li class="divider"></li>
 
             
@@ -190,19 +190,19 @@
             
 
               <li class="has-dropdown">
-                <a href="/events/isc-spring-2016/">Upcoming Events</a>
+                <a href="/InnerSourceCommons/events/isc-spring-2016/">Upcoming Events</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a href="/events/isc-spring-2016/">ISC Summit Spring 2016</a></li>
+                      <li><a href="/InnerSourceCommons/events/isc-spring-2016/">ISC Summit Spring 2016</a></li>
                     
 
                       
 
-                      <li><a href="/events/oscon-us-2016/">OSCON US 2016</a></li>
+                      <li><a href="/InnerSourceCommons/events/oscon-us-2016/">OSCON US 2016</a></li>
                     
                   </ul>
 
@@ -219,7 +219,7 @@
 
             
             
-              <li><a href="/contribute/">Contribute</a></li>
+              <li><a href="/InnerSourceCommons/contribute/">Contribute</a></li>
               <li class="divider"></li>
 
             
@@ -244,7 +244,7 @@
 	<div class="row">
 		<div class="small-12 columns">
 			<a id="logo" href="" title="InnerSource Commons – The journey is the reward">
-				<img src="/assets/img/logo.png" alt="InnerSource Commons – The journey is the reward">
+				<img src="/InnerSourceCommons/assets/img/logo.png" alt="InnerSource Commons – The journey is the reward">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -322,7 +322,7 @@
 
             <p class="shadow-grey">
               InnerSource applies the lessons of Open Source to all software engineering, using collaboration and transparency to increase quality, speed, and developer joy
-              <a href="/getting-started/">More ›</a>
+              <a href="/InnerSourceCommons/getting-started/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
 
@@ -458,7 +458,7 @@
 		
 
 
-<script src="/assets/js/javascript.min.js"></script>
+<script src="/InnerSourceCommons/assets/js/javascript.min.js"></script>
 
 
 
