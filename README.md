@@ -1,5 +1,7 @@
 # InnerSource Commons
 
-This repo primarily serves to host the pages for InnerSource Commons. There's not much to be done in this branch yet.
+This repo primarily serves to host the pages for InnerSource Commons. The master branch holds the source and the gh-pages branch holds the [Jekyll](https://jekyllrb.com/) rendered output.
 
-If you'd like to add your case study to the collection, you'll want to switch to the gh-pages branch.
+## Contributing
+
+TODO: Add contributing guidelines.
