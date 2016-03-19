@@ -1,9 +1,14 @@
-<!doctype html>
-<html class="no-js" lang="en">
-<head>
-	<meta charset="utf-8">
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:atom="http://www.w3.org/2005/Atom">
+<xsl:output method="html" encoding="utf-8" />
+<xsl:template match="/atom:feed">
+	<xsl:text disable-output-escaping="yes">&lt;!DOCTYPE html &gt;</xsl:text>
+	<html>
+	<head>
+		<xsl:text disable-output-escaping="yes"><![CDATA[
+		<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>InnerSource Commons</title>
+	<title>Atom Feed (Styled)</title>
 	<link rel="stylesheet" type="text/css" href="/assets/css/styles_feeling_responsive.css">
 	<script src="/assets/js/modernizr.min.js"></script>
 
@@ -31,9 +36,9 @@
 
 
 	<!-- Facebook Open Graph -->
-	<meta property="og:title" content="InnerSource Commons">
+	<meta property="og:title" content="Atom Feed (Styled)">
 	<meta property="og:description" content="InnerSource applies the lessons of Open Source to all software engineering, using collaboration and transparency to increase quality, speed, and developer joy">
-	<meta property="og:url" content="/index.html">
+	<meta property="og:url" content="/assets/xslt/atom.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="InnerSource Commons">
@@ -46,7 +51,7 @@
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" content="PayPalFLOW">
 	<meta name="twitter:creator" content="PayPalFLOW">
-	<meta name="twitter:title" content="InnerSource Commons">
+	<meta name="twitter:title" content="Atom Feed (Styled)">
 	<meta name="twitter:description" content="InnerSource applies the lessons of Open Source to all software engineering, using collaboration and transparency to increase quality, speed, and developer joy">
 	
 	
@@ -85,10 +90,11 @@
 
 	
 
-</head>
-<body id="top-of-page" class="post">
-	
-	<div id="navigation" class="sticky">
+		]]></xsl:text>
+	</head>
+	<body id="top-of-page">
+		<xsl:text disable-output-escaping="yes"><![CDATA[
+		<div id="navigation" class="sticky">
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
@@ -152,7 +158,7 @@
 
             
             
-              <li class="active"><a href="/">Home</a></li>
+              <li><a href="/">Home</a></li>
               <li class="divider"></li>
 
             
@@ -232,9 +238,7 @@
   </nav>
 </div><!-- /#navigation -->
 
-	
-
-	
+		
 
 <div id="masthead-no-image-header">
 	<div class="row">
@@ -253,60 +257,57 @@
 
 
 
-	<div class="row t30">
-	<div class="medium-8 columns medium-offset-2 end">
-		<article itemscope itemtype="http://schema.org/Article">
-			<header>
-				
-
-				<div itemprop="name">
-					
-					<h1></h1>
-				</div>
-			</header>
+		
 
 
-			
+<div class="alert-box warning radius text-center"><p>This <a href="https://en.wikipedia.org/wiki/RSS" target="_blank">Atom feed</a> is meant to be used by <a href="https://en.wikipedia.org/wiki/Template:Aggregators" target="_blank">RSS reader applications and websites</a>.</p>
+</div>
 
-			<div itemprop="articleSection">
-			<p>Please join us at the next <a href="/events/isc-spring-2016/">InnerSource Commons Summit</a></p>
 
-<p>InnerSource takes the lessons learned from developing open source software and applies them to the way companies develop software internally. As developers have become accustomed to working on world class open source software, there is a strong desire to bring those practices back inside the firewall and apply them to software that companies may be reluctant to release. For companies building mostly closed source software, InnerSource can be a great tool to help break down silos, encourage internal collaboration, accelerate new engineer on-boarding, and identify opportunities to contribute software back to the open source world.</p>
 
-<p>“Inspired by the spread of open source software throughout the areas of operating systems, cloud computing, JavaScript frameworks, and elsewhere, a number of companies are mimicking the practices of the powerful open source movement to create an internal company collaboration under the rubric InnerSource. In these pages you’ll read about the experience of the leading Internet commerce facilitator PayPal, and see how inner source can benefit engineers, management, and marketing/PR departments.</p>
-
-<p>“To understand the appeal of InnerSource project management, consider what has made open source software development so successful:</p>
-
-<ul>
-  <li>Programmers share their work with a wide audience, instead of just with a manager or team. In most open source projects, anyone in the world is free to view the code, comment on it, learn new skills by examining it, and submit changes that they think will improve it or customize it to their needs.</li>
-  <li>New code repositories (branches) based on the project can be made freely, so that sites with unanticipated uses for the code can adapt it. There are usually rules and technical support for re-merging different branches into the original master branch.</li>
-  <li>People at large geographical distances, at separate times, can work on the same code or contribute different files of code to the same project.</li>
-  <li>Communication tends to be written and posted to public sites instead of shared informally by word of mouth, which provides a history of the project as well as learning opportunities for new project members.</li>
-  <li>Writing unit tests becomes a key programming task. a “unit test” is a small test that checks for a particular, isolated behavior such as rejecting incorrect input or taking the proper branch under certain conditions. In open source and inner source, testing is done constantly as changes are checked in, to protect against failures during production runs.</li>
+		]]></xsl:text>
+		<header class="t30 row">
+	<p class="subheadline"><xsl:value-of select="atom:subtitle" disable-output-escaping="yes" /></p>
+	<h1>
+		<xsl:element name="a">
+			<xsl:attribute name="href">
+				<xsl:value-of select="atom:id" />
+			</xsl:attribute>
+			<xsl:value-of select="atom:title" />
+		</xsl:element>
+	</h1>
+</header>
+<ul class="accordion row" data-accordion="">
+	<xsl:for-each select="atom:entry">
+		<li class="accordion-navigation">
+			<xsl:variable name="slug-id">
+				<xsl:call-template name="slugify">
+					<xsl:with-param name="text" select="atom:id" />
+				</xsl:call-template>
+			</xsl:variable>
+			<xsl:element name="a">
+				<xsl:attribute name="href"><xsl:value-of select="concat('#', $slug-id)"/></xsl:attribute>
+				<xsl:value-of select="atom:title"/>
+				<br/>
+				<small><xsl:value-of select="atom:updated"/></small>
+			</xsl:element>
+			<xsl:element name="div">
+				<xsl:attribute name="id"><xsl:value-of select="$slug-id"/></xsl:attribute>
+				<xsl:attribute name="class">content</xsl:attribute>
+				<h1>
+					<xsl:element name="a">
+						<xsl:attribute name="href"><xsl:value-of select="atom:id"/></xsl:attribute>
+						<xsl:value-of select="atom:title"/>
+					</xsl:element>
+				</h1>
+				<xsl:value-of select="atom:content" disable-output-escaping="yes" />
+			</xsl:element>
+		</li>
+	</xsl:for-each>
 </ul>
 
-<p>“InnerSource differs from classic open source by remaining within the view and control of a single organization. The “openness” of the project extends across many teams within the organization. This allows the organization to embed differentiating trade secrets into the code without fear that they will be revealed to outsiders, while benefitting from the creativity and diverse perspectives contributed by people throughout the organization. Often, the organization chooses to share parts of an InnerSource project with the public, effectively turning them into open source. When the technologies and management practices of open source are used internally, moving the project into a public arena becomes much easier.”</p>
-
-<p>Oram, A. (2015) <strong>Getting Started With InnerSource</strong>. San Francisco: O’Reilly Media. Get your free copy at <a href="http://www.oreilly.com/programming/free/getting-started-with-innersource.csp">http://www.oreilly.com/programming/free/getting-started-with-innersource.csp</a></p>
-
-			</div>
-
-			
-
-			
-		</article>
-	</div><!-- /.medium-8.columns -->
-
-
-	
-
-
-	
-</div><!-- /.row -->
-
-
-	
-	    <div id="up-to-top" class="row">
+		<xsl:text disable-output-escaping="yes"><![CDATA[
+		    <div id="up-to-top" class="row">
       <div class="small-12 columns" style="text-align: right;">
         <a class="iconfont" href="#top-of-page">&#xf108;</a>
       </div><!-- /.small-12.columns -->
@@ -454,9 +455,7 @@
       </div><!-- /#subfooter -->
     </footer>
 
-	
-
-	
+		
 
 
 <script src="/assets/js/javascript.min.js"></script>
@@ -474,6 +473,18 @@
 
 
 
-</body>
-</html>
-
+		]]></xsl:text>
+	</body>
+	</html>
+</xsl:template>
+<xsl:template name="slugify">
+	<xsl:param name="text" select="''" />
+	<xsl:variable name="dodgyChars" select="' ,.#_-!?*:;=+|&amp;/\\'" />
+	<xsl:variable name="replacementChar" select="'-----------------'" />
+	<xsl:variable name="lowercase" select="'abcdefghijklmnopqrstuvwxyz'" />
+	<xsl:variable name="uppercase" select="'ABCDEFGHIJKLMNOPQRSTUVWXYZ'" />
+	<xsl:variable name="lowercased"><xsl:value-of select="translate( $text, $uppercase, $lowercase )" /></xsl:variable>
+	<xsl:variable name="escaped"><xsl:value-of select="translate( $lowercased, $dodgyChars, $replacementChar )" /></xsl:variable>
+	<xsl:value-of select="$escaped" />
+</xsl:template>
+</xsl:stylesheet>
