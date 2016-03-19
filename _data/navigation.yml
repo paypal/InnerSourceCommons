@@ -1,0 +1,31 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: Getting Started
+  url: "/getting-started/"
+  side: left
+
+- title: Upcoming Events
+  url: "/events/isc-spring-2016/"
+  side: left
+  dropdown:
+  - title: "ISC Summit Spring 2016"
+    url: "/events/isc-spring-2016/"
+  - title: "OSCON US 2016"
+    url: "/events/oscon-us-2016/"
+  
+- title: Contribute
+  url: "/contribute/"
+  side: left
+  
+#- title: Blog
+#  url: "/blog/"
+#  side: left
+#  dropdown:
+#  - title: "Blog Archive"
+#    url: "/blog/archive/"
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
