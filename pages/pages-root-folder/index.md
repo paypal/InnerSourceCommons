@@ -3,15 +3,19 @@ layout: page
 
 permalink: /index.html
 
+title: "InnerSource Commons"
+
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
 #
 homepage: true
 ---
 
-Please join us at the next [InnerSource Commons Summit](/InnerSourceCommons/events/isc-spring-2016/)
+### What is InnerSource?
 
 InnerSource takes the lessons learned from developing open source software and applies them to the way companies develop software internally. As developers have become accustomed to working on world class open source software, there is a strong desire to bring those practices back inside the firewall and apply them to software that companies may be reluctant to release. For companies building mostly closed source software, InnerSource can be a great tool to help break down silos, encourage internal collaboration, accelerate new engineer on-boarding, and identify opportunities to contribute software back to the open source world.
+
+### Introduction
 
 "Inspired by the spread of open source software throughout the areas of operating systems, cloud computing, JavaScript frameworks, and elsewhere, a number of companies are mimicking the practices of the powerful open source movement to create an internal company collaboration under the rubric InnerSource. In these pages you’ll read about the experience of the leading Internet commerce facilitator PayPal, and see how inner source can benefit engineers, management, and marketing/PR departments.
 

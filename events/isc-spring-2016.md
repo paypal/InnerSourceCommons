@@ -3,6 +3,11 @@ layout: page
 title: 'InnerSource Commons Summit'
 ---
 
+<!-- div style="width:195px; text-align:center;" ><iframe  src="https://www.eventbrite.com/countdown-widget?eid=23771021766" frameborder="0" height="383" width="195" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true"></iframe></div !-->
+
+<div style="width:100%; text-align:left;" ><iframe  src="https://www.eventbrite.com/e/innersource-commons-summit-spring-2016-registration-23771021766?ref=eweb" frameborder="0" height="450" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
+
+
 ### April 21-22 2016 in London, England
 
 Companies today already understand that Open Source is necessary.
@@ -20,7 +25,7 @@ InnerSource Commons meetings run under the [Chatham House Rule](https://en.wikip
 
 ### Are you working to implement InnerSource in your organization?
 
-Each of our journeys is unique. Please consider sharing a short (20-30 minute) case study at the Summit. We would love to hear about your experience bringing InnerSource practices to your organization, particularly what your current objectives are, what experiments you are running, what you have learned so far (from successful or failed experiments), what culture changes you are trying to create, and challenges you haven't yet solved.
+Each of our journeys is unique. Please consider sharing a short (10 minute) case study at the Summit. We would love to hear about your experience bringing InnerSource practices to your organization, particularly what your current objectives are, what experiments you are running, what you have learned so far (from successful or failed experiments), what culture changes you are trying to create, and challenges you haven't yet solved.
 
 If you are interested in joining the conversation at the Summit please [Email Us](mailto:summit@innersourcecommons.org). We will do our best to accommodate everyone while we also try to keep the event small enough to enable every voice to be heard
 
