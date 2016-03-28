@@ -42,7 +42,7 @@ urlimg: 'https://paypal.github.io/InnerSourceCommons/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "logo.png"
+logo: "isc-border.png"
 
 
 #       ____              _             __  _
@@ -108,7 +108,7 @@ defaults:
       type: 'pages'
     values:
       show_meta: false 	# Hide metadata for all pages
-      # sidebar:    		# Possible values › left, right › by default there will be no sidebar
+      sidebar: left   		# Possible values › left, right › by default there will be no sidebar
       comments: false
       author: cewilliams     # Default author for pages
   -
@@ -117,7 +117,7 @@ defaults:
       type: 'posts'
     values:
       show_meta: true   # Show metadata for all posts
-      # sidebar:        # Possible values › left, right › by default there will be no sidebar
+      sidebar: left       # Possible values › left, right › by default there will be no sidebar
       comments: false
       author: cewilliams     # Default author for posts
 

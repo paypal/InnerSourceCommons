@@ -79,7 +79,7 @@
   }
   .alert-box.terminal::before {
     content: "$ ";
-    color: $ci-6;
+    color: $alert-color;
   }
   .alert-box.text {
     background-color: $grey-2;

@@ -20,29 +20,29 @@ $text-color:       	#111;
 $body-font-color: 	$text-color;
 $body-bg: 			#fdfdfd;
 
+/* New ISC palatte by Bob Rigel 
+-------------------------------- */
 
+$isc-1: #BBDFC0;   // Lightest green
+$isc-2: #A7CAA8;   // Mid green
+$isc-3: #86AC85;   // Main green
+$isc-4: #789877;   // Dark green
+$isc-5: #DFD683;   // Dark sand
+$isc-6: #ECEDC0;   // Light sand
 
-/* Corporate Identity Colorpalette
-   https://color.adobe.com/de/Flat-Design-Colors-v2-color-theme-4341903/
-------------------------------------------------------------------- */
-
-$ci-1: #006359;         // darker green
-$ci-2: #00E2CA;		// lighter green
-$ci-3: #EFC94C;		// yellow
-$ci-4: #E27A3F;		// orange
-$ci-5: #DF4949;		// red
-$ci-6: #009C8B;		// green
-
+$isc-yellow: #EFC94C;		// yellow
+$isc-orange: #E27A3F;		// orange
+$isc-red:    #DF4949;		// red
 
 /* Foundation Color Variables
 ------------------------------------------------------------------- */
 
-$primary-color: $ci-1;
-$secondary-color: $ci-6;
-$alert-color: $ci-5;
-$success-color: $ci-6;
-$warning-color: $ci-4;
-$info-color: $ci-1;
+$primary-color: $isc-3;
+$secondary-color: $isc-1;
+$alert-color: $isc-red;
+$success-color: $isc-3;
+$warning-color: $isc-yellow;
+$info-color: $isc-2;
 
 
 
@@ -71,35 +71,31 @@ $grey-16: #0B0B0B;
 /* Topbar-Navigation
 ------------------------------------------------------------------- */
 
-$topbar-bg-color: $body-bg;
+$topbar-bg-color: $isc-4;
 $topbar-bg: $topbar-bg-color;
 
+$topbar-dropdown-toggle-color: $isc-5;
 
-$topbar-dropdown-toggle-color: $ci-1;
-
-$topbar-link-color: #000;
-$topbar-link-color-hover: #000;
+$topbar-link-color: #FFFFFF;
+$topbar-link-color-hover: #FFFFFF;
 $topbar-link-color-active: #000;
 $topbar-link-color-active-hover: #000;
 
-$topbar-dropdown-label-color: $ci-2;
-$topbar-dropdown-link-bg-hover: $ci-6;
+$topbar-dropdown-label-color: $isc-6;
+$topbar-dropdown-link-bg-hover: $isc-6;
 
-$topbar-link-bg-active: $ci-6; // Active Navigation Link
-$topbar-link-bg-hover: $ci-6;
-$topbar-link-bg-active-hover: $ci-2;
+$topbar-link-bg-active: $isc-6; // Active Navigation Link
+$topbar-link-bg-hover: $isc-5;
+$topbar-link-bg-active-hover: $isc-5;
 
-
-$topbar-dropdown-bg: $ci-6; // Background Mobile Navigation
+$topbar-dropdown-bg: $isc-6; // Background Mobile Navigation
 $topbar-dropdown-link-color: #000;
-$topbar-dropdown-link-bg: $ci-2;
+$topbar-dropdown-link-bg: $isc-6;
 
-$topbar-menu-link-color-toggled: $ci-1;
-$topbar-menu-icon-color-toggled: $ci-1;
-$topbar-menu-link-color: #000;
-$topbar-menu-icon-color: #000;
-$topbar-menu-link-color-toggled: $ci-6;
-$topbar-menu-icon-color-toggled: $ci-6;
+$topbar-menu-link-color: #FFFFFF;
+$topbar-menu-icon-color: #FFFFFF;
+$topbar-menu-link-color-toggled: $isc-1;
+$topbar-menu-icon-color-toggled: $isc-1;
 
 
 
@@ -108,7 +104,7 @@ $topbar-menu-icon-color-toggled: $ci-6;
 
 $footer-bg: $grey-10;
 $footer-color: #fff;
-$footer-link-color: $ci-6;
+$footer-link-color: $isc-4;
 
 
 $subfooter-bg: $grey-13;
