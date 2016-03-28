@@ -136,14 +136,6 @@
 
           
           
-            
-            
-              <li class="divider"></li>
-              <li><a href="/InnerSourceCommons/contact/">Contact</a></li>
-
-            
-            
-          
         
         
       </ul>
@@ -231,6 +223,15 @@
 
           
           
+
+            
+            
+              <li><a href="/InnerSourceCommons/contact/">Contact</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
         
         
       </ul>
@@ -244,7 +245,7 @@
 	<div class="row">
 		<div class="small-12 columns">
 			<a id="logo" href="" title="InnerSource Commons – The journey is the reward">
-				<img src="/InnerSourceCommons/assets/img/logo.png" alt="InnerSource Commons – The journey is the reward">
+				<img src="/InnerSourceCommons/assets/img/isc-border.png" alt="InnerSource Commons – The journey is the reward">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -459,7 +460,6 @@
 
 
 <script src="/InnerSourceCommons/assets/js/javascript.min.js"></script>
-
 
 
 
