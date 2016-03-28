@@ -3,8 +3,6 @@ layout: page
 title: 'InnerSource Commons Summit'
 ---
 
-<!-- div style="width:195px; text-align:center;" ><iframe  src="https://www.eventbrite.com/countdown-widget?eid=23771021766" frameborder="0" height="383" width="195" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true"></iframe></div !-->
-
 <div style="width:100%; text-align:left;" ><iframe  src="https://www.eventbrite.com/e/innersource-commons-summit-spring-2016-registration-23771021766?ref=eweb" frameborder="0" height="450" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
 
 
