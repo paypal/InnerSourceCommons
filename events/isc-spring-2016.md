@@ -12,12 +12,39 @@ Companies today already understand that Open Source is necessary.
 
 Less is understood about how to effectively use Open Source principles on internal development. This is the challenge that InnerSource seeks to address.
 
-The next InnerSource Summit will be in London, England on April 21 and 22, 2016. We will announce venue information with registration. Expected sessions so far include:
+### Location
 
-* Additional work on identifying patterns in the InnerSource efforts of different companies
-* Progress of current experiments
-* How to get started with InnerSource at your organization
-* Next steps to continue developing the community
+We will be meeting at [Code Node](https://skillsmatter.com/event-space) at [10 South Place, London, EC2 7EB](https://maps.google.com/maps?q=Skills%20Matter%20%7C%20CodeNode,%2010%20South%20Place,%20London,%20EC2M%207EB,%20GB) for both days.
+
+#### Wednesday April 20
+
+<pre>
+Open dinner opportunity
+</pre>
+
+#### Thursday April 21 - Mapping the Landscape
+
+<pre>
+08:00 Registration and coffee
+09:00 Opening
+10:00 Working sessions (unconference style)
+12:00 Lunch
+13:30 Working sessions
+16:30 Closing remarks
+
+20:00 Dinner
+</pre>
+
+#### Friday April 22 - Sharing our Stories
+
+<pre>
+08:00 Registration and coffee
+09:00 Opening
+10:00 Presentations
+12:00 Lunch
+13:30 Presentations
+16:30 Closing remarks
+</pre>
 
 InnerSource Commons meetings run under the [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule): information discusssed at a meeting can be shared but not attributed.
 
@@ -25,10 +52,15 @@ InnerSource Commons meetings run under the [Chatham House Rule](https://en.wikip
 
 Each of our journeys is unique. Please consider sharing a short (10 minute) case study at the Summit. We would love to hear about your experience bringing InnerSource practices to your organization, particularly what your current objectives are, what experiments you are running, what you have learned so far (from successful or failed experiments), what culture changes you are trying to create, and challenges you haven't yet solved.
 
-If you are interested in joining the conversation at the Summit please [Email Us](mailto:summit@innersourcecommons.org). We will do our best to accommodate everyone while we also try to keep the event small enough to enable every voice to be heard
-
 Looking forward to seeing you there!
 
 * Danese Cooper
 * Cedric Williams
 * and the whole InnerSource community
+
+### Hosts
+
+[![Tech At Bloomberg](/InnerSourceCommons/assets/img/bloomberg.jpg)](http://www.techatbloomberg.com/) [![PayPal InnerSource](/InnerSourceCommons/assets/img/paypal.png)](https://paypal.github.io)
+
+
+
