@@ -46,7 +46,7 @@ Open dinner opportunity
 16:30 Closing remarks
 </pre>
 
-InnerSource Commons meetings run under the [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule): information discusssed at a meeting can be shared but not attributed.
+InnerSource Commons meetings run under the [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule): information discussed at a meeting can be shared but not attributed.
 
 ### Are you working to implement InnerSource in your organization?
 
