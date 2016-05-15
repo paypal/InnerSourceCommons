@@ -7,14 +7,12 @@
   side: left
 
 - title: Upcoming Events
-  url: "/events/isc-spring-2016/"
+  url: "/events/oscon-us-2016/"
   side: left
   dropdown:
-  - title: "ISC Summit Spring 2016"
-    url: "/events/isc-spring-2016/"
   - title: "OSCON US 2016"
     url: "/events/oscon-us-2016/"
-  
+
 - title: Contribute
   url: "/contribute/"
   side: left
