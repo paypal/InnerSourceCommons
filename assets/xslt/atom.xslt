@@ -182,14 +182,9 @@
             
 
               <li class="has-dropdown">
-                <a href="/InnerSourceCommons/events/isc-spring-2016/">Upcoming Events</a>
+                <a href="/InnerSourceCommons/events/oscon-us-2016/">Upcoming Events</a>
 
                   <ul class="dropdown">
-                    
-
-                      
-
-                      <li><a href="/InnerSourceCommons/events/isc-spring-2016/">ISC Summit Spring 2016</a></li>
                     
 
                       
