@@ -13,6 +13,10 @@
   - title: "OSCON US 2016"
     url: "/events/oscon-us-2016/"
 
+- title: Wiki
+  url: "/wiki/"
+  side: left
+
 - title: Contribute
   url: "/contribute/"
   side: left
