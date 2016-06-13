@@ -435,7 +435,7 @@
       <div id="subfooter">
         <nav class="row">
           <section id="subfooter-left" class="small-12 medium-6 columns credits">
-            <p>Maintained by <a href="https://paypal.github.io/">PayPal</a> and the InnerSource community.</p>
+            <p>Maintained by <a href="https://paypal.github.io/">PayPal</a> and the InnerSource community. InnerSourceCommons.org site content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA</a> license unless otherwise marked.</p>
           </section>
 
           <section id="subfooter-right" class="small-12 medium-6 columns">
