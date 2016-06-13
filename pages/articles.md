@@ -10,7 +10,7 @@ Below is a historical list of various blog posts, talks, articles, and presentat
 2005:
 
  * [Sep 27, 2005] Rosemarie Graham, [Q&A with Pat Gibney on IBM’s New Community Source Development Strategy](http://www.developer.com/tech/article.php/3551806/QA-with-Pat-Gibney-on-IBMs-New-Community-Source-Development-Strategy.htm)
- * [Sep 26, 2005] Danny Sabbah, [The Open Internet – Open Source, Open Standards and the Effects on Collaborative Software Development - PPT](http://www.google.ie/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=3&amp;cad=rja&amp;ved=0CD4QFjAC&amp;url=http%3A%2F%2Fwww.hpts.ws%2Fpapers%2F2005%2FHPTS_Presentations%2FDay%25201%2FHPTS%2520Danny%2520Sabbah%25202005.ppt&amp;ei=aMyPUtj8Foia7Qaxn4CABg&amp;usg=AFQjCNEzNb-bJ_C4aW4eVmGm1mNlwWzjTQ&amp;sig2=4AqotYOWTF35ZC-edGyQWg&amp;bvm=bv.56988011,d.ZGU)
+ * [Sep 26, 2005] Danny Sabbah, [The Open Internet – Open Source, Open Standards and the Effects on Collaborative Software Development - PPT](http://www.hpts.ws/papers/2005/HPTS_Presentations/Day%201/HPTS%20Danny%20Sabbah%202005.ppt)
  * [Jun 13, 2005] Betanews, [IBM Turns to Open Source Development](http://betanews.com/2005/06/13/ibm-turns-to-open-source-development/)
  * [Apr 4, 2005] Darry K Taft, [IBM Adopts Open Development Internally](http://www.eweek.com/c/a/Linux-and-Open-Source/IBM-Adopts-Open-Development-Internally/)
  * [Jan/Feb 2005] Brian Behlendorf, [Applying Open Source Practices to Corporate Software Development](http://stephesblog.blogs.com/papers/osdl-oss-corp.pdf)
