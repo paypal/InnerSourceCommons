@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 21 links with priority=0.3, changefreq=monthly -->
+<!-- Pages: 22 links with priority=0.3, changefreq=monthly -->
 
 	
 	<url>
 	<loc>/InnerSourceCommons/404.html</loc>
 	
-		<lastmod>2016-06-03T17:47:38-07:00</lastmod>
+		<lastmod>2016-06-13T14:26:57-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -22,7 +22,22 @@
 	<url>
 	<loc>/InnerSourceCommons/blog/archive/</loc>
 	
-		<lastmod>2016-06-03T17:47:38-07:00</lastmod>
+		<lastmod>2016-06-13T14:26:57-07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/InnerSourceCommons/articles/</loc>
+	
+		<lastmod>2016-06-13T14:26:57-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -39,7 +54,7 @@
 	<url>
 	<loc>/InnerSourceCommons/atom.xml</loc>
 	
-		<lastmod>2016-06-03T17:47:38-07:00</lastmod>
+		<lastmod>2016-06-13T14:26:57-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -56,7 +71,7 @@
 	<url>
 	<loc>/InnerSourceCommons/events/conduct/</loc>
 	
-		<lastmod>2016-06-03T17:47:38-07:00</lastmod>
+		<lastmod>2016-06-13T14:26:57-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -71,7 +86,7 @@
 	<url>
 	<loc>/InnerSourceCommons/contact/</loc>
 	
-		<lastmod>2016-06-03T17:47:38-07:00</lastmod>
+		<lastmod>2016-06-13T14:26:57-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -86,7 +101,7 @@
 	<url>
 	<loc>/InnerSourceCommons/contribute/</loc>
 	
-		<lastmod>2016-06-03T17:47:38-07:00</lastmod>
+		<lastmod>2016-06-13T14:26:57-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -101,7 +116,7 @@
 	<url>
 	<loc>/InnerSourceCommons/feed.xml</loc>
 	
-		<lastmod>2016-06-03T17:47:38-07:00</lastmod>
+		<lastmod>2016-06-13T14:26:57-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -116,7 +131,7 @@
 	<url>
 	<loc>/InnerSourceCommons/getting-started/</loc>
 	
-		<lastmod>2016-06-03T17:47:38-07:00</lastmod>
+		<lastmod>2016-06-13T14:26:57-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -131,7 +146,7 @@
 	<url>
 	<loc>/InnerSourceCommons/humans.txt</loc>
 	
-		<lastmod>2016-06-03T17:47:38-07:00</lastmod>
+		<lastmod>2016-06-13T14:26:57-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -146,7 +161,7 @@
 	<url>
 	<loc>/InnerSourceCommons/blog/</loc>
 	
-		<lastmod>2016-06-03T17:47:38-07:00</lastmod>
+		<lastmod>2016-06-13T14:26:57-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -161,7 +176,7 @@
 	<url>
 	<loc>/InnerSourceCommons/</loc>
 	
-		<lastmod>2016-06-03T17:47:38-07:00</lastmod>
+		<lastmod>2016-06-13T14:26:57-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -176,7 +191,7 @@
 	<url>
 	<loc>/InnerSourceCommons/events/isc-spring-2016/</loc>
 	
-		<lastmod>2016-06-03T17:47:38-07:00</lastmod>
+		<lastmod>2016-06-13T14:26:57-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -191,7 +206,7 @@
 	<url>
 	<loc>/InnerSourceCommons/events/oscon-us-2016/</loc>
 	
-		<lastmod>2016-06-03T17:47:38-07:00</lastmod>
+		<lastmod>2016-06-13T14:26:57-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -206,7 +221,7 @@
 	<url>
 	<loc>/InnerSourceCommons/robots.txt</loc>
 	
-		<lastmod>2016-06-03T17:47:38-07:00</lastmod>
+		<lastmod>2016-06-13T14:26:57-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -225,7 +240,7 @@
 	<url>
 	<loc>/InnerSourceCommons/search/</loc>
 	
-		<lastmod>2016-06-03T17:47:38-07:00</lastmod>
+		<lastmod>2016-06-13T14:26:57-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -240,7 +255,7 @@
 	<url>
 	<loc>/InnerSourceCommons/sitemap.xml</loc>
 	
-		<lastmod>2016-06-03T17:47:38-07:00</lastmod>
+		<lastmod>2016-06-13T14:26:57-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
