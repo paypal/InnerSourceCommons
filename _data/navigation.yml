@@ -24,6 +24,6 @@
 #  - title: "Blog Archive"
 #    url: "/blog/archive/"
 
-- title: "Contact"
-  url: "/contact/"
+- title: "About"
+  url: "/about/"
   side: left
