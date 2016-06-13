@@ -7,6 +7,8 @@ permalink: '/articles/'
 
 Below is a historical list of various blog posts, talks, articles, and presentations on Inner Source:
 
+Note: This is in the process of being migrated from http://www.inner-sourcing.com/wiki/inner-source-wiki/
+
 2005:
 
  * [Sep 27, 2005] Rosemarie Graham, [Q&A with Pat Gibney on IBM’s New Community Source Development Strategy](http://www.developer.com/tech/article.php/3551806/QA-with-Pat-Gibney-on-IBMs-New-Community-Source-Development-Strategy.htm)
