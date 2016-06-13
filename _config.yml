@@ -17,7 +17,7 @@ slogan: 'The journey is the reward'
 description: 'InnerSource applies the lessons of Open Source to all software engineering, using collaboration and transparency to increase quality, speed, and developer joy'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Maintained by <a href="https://paypal.github.io/">PayPal</a> and the InnerSource community.</p>'
+credits: '<p>Maintained by <a href="https://paypal.github.io/">PayPal</a> and the InnerSource community. InnerSourceCommons.org site content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA</a> license unless otherwise marked.</p>'
 
 # Main author of the website
 # See > authors.yml
