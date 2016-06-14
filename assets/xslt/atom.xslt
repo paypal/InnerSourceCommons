@@ -221,7 +221,7 @@
 
             
             
-              <li><a href="/InnerSourceCommons/contact/">Contact</a></li>
+              <li><a href="/InnerSourceCommons/about/">About</a></li>
               <li class="divider"></li>
 
             
