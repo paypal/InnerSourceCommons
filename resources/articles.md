@@ -2,7 +2,6 @@
 layout: page
 show_meta: false
 title: 'Articles'
-permalink: '/articles/'
 ---
 
 Below is a historical list of various blog posts, talks, articles, and presentations on Inner Source:
