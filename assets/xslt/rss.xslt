@@ -195,7 +195,7 @@
 
                       
 
-                      <li><a href="/InnerSourceCommons/events/oscon-us-2016/">OSCON US 2016</a></li>
+                      <li><a  href="/InnerSourceCommons/events/oscon-us-2016/" >OSCON US 2016</a></li>
                     
                   </ul>
 
@@ -221,17 +221,17 @@
 
                       
 
-                      <li><a href="/InnerSourceCommons/resources/articles/">Articles</a></li>
+                      <li><a  href="/InnerSourceCommons/resources/articles/" >Articles</a></li>
                     
 
                       
 
-                      <li><a href="/InnerSourceCommonshttps://github.com/paypal/InnerSourceCommons/wiki" target="_blank">Wiki</a></li>
+                      <li><a  target="_blank" href="https://github.com/paypal/InnerSourceCommons/wiki" >Wiki</a></li>
                     
 
                       
 
-                      <li><a href="/InnerSourceCommons/events/">Events</a></li>
+                      <li><a  href="/InnerSourceCommons/events/" >Events</a></li>
                     
                   </ul>
 

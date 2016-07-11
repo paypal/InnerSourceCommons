@@ -11,5 +11,5 @@ TODO: Add contributing guidelines.
 * Install ruby
 * Install bundler gem
 * Run 'bundle install'
-* Run 'jekyll build -s <master branch location> -d <gh-pages location>'
-* Copy README.md from <master branch location> to <gh-pages location>
+* Run 'jekyll build -s &lt;master branch location&gt; -d &lt;gh-pages location&gt;'
+* Copy README.md from &lt;master branch location&gt; to &lt;gh-pages location&gt;
