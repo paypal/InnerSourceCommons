@@ -21,10 +21,6 @@ When registering please indicate which additional events you are interested in. 
 
 If you have any questions on registration please let us know!
 
-### Survey
-
-Please take our anonymous, informal [survey](https://docs.google.com/forms/d/e/1FAIpQLSeirf-zgX2-fwQPegVDTO7N3z3MuC97Dj8CENQysPnVDsVcTg/viewform) of InnerSource practices. This data will be used first at the Summit to examine patterns in InnerSource and will be posted on the [Commons](http://innersourcecommons.org) afterwards.
-
 ### Agenda
 
 This Summit we are starting to break down the stages of an InnerSource journey and aligning the discussions with them. Each session will include time for discussions. Classes will be both experiential and "train the trainer" so that you can use these in your own organization. *Some* of the sessions we are expecting: 
