@@ -21,6 +21,10 @@ When registering please indicate which additional events you are interested in. 
 
 If you have any questions on registration please let us know!
 
+### Survey
+
+Please take the first-ever [State of InnerSource Survey](https://docs.google.com/forms/d/e/1FAIpQLSf1EBbeyYezb_j1U2x1K2YqrDTN7UPZYnYAkre2h5QceI0I4A/viewform). This data will be used at the Summit to search for patterns in the community and will be posted on the [Commons](http://innersourcecommons.org) afterwards.
+
 ### Agenda
 
 This Summit we are starting to break down the stages of an InnerSource journey and aligning the discussions with them. Each session will include time for discussions. Classes will be both experiential and "train the trainer" so that you can use these in your own organization. *Some* of the sessions we are expecting: 
@@ -33,7 +37,7 @@ This Summit we are starting to break down the stages of an InnerSource journey a
 |  | Additional sessions | Additional sessions | Additional sessions |
 | Welcome dinner (sponsored)  | Group dinner | Group dinner | Retrospective |
 
-If you have specific sessions you would like to lead or participate in, please contact us via <summit@innersourcecommons.org> or mention it in the [survey](https://docs.google.com/forms/d/e/1FAIpQLSeirf-zgX2-fwQPegVDTO7N3z3MuC97Dj8CENQysPnVDsVcTg/viewform).
+If you have specific sessions you would like to lead or participate in, please contact us via <summit@innersourcecommons.org> or mention it in the [survey](https://docs.google.com/forms/d/e/1FAIpQLSf1EBbeyYezb_j1U2x1K2YqrDTN7UPZYnYAkre2h5QceI0I4A/viewform).
 
 ### Travel and Transit
 
