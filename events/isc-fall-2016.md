@@ -47,6 +47,23 @@ MBTA subway fares *in the Waterfront district* are USD 2.75 cash / 2.25 [Charlie
 
 Unlimited passes for subway and busses are available as well for USD 12.00/day or 21.25/week. Check [MBTA](http://www.mbta.com/fares_and_passes/passes/) for more information.
 
+### Hotels
+
+Hotels near the event:
+
+* The Envoy Hotel, Autograph Collection
+* Renaissance Boston Waterfront Hotel
+* The Westin Boston Waterfront
+* Aloft Boston Seaport Hotel
+* Elements by Westin
+
+Other hotels attendees may be staying at:
+
+* Doubltree Club by Hilton Boston Bayside
+* Courtyard Boston Logan Airport
+* Hampton Inn Boston/Cambridge
+* Four Points by Sheraton Boston Logan Airport
+
 ### Area Highlights
 
 There are many wonderful things to visit in the area. If you are traveling with family or have time to explore, here are just a few local suggestions.
