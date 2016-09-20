@@ -42,3 +42,7 @@
 - title: "About"
   url: "/about/"
   side: left
+
+- title: "Wiki"
+  url: "/wiki/"
+  side: left
