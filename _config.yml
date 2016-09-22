@@ -55,6 +55,7 @@ logo: "isc-border.png"
 gems:
     - jekyll-gist
     - jekyll-paginate
+    - jekyll-redirect-from
 paginate: 5                      # Paginates all X entries
 paginate_path: "blog/page:num"   # Pagination path › Important for blog page in /blog/ to work
 
