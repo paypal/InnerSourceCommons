@@ -5,7 +5,7 @@ title: 'InnerSource Commons Summit'
 
 ### April 18-20 in Geneva, Switzerland
 
-Join us for the next InnerSource Commons Summit in Boston, USA.
+Join us for the next InnerSource Commons Summit in Geneva, Switzerland.
 
 ### Venue
 
