@@ -201,11 +201,6 @@
 
                       
 
-                      <li><a  href="/InnerSourceCommons/events/isc-fall-2016/" >Summit US 2016</a></li>
-                    
-
-                      
-
                       <li><a  target="_blank" href="http://conferences.oreilly.com/oscon/open-source-eu/public/schedule/detail/53498" >OSCON EU 2016</a></li>
                     
 
