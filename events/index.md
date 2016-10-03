@@ -3,10 +3,6 @@ layout: page
 title: 'InnerSource Events'
 ---
 
-### [Commons Summit - Fall 2016](isc-fall-2016)
-
-InnerSource Commons Summit - Boston, USA September 28-30 2016
-
 ### [OSCON EU 2016](http://conferences.oreilly.com/oscon/open-source-eu/public/schedule/detail/53498)
 
 Transitioning to InnerSource Tutorial
