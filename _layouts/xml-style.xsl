@@ -14,7 +14,7 @@ breadcrumbs: true
 		{% include _head.html %}
 		]]></xsl:text>
 	</head>
-	<body id="top-of-page">
+	<body id="top-of-page" data-proofer-ignore>
 		<xsl:text disable-output-escaping="yes"><![CDATA[
 		{% include _navigation.html %}
 		{% include _masthead.html %}
