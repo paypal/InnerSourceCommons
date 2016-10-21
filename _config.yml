@@ -77,7 +77,9 @@ exclude:
     - README.md
     - INSTALL.md
     - cibuild
-
+    # exclude copying modules from travis build
+    - [vendor]
+    
 # The language setting is used in /includes/header.html for html-settings
 language: 'en'
 
