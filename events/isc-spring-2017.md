@@ -15,9 +15,9 @@ This Summit will be hosted by European Broadcasting Union at their facility.
 
 Registration info coming soon!
 
-### [Code of Conduct](/events/conduct/)
+### [Code of Conduct](/InnerSourceCommons/events/conduct/)
 
-All participants, vendors, and guests at InnerSource Commons events are required to abide by the [code of conduct](/events/conduct/). 
+All participants, vendors, and guests at InnerSource Commons events are required to abide by the [code of conduct](/InnerSourceCommons/events/conduct/). 
 
 
 InnerSource Commons meetings run under the [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule): information discussed at a meeting can be shared but not attributed.
