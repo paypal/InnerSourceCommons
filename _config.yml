@@ -77,7 +77,9 @@ exclude:
     - README.md
     - INSTALL.md
     - cibuild
-
+    # exclude copying modules from travis build
+    - vendor
+    
 # The language setting is used in /includes/header.html for html-settings
 language: 'en'
 
@@ -159,12 +161,12 @@ defaults:
 favicon-32x32:                          'favicon-32x32.png'
 touch-icon-192x192:                     'isc-logo-192.png'
 apple-touch-icon-180x180-precomposed:   'isc-logo-180.png'
-apple-touch-icon-152x152-precomposed:   'isc-logo-152-precomposed.png'
-apple-touch-icon-144x144-precomposed:   'isc-logo-144-precomposed.png'
-apple-touch-icon-120x120-precomposed:   'isc-logo-120-precomposed.png'
-apple-touch-icon-114x114-precomposed:   'isc-logo-114-precomposed.png'
-apple-touch-icon-76x76-precomposed:     'isc-logo-76-precomposed.png'
-apple-touch-icon-72x72-precomposed:     'isc-logo-72-precomposed.png'
+apple-touch-icon-152x152-precomposed:   'isc-logo-152.png'
+apple-touch-icon-144x144-precomposed:   'isc-logo-144.png'
+apple-touch-icon-120x120-precomposed:   'isc-logo-120.png'
+apple-touch-icon-114x114-precomposed:   'isc-logo-114.png'
+apple-touch-icon-76x76-precomposed:     'isc-logo-76.png'
+apple-touch-icon-72x72-precomposed:     'isc-logo-72.png'
 apple-touch-icon-precomposed:           'logo.png'
 msapplication_tileimage:                'isc-logo-144.png'               # Size 144x144
 msapplication_tilecolor:                '#fabb00'
