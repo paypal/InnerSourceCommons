@@ -14,7 +14,7 @@ git clone --quiet --branch=gh-pages https://${GH_TOKEN}@github.com/${TRAVIS_REPO
 bundle exec jekyll build -d ./_site/InnerSourceCommons
 bundle exec htmlproofer ./_site --disable-external --allow-hash-href
 
-if [ $TRAVIS_PULL_REQUEST ]; then
+if [ $TRAVIS_PULL_REQUEST != "false" ]; then
     echo "Build and scan OK for PR '${TRAVIS_PULL_REQUEST}'. Merge pull request to push build live."
     # Exit 0 to indicate that the build is good but not push live. Non-zero would flag build as failed.
     exit 0
