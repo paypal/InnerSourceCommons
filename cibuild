@@ -11,8 +11,8 @@ rm -rf ./_site
 # Clone into subdir so that htmlproofer understands the relative links
 git clone --quiet --branch=gh-pages https://${GH_TOKEN}@github.com/${TRAVIS_REPO_SLUG} ./_site/InnerSourceCommons 
 
-jekyll build -d ./_site/InnerSourceCommons
-htmlproofer ./_site --disable-external --allow-hash-href
+bundle exec jekyll build -d ./_site/InnerSourceCommons
+bundle exec htmlproofer ./_site --disable-external --allow-hash-href
 
 if [ $TRAVIS_PULL_REQUEST ]; then
     echo "Build and scan OK. Merge pull request to push build live."
