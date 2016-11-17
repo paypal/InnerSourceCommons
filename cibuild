@@ -23,5 +23,5 @@ fi
 # If we get here push build live
 cd _site/InnerSourceCommons
 git add --all .
-git commit -m 'Automated travis build $TRAVIS_BUILD_NUMBER'
+git commit -m "Automated travis build $TRAVIS_BUILD_NUMBER"
 git push --quiet origin gh-pages
