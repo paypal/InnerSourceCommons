@@ -15,7 +15,7 @@ bundle exec jekyll build -d ./_site/InnerSourceCommons
 bundle exec htmlproofer ./_site --disable-external --allow-hash-href
 
 if [ $TRAVIS_PULL_REQUEST ]; then
-    echo "Build and scan OK. Merge pull request to push build live."
+    echo "Build and scan OK for PR '${TRAVIS_PULL_REQUEST}'. Merge pull request to push build live."
     # Exit 0 to indicate that the build is good but not push live. Non-zero would flag build as failed.
     exit 0
 fi
