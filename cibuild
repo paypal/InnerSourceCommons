@@ -1,5 +1,27 @@
 #!/usr/bin/env bash
 set -e # halt script on error
 
+# Set user information for later commit
+git config --global user.email "travis@travis-ci.org"
+git config --global user.name "travis-ci"
+
+# Clone will fail if directory not empty
+rm -rf ./_site
+
+# Clone into subdir so that htmlproofer understands the relative links
+git clone --quiet --branch=gh-pages https://${GH_TOKEN}@github.com/${TRAVIS_REPO_SLUG} ./_site/InnerSourceCommons 
+
 bundle exec jekyll build -d ./_site/InnerSourceCommons
 bundle exec htmlproofer ./_site --disable-external --allow-hash-href
+
+if [ $TRAVIS_PULL_REQUEST != "false" ]; then
+    echo "Build and scan OK for PR '${TRAVIS_PULL_REQUEST}'. Merge pull request to push build live."
+    # Exit 0 to indicate that the build is good but not push live. Non-zero would flag build as failed.
+    exit 0
+fi
+    
+# If we get here push build live
+cd _site/InnerSourceCommons
+git add --all .
+git commit -m "Automated travis build $TRAVIS_BUILD_NUMBER"
+git push --quiet origin gh-pages
