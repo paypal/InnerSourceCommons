@@ -37,7 +37,7 @@ Note: This is in the process of being migrated from http://www.inner-sourcing.co
 
 2013:
 
-*[Nov 8, 2013] John Mathon's blog post, [Inner Source, Open source for the enterprise](http://johnmathon.wordpress.com/2013/11/08/inner-source-open-source-for-the-enterprise/)
+* [Nov 8, 2013] John Mathon's blog post, [Inner Source, Open source for the enterprise](http://johnmathon.wordpress.com/2013/11/08/inner-source-open-source-for-the-enterprise/)
 * [Nov 1, 2013] Dirk Riehle's [Talk on Inner Source in Product Line Engineering](http://dirkriehle.com/2013/11/01/talk-on-inner-source-in-product-line-engineering-continued/)
 * [Oct 28, 2013] Guy Martin and Andrew Aitken, [Inner Source Webinar Series: Community Development Practices in Corporate IT](http://www.slideshare.net/mobile/blackducksoftware/innersource-webinar-series)
 * [Oct 9, 2013] Phil Granof, [Social Creativity: The Engine of Software Development in the Social Era](http://insights.wired.com/profiles/blogs/social-creativity-the-engine-of-software-development-in-the#axzz2lZfSdsPB)
