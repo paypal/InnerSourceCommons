@@ -7,11 +7,24 @@
   side: left
 
 - title: Upcoming Events
-  url: "/events/oscon-us-2016/"
+  url: "/events/"
   side: left
   dropdown:
-  - title: "OSCON US 2016"
-    url: "/events/oscon-us-2016/"
+  - title: "OSCON EU 2016"
+    url: "http://conferences.oreilly.com/oscon/open-source-eu/public/schedule/detail/53498"
+  - title: "Summit EU 2017"
+    url: "/events/isc-spring-2017"
+
+- title: Resources
+  url: "/resources/"
+  side: left
+  dropdown:
+  - title: "Articles"
+    url: "/resources/articles/"
+  - title: "Wiki"
+    url: "https://github.com/paypal/InnerSourceCommons/wiki"
+  - title: "Events"
+    url: "/events/"
 
 - title: Contribute
   url: "/contribute/"
@@ -24,6 +37,10 @@
 #  - title: "Blog Archive"
 #    url: "/blog/archive/"
 
-- title: "Contact"
-  url: "/contact/"
+- title: "About"
+  url: "/about/"
+  side: left
+
+- title: "Wiki"
+  url: "/wiki/"
   side: left
