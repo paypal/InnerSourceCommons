@@ -9,7 +9,7 @@ Join us for the next InnerSource Commons Summit in Geneva, Switzerland.
 
 ### Venue
 
-This Summit will be hosted by European Broadcasting Union at their facility.
+This Summit will be hosted by European Broadcasting Union at their facility. (L'Ancienne Route 17A, 1218 Le Grand-Saconnex, Switzerland)
 
 ### Registration
 
