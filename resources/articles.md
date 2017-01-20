@@ -13,6 +13,7 @@ Note: This is in the process of being migrated from http://www.inner-sourcing.co
 * [Nov, 2016] [All Companies Are Tech Companies: How Open Source and InnerSource are changing the IT landscape](http://opensource.cioreview.com/cxoinsight/all-companies-are-tech-companies-how-open-source-and-innersource-are-changing-the-it-landscape-nid-23378-cid-92.html)
 * [Sep 26, 2016] [Experiences analyzing OSS ecosystems ](https://speakerdeck.com/bitergia/experiences-analyzing-oss-ecosystems) (slides from InnerSource Commons Summit)
 * [Jul 26, 2016] [InnerSourcing: the development model of the future?](https://blog.bitergia.com/2016/07/26/innersourcing-the-development-model-of-the-future/)
+* [Jun 02, 2016] [Inner Source—Adopting Open Source Development Practices in Organizations](https://www.infoq.com/articles/inner-source-open-source-development-practices)
 * [Apr 20, 2016] [Open Development Analytics for Inner Source programs](https://speakerdeck.com/bitergia/open-development-analytics-for-inner-source-programs) (slides from InnerSource Commons Summit)
 
 2015:
