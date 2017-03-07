@@ -8,6 +8,14 @@ Below is a historical list of various blog posts, talks, articles, and presentat
 
 Note: This is in the process of being migrated from http://www.inner-sourcing.com/wiki/inner-source-wiki/
 
+2016:
+
+* [Nov, 2016] [All Companies Are Tech Companies: How Open Source and InnerSource are changing the IT landscape](http://opensource.cioreview.com/cxoinsight/all-companies-are-tech-companies-how-open-source-and-innersource-are-changing-the-it-landscape-nid-23378-cid-92.html)
+* [Sep 26, 2016] [Experiences analyzing OSS ecosystems ](https://speakerdeck.com/bitergia/experiences-analyzing-oss-ecosystems) (slides from InnerSource Commons Summit)
+* [Jul 26, 2016] [InnerSourcing: the development model of the future?](https://blog.bitergia.com/2016/07/26/innersourcing-the-development-model-of-the-future/)
+* [Jun 02, 2016] [Inner Source—Adopting Open Source Development Practices in Organizations](https://www.infoq.com/articles/inner-source-open-source-development-practices)
+* [Apr 20, 2016] [Open Development Analytics for Inner Source programs](https://speakerdeck.com/bitergia/open-development-analytics-for-inner-source-programs) (slides from InnerSource Commons Summit)
+
 2015:
 
 * [Sep 10, 2015] [InnerSource: a practical application of open source techniques within organizational boundaries](http://www.openhealthnews.com/articles/2015/innersource-practical-application-open-source-techniques-within-organizational-boundar)
@@ -32,7 +40,7 @@ Note: This is in the process of being migrated from http://www.inner-sourcing.co
 
 2013:
 
-*[Nov 8, 2013] John Mathon's blog post, [Inner Source, Open source for the enterprise](http://johnmathon.wordpress.com/2013/11/08/inner-source-open-source-for-the-enterprise/) 
+* [Nov 8, 2013] John Mathon's blog post, [Inner Source, Open source for the enterprise](http://johnmathon.wordpress.com/2013/11/08/inner-source-open-source-for-the-enterprise/)
 * [Nov 1, 2013] Dirk Riehle's [Talk on Inner Source in Product Line Engineering](http://dirkriehle.com/2013/11/01/talk-on-inner-source-in-product-line-engineering-continued/)
 * [Oct 28, 2013] Guy Martin and Andrew Aitken, [Inner Source Webinar Series: Community Development Practices in Corporate IT](http://www.slideshare.net/mobile/blackducksoftware/innersource-webinar-series)
 * [Oct 9, 2013] Phil Granof, [Social Creativity: The Engine of Software Development in the Social Era](http://insights.wired.com/profiles/blogs/social-creativity-the-engine-of-software-development-in-the#axzz2lZfSdsPB)
@@ -46,11 +54,11 @@ Note: This is in the process of being migrated from http://www.inner-sourcing.co
 
 2012:
 
-* [Nov 19, 2012] Ryan Tomayko, Your team should work like an open source project](http://tomayko.com/writings/adopt-an-open-source-process-constraints) 
+* [Nov 19, 2012] Ryan Tomayko, Your team should work like an open source project](http://tomayko.com/writings/adopt-an-open-source-process-constraints)
 * [Nov 14, 2012] Graeme Thickins, [who's leading in inner-sourcing? ..."working in ad hoc ways" @dberkholz at #defragcon](http://www.flickr.com/photos/graemethickins/8185525443/)
 * [Oct 6, 2012] Miguel Ponce de Leon, [Inner-Sourcing](http://miguelpdl.com/weblog/?p=635)
 * [Oct 2, 2012] Guy Martin, [Keep Calm and Innersource On](http://servicesblog.redhat.com/2012/10/02/keep-calm-and-innersource-on/)
-* [Aug 29, 2012] Tim Yeaton, BlackDuck [Inner-Sourcing: Adopting Open Source Development Processes in Corporate IT](http://osdelivers.blackducksoftware.com/2012/08/29/inner-sourcing-adopting-open-source-development-processes-in-corporate-it/) 
+* [Aug 29, 2012] Tim Yeaton, BlackDuck [Inner-Sourcing: Adopting Open Source Development Processes in Corporate IT](http://osdelivers.blackducksoftware.com/2012/08/29/inner-sourcing-adopting-open-source-development-processes-in-corporate-it/)
 * [Jun 27, 2012] Guy Martin, [Pathways: Strategies for Enabling Open Source in Your Enterprise](http://rhsummit.files.wordpress.com/2012/03/martin_strategies_for_oss_in_enterprise.pdf)
 * [May 25, 2012] Bert Latamore, [EMC Shifts Around Internal Open-Source Approach](http://siliconangle.com/blog/2012/05/25/emc-transforming-around-internal-open-source-approach-says-brian-gallager/)
 
@@ -63,7 +71,7 @@ Note: This is in the process of being migrated from http://www.inner-sourcing.co
 
 * [Feb 2, 2010] Brooks Davis, [Promoting Open Source Methods at a Large Company](http://www.youtube.com/watch?v=qxdp5ksyzkE)
 
-2009: 
+2009:
 
 * [Feb 24, 2009] Darryl K Taft, [Community-Source Development Appeals in Tough Times](http://www.eweek.com/c/a/Application-Development/CommunitySource-Development-Appeals-in-Tough-Times/)
 * [Jan 30, 2009] Doug Beizer, [DOD launches site to develop open-source software](http://fcw.com/articles/2009/01/30/dod-launches-site-to-develop-open-source-software.aspx)
@@ -88,7 +96,7 @@ Note: This is in the process of being migrated from http://www.inner-sourcing.co
 
 * [Nov 29, 2006] Allan Alter, [Can IT Use Open Source Methods To Write Internal Code?](http://www.cioinsight.com/c/a/Expert-Voices/Can-IT-Use-Open-Source-Methods-To-Write-Internal-Code/)
 * [Jul 6, 2006] Darryl K Taft, [IBM to Employ Open-Source Development Style for Tools] (http://www.eweek.com/c/a/Application-Development/IBM-to-Employ-OpenSource-Development-Style-for-Tools/)
-* [Jul 4, 2006] Bram Riemens &amp; Kees van Zon, [Pfspd short history - Index](http://pfspd.sourceforge.net/history.html) 
+* [Jul 4, 2006] Bram Riemens &amp; Kees van Zon, [Pfspd short history - Index](http://pfspd.sourceforge.net/history.html)
 
 
 2005:
