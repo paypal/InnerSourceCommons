@@ -21,6 +21,8 @@
     url: "/resources/articles/"
   - title: "Wiki"
     url: "https://github.com/paypal/InnerSourceCommons/wiki"
+  - title: "Patterns"
+    url: "/patterns/"
   - title: "Events"
     url: "/events/"
 
@@ -41,4 +43,8 @@
 
 - title: "Wiki"
   url: "/wiki/"
+  side: left
+
+- title: "Patterns"
+  url: "/patterns/"
   side: left
