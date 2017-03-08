@@ -149,6 +149,12 @@
           
           
         
+
+              
+
+          
+          
+        
         
       </ul>
 
@@ -237,6 +243,11 @@
 
                       
 
+                      <li><a  href="/InnerSourceCommons/patterns/" >Patterns</a></li>
+                    
+
+                      
+
                       <li><a  href="/InnerSourceCommons/events/" >Events</a></li>
                     
                   </ul>
@@ -285,6 +296,21 @@
             
             
               <li><a href="/InnerSourceCommons/wiki/">Wiki</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a href="/InnerSourceCommons/patterns/">Patterns</a></li>
               <li class="divider"></li>
 
             
