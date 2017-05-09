@@ -207,7 +207,7 @@
 
                       
 
-                      <li><a  href="/InnerSourceCommons/events/isc-spring-2017" >Summit EU 2017</a></li>
+                      <li><a  href="/InnerSourceCommons/events/isc-fall-2017" >Summit US 2017</a></li>
                     
                   </ul>
 
@@ -249,6 +249,11 @@
                       
 
                       <li><a  href="/InnerSourceCommons/events/" >Events</a></li>
+                    
+
+                      
+
+                      <li><a  href="/InnerSourceCommons/checklist/" >Checklist</a></li>
                     
                   </ul>
 
