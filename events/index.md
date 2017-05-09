@@ -1,15 +1,19 @@
 ---
 layout: page
-title: 'InnerSource Events'
+title: 'Upcoming InnerSource Events'
 ---
 
-### Upcoming Events
+## [Commons Summit - Fall 2017](isc-fall-2017)
+
+InnerSource Commons Summit - Naperville, IL, USA September 27-29
+
+<br>
+<hr>
+# Prior Events
 
 ## [Commons Summit - Spring 2017](isc-spring-2017)
 
 InnerSource Commons Summit - Geneva, Switzerland April 18-20 2017
-
-### Old Events
 
 ## [Commons Summit - Fall 2016](isc-fall-2016)
 

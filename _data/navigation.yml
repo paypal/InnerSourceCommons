@@ -10,8 +10,8 @@
   url: "/events/"
   side: left
   dropdown:
-  - title: "Summit EU 2017"
-    url: "/events/isc-spring-2017"
+  - title: "Summit US 2017"
+    url: "/events/isc-fall-2017"
 
 - title: Resources
   url: "/resources/"
@@ -25,6 +25,8 @@
     url: "/patterns/"
   - title: "Events"
     url: "/events/"
+  - title: "Checklist"
+    url: "/checklist/"
 
 - title: Contribute
   url: "/contribute/"
