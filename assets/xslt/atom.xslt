@@ -207,6 +207,11 @@
 
                       
 
+                      <li><a  target="_blank" href="http://www.oreilly.com/pub/e/3884" >2017-06-01 InnerSource Patterns Webinar</a></li>
+                    
+
+                      
+
                       <li><a  href="/InnerSourceCommons/events/isc-fall-2017" >Summit US 2017</a></li>
                     
                   </ul>
