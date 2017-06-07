@@ -28,9 +28,9 @@ Presenters of accepted papers will be notified July 31st. Note that all presenta
 
 This Summit is hosted by [Nokia](http://www.nokia.com/en_int) at their facility at [1960 W. Lucent Lane, Naperville, IL 60563-1594](https://goo.gl/maps/cYHJb2jLb1m). The venue spaces there reserved for the Fall Summit include a flexible, large auditorium, four break-out rooms and an on-site cafeteria. 
 
-<img width="600" src="/InnerSourceCommons/assets/img/nokia_ihn_main.jpg"/>
+<img alt="Nokia is 31 miles from Midway, 25 miles from O'Hare" width="600" src="/InnerSourceCommons/assets/img/nokia_ihn_main.jpg"/>
 
-<img width="600" src="/InnerSourceCommons/assets/img/ihn_auditorium.jpg"/>
+<img alt="The Nokia auditorium can accommodate 200 people" width="600" src="/InnerSourceCommons/assets/img/ihn_auditorium.jpg"/>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2751.9032152777704!2d-88.11954235407396!3d41.81149452573095!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sus!4v1496771749678" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
@@ -67,11 +67,11 @@ The [city of Naperville](http://www.naperville.il.us/) is a suburb of Chicago, l
 Downtown Naperville features [its own riverwalk](http://www.naperville.il.us/enjoy-naperville/naperville-riverwalk/), [created in 1981 to celebrate the city's Sesquicentennial](http://www.napervilleparks.org/the-riverwalk) (150th anniversary). The park features covered bridges, relaxing fountains and distinctive shepherd's crook lights. 
 
 
-<img width="600" src="/InnerSourceCommons/assets/img/naperville_riverwalk_4755340966_fc7390571a_z_brian_jelonek.jpg"/>
+<img alt="The Naperville Riverwalk features a covered bridge" width="600" src="/InnerSourceCommons/assets/img/naperville_riverwalk_4755340966_fc7390571a_z_brian_jelonek.jpg"/>
 <p style="font-size: 8pt; font-style: italic;">Photo by <a href="https://www.flickr.com/photos/jelonekphotography/4755340966/">Brian Jelonek</a></p>
-<img width="600" src="/InnerSourceCommons/assets/img/naperville_riverwalk_4754699889_719ac628ba_z_brian_jelonek.jpg"/>
+<img alt="The Naperville Riverwalk is a pleasant place to walk" width="600" src="/InnerSourceCommons/assets/img/naperville_riverwalk_4754699889_719ac628ba_z_brian_jelonek.jpg"/>
 <p style="font-size: 8pt; font-style: italic;">Photo by <a href="https://www.flickr.com/photos/jelonekphotography/4754699889/">Brian Jelonek</a></p>
-<img width="600" src="/InnerSourceCommons/assets/img/naperville_riverwalk_4754409033_9389f267ca_z_brian_jelonek.jpg"/>
+<img alt="The Riverwalk is near an iconic bell tower" width="600" src="/InnerSourceCommons/assets/img/naperville_riverwalk_4754409033_9389f267ca_z_brian_jelonek.jpg"/>
 <p style="font-size: 8pt; font-style: italic;">Photo by <a href="https://www.flickr.com/photos/jelonekphotography/4754409033/">Brian Jelonek</a></p>
 
 Only a 40 minute drive to the east, Chicago has [many worthwhile attractions](http://www.planetware.com/tourist-attractions-/chicago-us-il-chi.htm) for those who are looking for something to do outside of the Fall Summit.
