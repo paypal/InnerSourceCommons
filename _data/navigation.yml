@@ -10,8 +10,6 @@
   url: "/events/"
   side: left
   dropdown:
-  - title: "2017-06-01 InnerSource Patterns Webinar"
-    url: "http://www.oreilly.com/pub/e/3884"
   - title: "Summit US 2017"
     url: "/events/isc-fall-2017"
 

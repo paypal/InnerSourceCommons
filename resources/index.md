@@ -21,4 +21,4 @@ Free e-book from O'Reilly on getting started with InnerSource
 
 ### Videos
 
-Add them here...
+See [the InnerSource Patterns videos](http://bit.ly/innersource_patterns_videos).
