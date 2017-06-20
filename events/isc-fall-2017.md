@@ -24,6 +24,22 @@ Some examples of possible content:
 
 Presenters of accepted papers will be notified July 31st. Note that all presentations given at the Fall Summit, unless otherwise designated by the presenter, will be covered by [the Chatham House Rule](https://www.chathamhouse.org/about/chatham-house-rule).
 
+### What is InnerSource?
+InnerSource takes the lessons learned from developing open source software and applies them to the way companies develop software internally. As developers have become accustomed to working on world class open source software, there is a strong desire to bring those practices back inside the firewall and apply them to software that companies may be reluctant to release. For companies building mostly closed source software, InnerSource can be a great tool to help break down silos, encourage internal collaboration, accelerate new engineer on-boarding, and identify opportunities to contribute software back to the open source world.
+ 
+### What is the InnerSource Commons?
+The InnerSource Commons ([InnerSourceCommons.org](http://innersourcecommons.org)) aka ISC is a consortium of representatives from over sixty companies and institutions. It utilizes open source methods to provide organizations pursuing inner sourcing a forum for discussing and improving the practice of InnerSource through the sharing of experiences (under the [Chatham House Rule](https://www.chathamhouse.org/about/chatham-house-rule)), creation and review of InnerSource patterns, and the open exchange of ideas.
+  
+### Who should attend?
+The InnerSource Common Summits welcomes software professionals at all levels, from executive level manager to software developer.  The program targets software development managers and executive managers in particular because adopting InnerSource requires significant efforts to make changes in the organization—whether these are implemented top-down or bottom-up. If you or your organization is adopting, or considering adopting, InnerSource, then attending the InnerSource Summit is the best thing you can do.
+   
+### What will I get from this event?
+The three key reasons to attend the InnerSource Common Summits are:
+
+* Learn from others who are on the journey of InnerSource adoption
+* Share your experiences and get help with your challenges
+* Network, network, network! The InnerSource Commons is an excellent place to network with likeminded people, all of whom are passionate about making InnerSource a success in their respective organizations!
+
 ### Venue
 
 This Summit is hosted by [Nokia](http://www.nokia.com/en_int) at their facility at [1960 W. Lucent Lane, Naperville, IL 60563-1594](https://goo.gl/maps/cYHJb2jLb1m). The venue spaces there reserved for the Fall Summit include a flexible, large auditorium, four break-out rooms and an on-site cafeteria. 
@@ -34,7 +50,7 @@ This Summit is hosted by [Nokia](http://www.nokia.com/en_int) at their facility 
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2751.9032152777704!2d-88.11954235407396!3d41.81149452573095!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sus!4v1496771749678" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-### Registration
+### How do I register?
 
 Registration will be available early in August. 
 
@@ -49,6 +65,10 @@ TBA. Send a DM (Direct Message in Slack) to Klaas-Jan Stol if you have suggestio
 ### Agenda
 
 TBA. The agenda will be finalized towards the end of July 2017.
+
+One keynote will be given by [Dr. Vijay Gurbani from Bell Labs](https://insight.nokia.com/users/vijay-gurbani). Dr. Gurbani is a Distinguished Member of Technical Staff at Bell Laboratories' End-to-End Mobile Network Research department in Nokia Networks. He holds a B.Sc. in Computer Science with a minor in Mathematics, a M.Sc. in Computer Science, both from Bradley University; and a Ph.D. in Computer Science from Illinois Institute of Technology.
+
+His current work is focused on scalable analytic architectures and algorithms for autonomic 5G networks. His research interests are multimedia protocols, security and privacy in multimedia protocols, peer-to-peer networks, distributed programming and open/inner source. Vijay's research has resulted in products that are used in national and international service provider networks. He has over 60 publications in peer-reviewed conferences and journals, 5 books, 7 granted U.S. patents and 18 Internet Engineering Task Force (IETF) RFCs.
 
 If you have specific sessions you would like to lead or participate in, please contact us via <summit@innersourcecommons.org>.
 
