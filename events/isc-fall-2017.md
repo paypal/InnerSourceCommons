@@ -100,12 +100,12 @@ Hotel Info: ~ $134 USD per night, 1.0 mile (4 mins by car) to Nokia office
 
 ##### 5.[Hotel Indigo by Riverwalk](https://www.ihg.com/hotelindigo/hotels/us/en/naperville/chins/hoteldetail?cm_mmc=GoogleMaps-_-IN-_-USA-_-CHINS)  **** (Naperville Downtown – Location wise this is the best one)**  
 Address: 120 Water Street, Naperville Illinois - 60540, United States, Phone:  +1 (630) 778-9676   
-Hotel Info: ~175 USD per night, ~4 miles about 12 mins by car to Nokia  
+Hotel Info: ~175 USD per night, ~4 miles about 12 mins by car to Nokia 
 [Directions]( https://www.google.com/maps/dir/Nokia+(Formerly+Alcatel-Lucent:Bell+Laboratories),+2000+W+Lucent+Ln,+Naperville,+IL+60563/Hotel+Indigo+Naperville+Riverwalk,+Water+Street,+Naperville,+IL/@41.7911962,-88.1672714,13z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x880e568422edd6f5:0x95799e677024921d!2m2!1d-88.1199456!2d41.8124202!1m5!1m1!1s0x880e57c732255075:0xcd1f26da518f3daf!2m2!1d-88.1503741!2d41.7709603!3e0)  
 
 ##### 6. [Fairfield Inn and Suites](http://www.marriott.com/hotels/travel/chiil-fairfield-inn-and-suites-chicago-naperville-aurora/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2)  
 Address: 1847 West Diehl Road  Naperville  Illinois  60563  USA, Phone: +1 (630) 548-0966  
-Hotel Info:~126 USD per night, ~5 miles bout 10 mins by car to Nokia   
+Hotel Info:~126 USD per night, ~5 miles bout 10 mins by car to Nokia 
 [Directions](https://www.google.com/maps/dir/Nokia+(Formerly+Alcatel-Lucent:Bell+Laboratories),+2000+W+Lucent+Ln,+Naperville,+IL+60563/Fairfield+Inn+%26+Suites+by+Marriott+Chicago+Naperville,+Abriter+Court,+Naperville,+IL/@41.8066128,-88.1324028,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x880e568422edd6f5:0x95799e677024921d!2m2!1d-88.1199456!2d41.8124202!1m5!1m1!1s0x880e56f565f1a893:0xd1b68611aa874c70!2m2!1d-88.1286627!2d41.803405!3e0)  
 
 
