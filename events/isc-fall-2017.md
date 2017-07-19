@@ -5,7 +5,7 @@ title: 'InnerSource Commons Fall Summit 2017'
 
 ### September 27-29 in Naperville, IL, USA
 
-Join us for the InnerSource Commons Fall Summit 2017 in Naperville, USA.
+Join us for the InnerSource Commons Fall Summit 2017 in Naperville, USA. There is an optional, free Ignite Talks class on the 26th available to Summit attendees. Look for the link when you submit your registration.
 
 ### Call For Presentations
 
@@ -55,6 +55,8 @@ This Summit is hosted by [Nokia](http://www.nokia.com/en_int) at their facility 
 [Registration is now open](https://www.eventbrite.com/e/innersource-commons-summit-fall-2017-tickets-36231411126).
 
 The registration fee of $27.37 (minus the processing cost of $2.37) will be donated to the [Apache Software Foundation](http://apache.org/) in honor of the research and guidance they have provided on how healthy software projects work.
+
+There is an optional, free Ignite Talks class on the 26th available to Summit attendees. Look for the link when you submit your registration.
 
 If you have any questions on registration please let us know!
 
