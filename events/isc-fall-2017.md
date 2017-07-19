@@ -66,7 +66,7 @@ TBA. Send a DM (Direct Message in Slack) to Klaas-Jan Stol if you have suggestio
 
 ### Agenda
 
-See [the detailed three-day agenda](https://innersourcecommons.org/events/isc-fall-2017-agenda)
+See [the detailed three-day agenda](/InnerSourceCommons/events/isc-fall-2017-agenda)
 
 ### Keynote Speakers
 **[Dr. Vijay Gurbani from Bell Labs](https://insight.nokia.com/users/vijay-gurbani)** 
