@@ -18,6 +18,12 @@ TODO: Add contributing guidelines.
     - git fetch upstream
     - git checkout master
     - git rebase upstream/master
+* Make your changes and test/check them
+* Push them to your fork
+    - git add &lt;files&gtl;
+    - git commit -m "comment" &lt;files&gtl;
+    - git push origin master
+* At this point, I usually go to the github web page for my fork to create the PR
 
 ## Build process:
 
