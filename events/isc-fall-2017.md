@@ -68,7 +68,7 @@ If you have any questions on registration please let us know!
 
 ### Survey
 
-TBA. Send a DM (Direct Message in Slack) to Klaas-Jan Stol if you have suggestions on the survey or would like to help.
+TBA. Send an email to Klaas-Jan.Stol at lero dot ie if you have suggestions on the survey or would like to help.
 
 ### Call For Presentations
 
