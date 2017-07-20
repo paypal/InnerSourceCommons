@@ -3,7 +3,7 @@ layout: page
 title: 'InnerSource Commons Fall Summit 2017'
 ---
 
-### September 27-29 in Naperville, IL, USA
+### September 27-29 Wed-Fri in Chicago (Naperville, IL), USA
 
 Join us for the InnerSource Commons Fall Summit 2017 in Naperville, IL, USA.  Naperville is a western suburb of Chicago, about 45 minutes from the Loop.
 
