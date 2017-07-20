@@ -3,7 +3,7 @@ layout: page
 title: 'InnerSource Commons Fall Summit 2017'
 ---
 
-### September 27-29 in Naperville, IL, USA
+### September 27-29 Wed-Fri in Chicago (Naperville, IL), USA
 
 Join us for the InnerSource Commons Fall Summit 2017 in Naperville, IL, USA.  Naperville is a western suburb of Chicago, about 45 minutes from the Loop.
 
@@ -13,7 +13,7 @@ There is an optional, free Ignite Talks class on the 26th available to Summit at
 
 See [the detailed three-day agenda](/InnerSourceCommons/events/isc-fall-2017-agenda)
 
-<a href="/InnerSourceCommons/events/isc-fall-2017-agenda"><img alt="thumbnail image of agenda" width="400" src="/InnerSourceCommons/assets/img/fallsummit2017_agenda_thumbnail.jpg"/></a>
+<a href="/InnerSourceCommons/events/isc-fall-2017-agenda"><img alt="thumbnail image of agenda" width="400" src="/InnerSourceCommons/assets/img/fallsummit2017_agenda_thumbnail.png"/></a>
 
 ### Keynote Speakers
 **[Dr. Vijay Gurbani from Bell Labs](https://insight.nokia.com/users/vijay-gurbani)** 
@@ -68,7 +68,7 @@ If you have any questions on registration please let us know!
 
 ### Survey
 
-TBA. Send a DM (Direct Message in Slack) to Klaas-Jan Stol if you have suggestions on the survey or would like to help.
+TBA. Send an email to Klaas-Jan.Stol at lero dot ie if you have suggestions on the survey or would like to help.
 
 ### Call For Presentations
 
