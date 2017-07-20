@@ -13,7 +13,7 @@ There is an optional, free Ignite Talks class on the 26th available to Summit at
 
 See [the detailed three-day agenda](/InnerSourceCommons/events/isc-fall-2017-agenda)
 
-<a href="/InnerSourceCommons/events/isc-fall-2017-agenda"><img alt="thumbnail image of agenda" width="400" src="/InnerSourceCommons/assets/img/fallsummit2017_agenda_thumbnail.jpg"/></a>
+<a href="/InnerSourceCommons/events/isc-fall-2017-agenda"><img alt="thumbnail image of agenda" width="400" src="/InnerSourceCommons/assets/img/fallsummit2017_agenda_thumbnail.png"/></a>
 
 ### Keynote Speakers
 **[Dr. Vijay Gurbani from Bell Labs](https://insight.nokia.com/users/vijay-gurbani)** 
