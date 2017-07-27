@@ -23,7 +23,7 @@ Note: This is in the process of being migrated from http://www.inner-sourcing.co
 * [Aug 14, 2015] [Learn why InnerSourced projects pay off for PayPal](https://tech.ebu.ch/news/2015/08/learn-why-innersourcing-projects)
 * [Aug 5, 2015] [How InnerSource Will Change Coding, with PayPal's Danese Cooper &amp; Arnold Goldberg](https://www.youtube.com/watch?v=GwsduTCiWIU)
 * [Jul 28, 2015] [OSCON 2015 – InnerSource, benefits of open source thinking to your company](https://blogs.perficient.com/integrate/2015/07/28/oscon-2015-innersource-benefits-of-open-source-thinking-to-your-company/)
-* [Transparency and transformation at PayPal] (http://radar.oreilly.com/2014/07/transparency-and-transformation-at-paypal.html)
+* [Transparency and transformation at PayPal](http://radar.oreilly.com/2014/07/transparency-and-transformation-at-paypal.html)
 * [Jul 23, 2015] [Getting Started with InnerSource - Danese Cooper Keynote](https://www.youtube.com/watch?v=r4QU1WJn9f8)
 
 2014:
@@ -34,7 +34,7 @@ Note: This is in the process of being migrated from http://www.inner-sourcing.co
 * [Sep 5, 2014] Sytse Sijbrandij, [Innersourcing, using the open source workflow to improve collaboration within an organization](https://about.gitlab.com/2014/09/05/innersourcing-using-the-open-source-workflow-to-improve-collaboration-within-an-organization/)
 * [Jul 27, 2014] John Mathon, [Inner-Sourcing](https://johnmathon.wordpress.com/tag/inner-sourcing/)
 * [May 29, 2014] Dave Jones, [The best thing you can do to help people share their stuff](http://www.makefantastic.co.uk/things/may-29th-2014)
-* [Mar 27, 2014] Guy Martin and Phil Odence, [Inner-Source: The Lesson of Linux for Enterprises] (http://events.linuxfoundation.org/sites/events/files/slides/Innersource%20Collab%20MartinOdence%203.27.14%20final.pptx_.pdf)
+* [Mar 27, 2014] Guy Martin and Phil Odence, [Inner-Source: The Lesson of Linux for Enterprises](http://events.linuxfoundation.org/sites/events/files/slides/Innersource%20Collab%20MartinOdence%203.27.14%20final.pptx_.pdf)
 * [Mar 27, 2014] Libby Clark, [How Samsung is Bringing Open Source Culture Inside the Firewall](http://www.linux.com/news/featured-blogs/200-libby-clark/768164-how-samsung-is-bringing-open-source-culture-inside-the-firewall)
 * [Jan 20, 2014] Dave Gruber, [Five ways to bring a more social, open development environment to your company](http://opensource.com/business/14/1/five-ways-social-open-development-environment)
 
@@ -54,7 +54,7 @@ Note: This is in the process of being migrated from http://www.inner-sourcing.co
 
 2012:
 
-* [Nov 19, 2012] Ryan Tomayko, Your team should work like an open source project](http://tomayko.com/writings/adopt-an-open-source-process-constraints)
+* [Nov 19, 2012] Ryan Tomayko, [Your team should work like an open source project](http://tomayko.com/writings/adopt-an-open-source-process-constraints)
 * [Nov 14, 2012] Graeme Thickins, [who's leading in inner-sourcing? ..."working in ad hoc ways" @dberkholz at #defragcon](http://www.flickr.com/photos/graemethickins/8185525443/)
 * [Oct 6, 2012] Miguel Ponce de Leon, [Inner-Sourcing](http://miguelpdl.com/weblog/?p=635)
 * [Oct 2, 2012] Guy Martin, [Keep Calm and Innersource On](http://servicesblog.redhat.com/2012/10/02/keep-calm-and-innersource-on/)
@@ -95,7 +95,7 @@ Note: This is in the process of being migrated from http://www.inner-sourcing.co
 2006:
 
 * [Nov 29, 2006] Allan Alter, [Can IT Use Open Source Methods To Write Internal Code?](http://www.cioinsight.com/c/a/Expert-Voices/Can-IT-Use-Open-Source-Methods-To-Write-Internal-Code/)
-* [Jul 6, 2006] Darryl K Taft, [IBM to Employ Open-Source Development Style for Tools] (http://www.eweek.com/c/a/Application-Development/IBM-to-Employ-OpenSource-Development-Style-for-Tools/)
+* [Jul 6, 2006] Darryl K Taft, [IBM to Employ Open-Source Development Style for Tools](http://www.eweek.com/c/a/Application-Development/IBM-to-Employ-OpenSource-Development-Style-for-Tools/)
 * [Jul 4, 2006] Bram Riemens &amp; Kees van Zon, [Pfspd short history - Index](http://pfspd.sourceforge.net/history.html)
 
 
