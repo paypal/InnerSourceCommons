@@ -5,7 +5,7 @@ title: 'InnerSource Commons Fall Summit 2017'
 
 ### September 27-29 Wed-Fri in Chicago (Naperville, IL), USA
 
-Join us for the InnerSource Commons Fall Summit 2017 in Naperville, IL, USA.  Naperville is a western suburb of Chicago, about 45 minutes from the Loop.
+Join us for the InnerSource Commons Fall Summit 2017 in Naperville, IL, USA.  Naperville is a western suburb of Chicago, about 45 minutes from the Loop. We have [a great slate of speakers](/InnerSourceCommons/events/isc-fall-2017-speakers) and [a solid line-up of presentations and workshops](/InnerSourceCommons/events/isc-fall-2017-agenda).
 
 There is an optional, free Ignite Talks class on the 26th available to Summit attendees. Look for the link when you submit your registration.
 
