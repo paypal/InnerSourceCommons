@@ -7,8 +7,6 @@ title: 'InnerSource Commons Fall Summit 2017'
 
 Join us for the InnerSource Commons Fall Summit 2017 in Naperville, IL, USA.  Naperville is a western suburb of Chicago, about 45 minutes from the Loop. We have [a great slate of speakers](/InnerSourceCommons/events/isc-fall-2017-speakers) and [a solid line-up of presentations and workshops](/InnerSourceCommons/events/isc-fall-2017-agenda).
 
-There is an optional, free Ignite Talks class on the 26th available to Summit attendees. Look for the link when you submit your registration.
-
 ### Agenda
 
 See [the detailed three-day agenda](/InnerSourceCommons/events/isc-fall-2017-agenda)
@@ -62,11 +60,9 @@ This Summit is hosted by [Nokia](http://www.nokia.com/en_int) at their facility 
 
 ### How do I register?
 
-[Registration is now open](https://www.eventbrite.com/e/innersource-commons-summit-fall-2017-tickets-36231411126).
+[Registration is now closed](https://www.eventbrite.com/e/innersource-commons-summit-fall-2017-tickets-36231411126); it ended 2017-09-19.
 
-The registration fee of $27.37 (minus the processing cost of $2.37) will be donated to the [Apache Software Foundation](http://apache.org/) in honor of the research and guidance they have provided on how healthy software projects work.
-
-There is an optional, free Ignite Talks class on the 26th available to Summit attendees. Look for the link when you submit your registration.
+The registration fee of $27.37 (minus the processing cost of $2.37) is to be donated to the [Apache Software Foundation](http://apache.org/) in honor of the research and guidance they have provided on how healthy software projects work.
 
 If you have any questions on registration please let us know!
 
@@ -146,7 +142,7 @@ Downtown Naperville features [its own riverwalk](http://www.naperville.il.us/enj
 
 Only a 40 minute drive to the east, Chicago has [many worthwhile attractions](http://www.planetware.com/tourist-attractions-/chicago-us-il-chi.htm) for those who are looking for something to do outside of the Fall Summit.
 
-There are [many good restaurants in the Naperville area](https://www.tripadvisor.com/Restaurants-g36422-zfp16-Naperville_Illinois.html).
+There are [many good restaurants in the Naperville area](https://www.tripadvisor.com/Restaurants-g36422-zfp16-Naperville_Illinois.html). See [this list of restaurants](https://docs.google.com/document/d/170wNcDTrsMCvsaW9j6PU_av33GjYUe-sN-4LfxdWmzw/edit).
 
 ### [Code of Conduct](/InnerSourceCommons/events/conduct/)
 
