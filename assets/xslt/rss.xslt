@@ -200,7 +200,7 @@
             
 
               <li class="has-dropdown">
-                <a href="/InnerSourceCommons/events/">Upcoming Events</a>
+                <a href="/InnerSourceCommons/events/">Events</a>
 
                   <ul class="dropdown">
                     
