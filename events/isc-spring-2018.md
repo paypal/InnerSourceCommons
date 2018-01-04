@@ -7,7 +7,7 @@ title: 'InnerSource Commons Spring Summit 2018'
 
 ### Call For Presentations
 
-See [the Call For Presentations for the 2018 Spring Summit](isc-spring-summit-2018-cfp).
+See [the Call For Presentations for the 2018 Spring Summit](/InnerSourceCommons/events/isc-spring-2018-cfp).
 
 Note that all presentations given at the Fall Summit, unless otherwise designated by the presenter, will be covered by [the Chatham House Rule](https://www.chathamhouse.org/about/chatham-house-rule).
 
