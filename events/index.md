@@ -4,7 +4,7 @@ title: 'Upcoming InnerSource Events'
 ---
 
 ## Current Events
-* [Commons Summit - Spring 2018](isc-fall-2018)
+* [Commons Summit - Spring 2018](isc-spring-2018)
     - InnerSource Commons Summit - Germany - May 16-18
 
 ## Prior Events
