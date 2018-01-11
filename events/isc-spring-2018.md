@@ -3,7 +3,7 @@ layout: page
 title: 'InnerSource Commons Spring Summit 2018'
 ---
 
-### May 16-18 Wed-Fri in Germany
+### May 16-18 Wed-Fri near Stuttgart, Germany
 
 ### Call For Presentations
 
@@ -12,13 +12,13 @@ See [the Call For Presentations for the 2018 Spring Summit](/InnerSourceCommons/
 Note that all presentations given at the Fall Summit, unless otherwise designated by the presenter, will be covered by [the Chatham House Rule](https://www.chathamhouse.org/about/chatham-house-rule).
 
 ### Agenda
-* *to-be-determined*
+* *coming soon* 
 
 ### Keynote Speakers
-* *to-be-determined*
+* *coming soon* 
 
 ### Who are the Speakers?
-* *to-be-determined*
+* *coming soon* 
 
 ### What is InnerSource?
 InnerSource takes the lessons learned from developing open source software and applies them to the way companies develop software internally. As developers have become accustomed to working on world class open source software, there is a strong desire to bring those practices back inside the firewall and apply them to software that companies may be reluctant to release. For companies building mostly closed source software, InnerSource can be a great tool to help break down silos, encourage internal collaboration, accelerate new engineer on-boarding, and identify opportunities to contribute software back to the open source world.
@@ -38,7 +38,7 @@ The three key reasons to attend the InnerSource Common Summits are:
 
 ### Venue
 
-This Summit is hosted by Robert Bosch GbmH. The specific venue is being determined.
+This Summit is hosted by Robert Bosch GmbH near Stuttgart, Germany. The specific venue is being determined.
 
 ### How do I register?
 
@@ -50,16 +50,17 @@ TBA. Send an email to Klaas-Jan.Stol at lero dot ie if you have suggestions on t
 
 ### Travel and Transit
 
-*to-be-determined*
+* The closest Airport is Stuttgart (EDDS / STR), about 30 minutes from the summit location.
+* If you should arrive at Frankfurt Main Airport, a train to Stuttgart takes approximately 1.5 hours.
+* *more details coming soon*
 
 ### Hotels
 
-*to-be-determined*
+* *coming soon*
 
 ### Area Highlights
 
-*to-be-determined*
-
+* *coming soon*
 
 ### [Code of Conduct](/InnerSourceCommons/events/conduct/)
 
