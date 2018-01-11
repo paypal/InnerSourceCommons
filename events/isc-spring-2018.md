@@ -9,7 +9,7 @@ title: 'InnerSource Commons Spring Summit 2018'
 
 See [the Call For Presentations for the 2018 Spring Summit](/InnerSourceCommons/events/isc-spring-2018-cfp).
 
-Note that all presentations given at the Fall Summit, unless otherwise designated by the presenter, will be covered by [the Chatham House Rule](https://www.chathamhouse.org/about/chatham-house-rule).
+Note that all presentations given at the Summit, unless otherwise designated by the presenter, will be covered by [the Chatham House Rule](https://www.chathamhouse.org/about/chatham-house-rule).
 
 ### Agenda
 * *coming soon* 
@@ -51,7 +51,7 @@ TBA. Send an email to Klaas-Jan.Stol at lero dot ie if you have suggestions on t
 ### Travel and Transit
 
 * The closest Airport is Stuttgart (EDDS / STR), about 30 minutes from the summit location.
-* If you should arrive at Frankfurt Main Airport, a train to Stuttgart takes approximately 1.5 hours.
+* If you should arrive at Frankfurt Main Airport (FRA), a train to Stuttgart takes approximately 1.5 hours.
 * *more details coming soon*
 
 ### Hotels
