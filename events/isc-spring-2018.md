@@ -44,10 +44,6 @@ This Summit is hosted by Robert Bosch GmbH near Stuttgart, Germany. The specific
 
 *Registration is not yet open*
 
-### Survey
-
-TBA. Send an email to Klaas-Jan.Stol at lero dot ie if you have suggestions on the survey or would like to help.
-
 ### Travel and Transit
 
 * The closest Airport is Stuttgart (EDDS / STR), about 30 minutes from the summit location.
