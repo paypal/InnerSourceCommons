@@ -45,7 +45,7 @@ Robert-Bosch-Campus 1
 71272 Renningen
 Germany
 
-![Renningen](http://InnerSourceCommons/assets/img/renningen.png)
+<a href="/InnerSourceCommons/assets/img/rennningen.png"><img alt="thumbnail Renningen" src="/InnerSourceCommons/assets/img/renningen.png"/></a>
 
 ### How do I register?
 
