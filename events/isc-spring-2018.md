@@ -38,7 +38,15 @@ The three key reasons to attend the InnerSource Common Summits are:
 
 ### Venue
 
-This Summit is hosted by Robert Bosch GmbH near Stuttgart, Germany. The specific venue is being determined.
+This Summit is hosted by Robert Bosch GmbH on the research campus in Renningen.
+
+Robert Bosch GmbH
+Robert-Bosch-Campus 1
+71272 Renningen
+Germany
+
+![Renningen](http://InnerSourceCommons/assets/img/renningen.png)
+
 
 ### How do I register?
 
@@ -69,3 +77,4 @@ Interested in helping out? Email <summit@innersourcecommons.org> or speak up on 
 ### Questions?
 
 Send your questions via slack DM to @georg.gruetter
+
