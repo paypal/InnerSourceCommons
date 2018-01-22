@@ -40,13 +40,12 @@ The three key reasons to attend the InnerSource Common Summits are:
 
 This Summit is hosted by Robert Bosch GmbH on the research campus in Renningen.
 
-Robert Bosch GmbH
-Robert-Bosch-Campus 1
-71272 Renningen
-Germany
+    Robert Bosch GmbH
+    Robert-Bosch-Campus 1
+    71272 Renningen
+    Germany
 
-![Renningen](http://InnerSourceCommons/assets/img/renningen.png)
-
+<img alt="Renningen" width="600" src="/InnerSourceCommons/assets/img/renningen.png"/>
 
 ### How do I register?
 
