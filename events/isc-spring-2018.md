@@ -49,17 +49,64 @@ This Summit is hosted by Robert Bosch GmbH on the research campus in Renningen.
 
 ### How do I register?
 
-*Registration is not yet open*
+*Registration will open, soon*. The registration fee will be **27.37 EUR**. We will donate all proceedings to a non-profit organisation which we will nominate at a later point in time.
 
 ### Travel and Transit
 
 * The closest Airport is Stuttgart (EDDS / STR), about 30 minutes from the summit location.
 * If you should arrive at Frankfurt Main Airport (FRA), a train to Stuttgart takes approximately 1.5 hours.
-* *more details coming soon*
 
 ### Hotels
 
-* *coming soon*
+We have reserved rooms in the following two hotels:
+
+#### Holiday Inn Stuttgart
+
+Recommended hotel approx. 20 km away from summit venue (20 minutes by car). 
+Free shuttle bus service from this hotel to the summit venue will be provided.
+Also very close to public transportation to Stuttgart city centre.
+
+- Rooms **reserved until April 17th**. Keyword: _InnerSource_
+    - 50 single rooms, 113.50 EUR
+    - breakfast included
+
+**Contact:**
+
+> Holiday Inn Stuttgart<br/>
+> Mittlerer Pfad 25-27<br/>
+> 70499 Stuttgart<br/>
+> +49 711 988880<br/>
+
+> [http://histuttgart.de](http://www.histuttgart.de/)<br/>
+> [info@histuttgart.de](mailto:info@histuttgart.de)<br/>
+
+- [Find it in Google Maps](https://www.google.de/maps/place/Holiday+Inn+Stuttgart/@48.821247,9.0918303,17z/data=!3m1!4b1!4m5!3m4!1s0x4799da2088ce7b5f:0x83dd99418907dc4a!8m2!3d48.821247!4d9.094019)<br/>
+- [Get there](http://en.histuttgart.de/directions.htm)
+
+#### Hotel Campo
+
+Well reviewed Hotel adjacent to summit venue (approx. 10 minutes on foot). 
+
+- Rooms **reserved until Feb. 22nd (!)**. Keyword: _InnerSource_
+    - 2 double rooms, deluxe, 124 EUR/night
+    - 25 single rooms, superior, 114 EUR/night
+    - 14 double rooms, superior, 116 EUR/night
+    - 4 double rooms, comfort, 104 EUR/night
+    - breakfast included
+    - all rooms can be used by single person
+
+**Contact:**
+
+> Hotel Campo<br/>
+> Raitestraße 26<br/>
+> 71272 Renningen<br/>
+> +49 7159 939800<br/>
+
+> [info@campo-renningen.de](mailto:info@campo-renningen.de)<br/>
+> [http://www.campo-renningen.de](http://www.campo-renningen.de)<br/>
+
+- [Find it in Google Maps](https://www.google.de/maps/place/Hotel+Campo/@48.7803301,8.923918,17z/data=!3m1!4b1!4m5!3m4!1s0x479763d4db745a11:0x795309d67965653a!8m2!3d48.7803301!4d8.9261066)<br/>
+- [Get there](http://www.campo-renningen.de/en/hotel/location)
 
 ### Area Highlights
 
