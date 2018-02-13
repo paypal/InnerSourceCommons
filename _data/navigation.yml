@@ -10,9 +10,11 @@
   url: "/events/"
   side: left
   dropdown:
-  - title: "Summit EU 2018"
+  - title: "EU Summit Spring 2018"
     url: "/events/isc-spring-2018"
-
+  - title: "US Summit Fall 2018"
+    url: "/events/isc-fall-2018"
+    
 - title: Resources
   url: "/resources/"
   side: left
