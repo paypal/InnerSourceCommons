@@ -15,7 +15,7 @@ Note that all presentations given at the Summit, unless otherwise designated by 
 * *coming soon* 
 
 ### Keynote Speakers
-* *coming soon* 
+* *coming very soon* 
 
 ### Who are the Speakers?
 * *coming soon* 
@@ -46,6 +46,10 @@ This Summit is hosted by Robert Bosch GmbH on the research campus in Renningen.
     Germany
 
 <img alt="Renningen" width="600" src="/InnerSourceCommons/assets/img/renningen.png"/>
+
+### Food
+
+Morning snack, lunch and afternoon snack will be provided to Summit attendees each day, courtsey of Bosch.
 
 ### How do I register?
 
