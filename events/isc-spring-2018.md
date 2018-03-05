@@ -7,7 +7,7 @@ title: 'InnerSource Commons Spring Summit 2018'
 
 ### Call For Presentations
 
-See [the Call For Presentations for the 2018 Spring Summit](/InnerSourceCommons/events/isc-spring-2018-cfp).
+The call for presentations has concluded on Feb. 28th.
 
 Note that all presentations given at the Summit, unless otherwise designated by the presenter, will be covered by [the Chatham House Rule](https://www.chathamhouse.org/about/chatham-house-rule).
 
@@ -15,10 +15,89 @@ Note that all presentations given at the Summit, unless otherwise designated by 
 * *coming soon* 
 
 ### Keynote Speakers
-* *coming soon* 
 
-### Who are the Speakers?
-* *coming soon* 
+<div style="width:100%">
+    <div style="float:left;padding-right:30px;padding-bottom:30px">
+        <img alt="Dr. Stefan Ferber" width="200" src="/InnerSourceCommons/assets/img/stefan-ferber.png"/>
+    </div>
+
+<b>Dr. Stefan Ferber</b>
+
+<p>
+Bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+</p>
+
+<p><b>Title: tbd</b></p>
+
+<p>
+Abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+</p>
+</td>
+
+<div style="clear:both;"></div>
+
+<div style="width:100%">
+    <div style="float:left;padding-right:30px;padding-bottom:30px">
+        <img alt="Dirk Riehle" width="200" src="https://www.bitkom.org/Portraits/Vorstaende-Gremien/ECM/Dirk-Riehle-340%20x%20454.png"/>
+    </div>
+
+<b>Prof. Dr. Dirk Riehle</b>
+<p>
+Prof. Dr. Dirk Riehle, M.B.A., is the Professor of Open Source Software at the Friedrich-Alexander University of Erlangen-Nürnberg. Before joining academia, Riehle led the Open Source Research Group at SAP Labs, LLC, in Palo Alto, California (Silicon Valley). Riehle founded the Open Symposium, now the international conference on open collaboration. He was also the lead architect of the first UML virtual machine. He is interested in open source and inner source software engineering, agile software development methods, complexity science and human collaboration, and software system architecture, design, and implementation. Prof. Riehle holds a Ph.D. in computer science from ETH Zürich and an M.B.A. from Stanford Graduate School of Business. He welcomes email at dirk@riehle.org, blogs at http://dirkriehle.com, and tweets as @dirkriehle.
+</p>
+
+<p>
+<b>Ten years of inner source case studies and our conclusions</b>
+</p>
+
+<p>
+In 2006, I introduced inner source to SAP. After becoming a professor, my group helped further companies introduce inner source. Using three generations of projects, we report about our experiences and how we turn those into a practical handbook for inner source governance.
+</p>
+</div>
+
+<div style="clear:both;"></div>
+
+<div style="width:100%">
+    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
+        <img alt="Lauri Apple" width="200" src="/InnerSourceCommons/assets/img/lauri-apple.jpg"/>
+    </div>
+
+<b>Lauri Apple</b>
+
+<p>
+Based in Dublin, Ireland, Lauri Apple is senior program manager with Workday's public cloud team, and the creator of the Awesome Leadership and Management List and Feedmereadmes. Before joining Workday she was the open source evangelist and an agile coach/project manager at Zalando in Berlin, Germany, and the tech evangelist at Gilt Groupe in New York City. Her life before technology included stints as a journalist, blogger and media strategist. She graduated from the Benjamin N. Cardozo School of Law, focusing on IP.
+</p>
+
+<p>
+<b>Building Trust with Intentional Relationship Design</b>
+</p>
+
+<p>
+Disagreements and misunderstandings are common even in the most high-performing organizations. Fortunately, a potential solution offers us a path forward from vagueness and confusion: intentional relationship design. Taken from the therapeutic profession, IRD enables us to establish clarity in our work relationships early on so we can avoid conflict later. In this talk, I'll show how you can use it to establish expectations, set boundaries and uncover communication preferences to build trust and harmony—especially as your teams aim to InnerSource.
+</p>
+</div>
+
+<div style="clear:both;"></div>
+
+<div style="width:100%">
+    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
+        <img alt="Karsten Gerloff" width="200" src="/InnerSourceCommons/assets/img/karsten-gerloff.jpg"/>
+    </div>
+
+<b>Karsten Gerloff</b>
+
+<p>
+Having worked at the intersection of technology, policy and law for more than a decade, Karsten Gerloff is helping Siemens make use of the full potential of Open Source Software. Before joining Siemens in 2015, he worked for six years as president of the Free Software Foundation Europe (https://fsfe.org), where he focused on European technology policy and advocacy. At the United Nations University in Maastricht (The Netherlands), he researched the social and economic implications of Open Source Software.
+</p>
+
+<p><b>Committing (to) change: The Siemens Software Management System</b></p>
+
+<p>
+The Siemens Inner Source platform started as a way for one division to maintain a standard stack across its product range. From these beginnings, it quickly grew into something much bigger: A state-of-the-art development environment, a tool to build platforms within the company. It also became a highly visible example for a collaborative, agile way of working within Siemens. In this keynote, we will review the platform´s history and the key reasons for its success so far, as well as challenges past and present.
+</p>
+
+
+
 
 ### What is InnerSource?
 InnerSource takes the lessons learned from developing open source software and applies them to the way companies develop software internally. As developers have become accustomed to working on world class open source software, there is a strong desire to bring those practices back inside the firewall and apply them to software that companies may be reluctant to release. For companies building mostly closed source software, InnerSource can be a great tool to help break down silos, encourage internal collaboration, accelerate new engineer on-boarding, and identify opportunities to contribute software back to the open source world.
