@@ -126,6 +126,10 @@ This Summit is hosted by Robert Bosch GmbH on the research campus in Renningen.
 
 <img alt="Renningen" width="600" src="/InnerSourceCommons/assets/img/renningen.png"/>
 
+### Food
+
+Morning snack, lunch and afternoon snack will be provided to Summit attendees each day, courtsey of Bosch.
+
 ### How do I register?
 
 *Registration will open, soon*. The registration fee will be **27.37 EUR**. We will donate all proceedings to a non-profit organisation which we will nominate at a later point in time.
