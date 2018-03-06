@@ -31,6 +31,8 @@ This Summit will be hosted by CA Technologies at their facility at 1 Computer As
 
 Parking for attendees is available on the south side of the building, in lots 1 and 2.
 
+<img alt="CA Islandia" width="600" src="/InnerSourceCommons/assets/img/ca_islandia.jpg"/>
+
 ### Travel and Transit
 
 The facility is accessible to any of [JFK](https://www.airport-jfk.com/), [LaGuardia](https://www.laguardiaairport.com/#/), or [Macarthur](http://www.macarthurairport.com/) airports.
