@@ -7,7 +7,7 @@ title: 'InnerSource Commons Fall Summit 2018'
 
 ### Call For Presentations
 * Opens in March 2018. 
-* Speakers will be notified in April 2018.
+* Speakers will be notified in May 2018.
 
 ### Registration
 Registration opens soon. The registration fee of $25.00 will be donated to a nominated non-profit organization.
@@ -27,34 +27,49 @@ The three key reasons to attend the InnerSource Common Summits are:
 
 ### Venue
 
-This Summit will be hosted by CA Technologies at their facility at 1 Computer Associates Plaza, Islandia, NY 11749.
-
-Parking for attendees is available on the south side of the building, in lots 1 and 2.
+This Summit will be hosted by [CA Technologies](https://www.ca.com/us.html) at their facility at 1 Computer Associates Plaza, Islandia, NY, 11749.
 
 <img alt="CA Islandia" width="600" src="/InnerSourceCommons/assets/img/ca_islandia.jpg"/>
+
+Parking for attendees is available on the south side of the building, in lots 1 and 2.
 
 ### Travel and Transit
 
 The facility is accessible to any of [JFK](https://www.airport-jfk.com/), [LaGuardia](https://www.laguardiaairport.com/#/), or [Macarthur](http://www.macarthurairport.com/) airports.
 
+* From Macarthur: 18 min. drive to venue.
+[Directions.](https://maps.yahoo.com/directions/?lat=40.797827173703645&lon=-73.13585758209229&bb=40.81978527%2C-73.18482399%2C40.77592681%2C-73.08689117&o=Long%20Island%20MacArthur%20Airport%20-%20ISP%2C%20100%20Arrival%20Ave%2C%20Ste%20100%2C%20Ronkonkoma%2C%20NY%2011779&d=1%20Computer%20Associates%20Plaza%2C%20Islandia%2C%20NY%2011749)
+
+* From JFK: 1 hour 17 min. drive to venue.
+Enter JFK Expressway from N. Boundary Road.
+Take Southern State Pkwy and I-495 E to Express Drive S/Long Island Expressway South Service Rd in Hauppauge.  
+Take exit 57 from I-495 E.
+Take Long Island Motor Parkway to Computer Associates Plaza in Islandia.
+
+* From LGA: 1 hour 27 min drive to venue.
+Enter Whitestone Expressway from Ditmas Blvd.
+Take I-495 E/Long Island Expressway to Express Drive, S/Long Island Expressway South Service Rd in Hauppauge.  Take exit 57 from I-495 E/Long Island Expy.
+Take Long Island Motor Parkway/Motor Pkwy to Computer Associates Plaza in Islandia.
+
+
 ### Hotels
 
-* [Hyatt Regency Long Island](https://longisland.regency.hyatt.com/en/hotel/home.html)
+* [Hyatt Regency Long Island.](https://longisland.regency.hyatt.com/en/hotel/home.html)
 1717 Motor Parkway, Hauppauge, NY 11788.
 Tel: +1 631 784 1234.
 Approximately $149 per night.
 
-* [Hampton Inn Long Island Islandia](http://hamptoninn3.hilton.com/en/hotels/new-york/hampton-inn-long-island-islandia-ISPNYHX/index.html)
+* [Hampton Inn Long Island Islandia.](http://hamptoninn3.hilton.com/en/hotels/new-york/hampton-inn-long-island-islandia-ISPNYHX/index.html)
 1600 Veterans Memorial Hwy, Islandia, NY 11722.
 Tel: +1-631-234-0400.
 Approximately $129.00 per night.
 
-* [Hilton Garden Inn Islip](http://hiltongardeninn3.hilton.com/en/hotels/new-york/hilton-garden-inn-islip-macarthur-airport-ISPAHGI/index.html)
+* [Hilton Garden Inn Islip.](http://hiltongardeninn3.hilton.com/en/hotels/new-york/hilton-garden-inn-islip-macarthur-airport-ISPAHGI/index.html)
 3485 Veterans Memorial Highway, Ronkonkoma, NY 11779.
 Tel:: +1-631-738-7800.
 Approximately $140.00 per night.
 
-* [Courtyard MacArthur Marriott](http://www.marriott.com/hotels/travel/ispcy-courtyard-long-island-macarthur-airport/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2)
+* [Courtyard MacArthur Marriott.](http://www.marriott.com/hotels/travel/ispcy-courtyard-long-island-macarthur-airport/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2)
 5000 Express Drive South, Ronkonkoma, NY 11779.
 Tel:: +1-631-612-5000.
 Approximately $140.00 per night.
@@ -64,7 +79,7 @@ Approximately $140.00 per night.
 
 All participants, vendors, and guests at InnerSource Commons events are required to abide by the [code of conduct](/InnerSourceCommons/events/conduct/). 
 
-InnerSource Commons meetings run under the [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule): information discussed at a meeting can be shared but not attributed.
+InnerSource Commons meetings and events run under the [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule): information discussed at a meeting can be shared but not attributed.
 
-Interested in helping out? Email <summit@innersourcecommons.org> or speak up on the [#innersourcecommons](https://isc-inviter.herokuapp.com/) slack channel!
+Interested in getting involved? Email <summit@innersourcecommons.org> or join the conversation on the [#innersourcecommons](https://isc-inviter.herokuapp.com/) slack channel!
 
