@@ -7,7 +7,7 @@ title: 'InnerSource Commons Fall Summit 2018'
 
 ### Call For Presentations
 * Opens in March 2018. 
-* Speakers will be notified in April 2018.
+* Speakers will be notified in May 2018.
 
 ### Registration
 Registration opens soon. The registration fee of $25.00 will be donated to a nominated non-profit organization.
