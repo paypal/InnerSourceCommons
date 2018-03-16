@@ -6,9 +6,9 @@ title: 'InnerSource Commons Fall Summit 2018'
 ### October 3-5, 2018 in Islandia, New York, USA
 
 ### Call For Presentations
-.
-* See the [Call For Presentations for the 2018 Fall Summit](/InnerSourceCommons/events/isc-fall-2018-cfp)
-* Notifications will take place in May 2018.
+
+See the [Call For Presentations for the 2018 Fall Summit](/InnerSourceCommons/events/isc-fall-2018-cfp).
+Notifications will take place in May 2018.
 
 ### Registration
 Registration opens soon. The registration fee of $25.00 will be donated to a nominated non-profit organization.
