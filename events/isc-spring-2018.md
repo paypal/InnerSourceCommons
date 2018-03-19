@@ -24,13 +24,15 @@ Note that all presentations given at the Summit, unless otherwise designated by 
 <b>Dr. Stefan Ferber</b>
 
 <p>
-Bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Dr. Stefan Ferber has been Chairman of the Executive Board of Bosch Software Innovations GmbH since January 1, 2018. He has direct management responsibility for product development, business development, sales & marketing as well as HR, finance & controlling. Stefan Ferber currently represents Bosch on the board of the Eclipse Foundation and is a member of the European Internet of Things Council. Stefan has more than 25 years’ experience in software development, software processes, software product lines, and software architectures for embedded systems, computer vision, and IT domains.
+
+Dr. Ferber holds an undergraduate degree and a Ph.D. in computer science from the University of Karlsruhe, Germany and an M.Sc. in computer science from the University of Massachusetts Dartmouth, USA. He is a certified ATAM lead evaluator by the Software Engineering Institute of Carnegie Mellon University, Pittsburgh, USA.
 </p>
 
-<p><b>Title: tbd</b></p>
+<p><b>Dr. Stefan Ferber</b></p>
 
 <p>
-Abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Abstract will be added, soon.
 </p>
 </td>
 
@@ -96,7 +98,223 @@ Having worked at the intersection of technology, policy and law for more than a 
 The Siemens Inner Source platform started as a way for one division to maintain a standard stack across its product range. From these beginnings, it quickly grew into something much bigger: A state-of-the-art development environment, a tool to build platforms within the company. It also became a highly visible example for a collaborative, agile way of working within Siemens. In this keynote, we will review the platform´s history and the key reasons for its success so far, as well as challenges past and present.
 </p>
 
+### Agenda
 
+#### Wednesday, May 16th
+<table class="schedule">
+    <tr>
+        <td class="time orga">08:45 - 09:00</td>
+        <td colspan="2" class="orga">
+            Opening
+        </td>
+    </tr>
+    <tr class="keynote">
+        <td class="time">09:00 - 09:30</td>
+        <td class="author">Dr. Stefan Ferber <span class="affiliation">(Robert Bosch GmbH)</span></td>
+        <td class="title"><span class="keynoteTag">Keynote:</span> ... Coming, soon</td>
+    </tr>
+    <tr class="break">
+        <td class="time">09:30 - 10:15</td>
+        <td colspan="2">Coffe Break</td>
+    </tr>
+     <tr class="talk">
+        <td class="time">09:30 - 10:15</td>
+        <td class="author">Danese Cooper <span class="affiliation">(PayPal)</span> </td>
+        <td class="title">Why InnerSource matters</td>
+    </tr>
+    <tr class="casestudy">
+        <td class="time">10:45 - 11:30</td>
+        <td>Russel Rutledge <span class="affiliation">(Nike)</span></td>
+        <td>Growing an InnerSource Program</td>
+    </tr>
+    <tr class="casestudy">
+        <td class="time">11:30 - 12:00</td>
+        <td>Sugjin Lee<span class="affiliation">(Samsung)</span></td>
+        <td>Case Study for Edge Platform InnerSource Initiative using EdgeX Foundry Open Source Project.</td>
+    </tr>
+    </tr class="break">
+        <tr>
+        <td class="time">12:00 - 13:30</td>
+        <td colspan="2">Lunch Break</td>
+    </tr>
+    <tr class="keynote">
+        <td class="time">13:30 - 14:15</td>
+        <td>Prof. Dr. Dirk Riehle <span class="affiliation">(FAU Erlangen)</span></td>
+        <td><span class="keynoteTag">Keynote: </span>Ten years of InnerSource case studies and our conclusions</td>
+    </tr>
+    <tr class="talk">
+        <td class="time">14:15 - 15:15</td>
+        <td colspan="2">Poster Sessions</td>
+    </tr>
+    <tr class="break">
+        <td class="time">15:15 - 15:45</td>
+        <td colspan="2">Coffe Break</td>
+    </tr>
+    <tr class="talk">
+        <td class="time">15:45 - 16:15</td>
+        <td class="author">Michael Dorner <span class="affiliation">(FAU Erlangen></span></td>
+        <td class="title">Mine InnerSource best practices from Open Source</td>
+    </tr>
+    <tr class="metrics">
+        <td class="time">16:15 - 17:00</td>
+        <td class="author">Daniel Izquierdo <span class="affiliation">(Bitergia)</span></td>
+        <td class="title">Defining a metrics strategy and measuring collaboration</td>
+    </tr>
+    <tr class="metrics">
+        <td class="time">17:00 - 17:30</td>
+        <td class="author">Maximilian Capraro <span class="affiliation">(FAU Erlangen)</span></td>
+        <td class="title">The Patch-Flow Method - For Measuring InnerSource Collaboration</td>
+    </tr>
+    <tr class="orga">
+        <td class="time">17:30 - 17:45</td>
+        <td colspan="2">Closing</td>
+    </tr>
+    <tr class="orga">
+        <td class="time">19:00 - 22:00</td>
+        <td colspan="2">Social Event</td>
+    </tr>
+</table>
+
+#### Thursday, May 17th
+<table class="schedule">
+    <tr>
+        <td class="time orga">09:00 - 09:15</td>
+        <td colspan="2" class="orga">
+            Opening
+        </td>
+    </tr>
+    <tr class="keynote">
+        <td class="time">09:15 - 10:00</td>
+        <td class="author">Lauri Apple <span class="affiliation">Public Cloud</span></td>
+        <td class="title"><span class="keynoteTag">Keynote:</span> Building Trust with Intentional Relationship Design</td>
+    </tr>
+    <tr class="break">
+        <td class="time">10:00 - 10:30</td>
+        <td colspan="2">Coffe Break</td>
+    </tr>
+
+    <tr class="casestudy">
+        <td class="time">10:30 - 11:00</td>
+        <td class="author">Rekha Joshi <span class="affiliation">(Intuit Inc.)</span></td>
+        <td class="title">Scaling Organizations with InnerSource</td>
+    </tr>
+
+    <tr class="casestudy">
+        <td class="time">11:00 - 11:30</td>
+        <td class="author">Ori Orenbach <span class="affiliation">(Amdocs)</span></td>
+        <td class="title">Inner Source our Cloud Native Enterprise platform to make a cultural game changer</td>
+    </tr>
+
+    <tr class="talk">
+        <td class="time">11:30 - 12:00</td>
+        <td class="author">
+            Erin Bank <span class="affiliation">(Computer Associates)</span></br>
+            Danese Cooper <span class="affiliation">(PayPal)</span></br>
+            Georg Gr&uuml;tter <span class="affiliation">(Robert Bosch GmbH)</span></br>
+            Russel Rutledge <span class="affiliation">(Nike)</span>
+        </td>
+        <td class="title">Panel: Setting Your InnerSource Journey Up For Failure</td>
+    </tr>
+
+    </tr class="break">
+        <tr>
+        <td class="time">12:00 - 13:30</td>
+        <td colspan="2">Lunch Break</td>
+    </tr>
+
+    <tr class="patterns">
+        <td class="time">13:30 - 14:00</td>
+        <td class="author">Erin Bank <span class="affiliation">(Computer Associates)</span></td>
+        <td class="title">InnerSource Patterns (Part 1): Together we can build the roadmap for success!</td>
+    </tr>
+
+    <tr class="patterns">
+        <td class="time">14:00 - 14:30</td>
+        <td class="author">Tim Yao <span class="affiliation">(Nokia)</span></td>
+        <td class="title">Thoughts on an InnerSource Pattern Language</td>
+    </tr>
+
+    <tr class="orga">
+        <td class="time">15:00 - 15:15</td>
+        <td colspan="2">Closing</td>
+    </tr>
+
+    <tr class="orga">
+        <td class="time">15:20 - 19:00</td>
+        <td colspan="2">Special Event</td>
+    </tr>
+
+</table>
+
+#### Friday, May 18th
+<table class="schedule">
+    <tr>
+        <td class="time orga">09:00 - 09:15</td>
+        <td colspan="2" class="orga">
+            Opening
+        </td>
+    </tr>
+    <tr class="keynote">
+        <td class="time">09:15 - 10:00</td>
+        <td class="author">Karsten Gerloff <span class="affiliation">(Siemens)</span></td>
+        <td class="title"><span class="keynoteTag">Keynote: </span>Karsten Gerloff: Committing (to) change: The Siemens Software Management System</td>
+    </tr>
+    <tr class="break">
+        <td class="time">10:00 - 10:30</td>
+        <td colspan="2">Coffee Break</td>
+    </tr>
+     <tr class="casestudy">
+        <td class="time">10:30 - 11:00</td>
+        <td class="author">Robert Hansel <span class="affiliation">(Robert Bosch GmbH)</span> </td>
+        <td class="title">Hack Your Desktop - An InnerSource Approach For The Developer Desktop at Bosch</td>
+    </tr>
+      <tr class="patterns">
+        <td class="time">11:00 - 12:00</td>
+        <td>Erin Bank <span class="affiliation">(Computer Associates)</span></td>
+        <td class="title">InnerSource Patterns (Part 2): Together we can build the roadmap for success!</td>
+      </tr>
+    </tr class="break">
+        <tr>
+        <td class="time">12:00 - 13:15</td>
+        <td colspan="2">Lunch Break</td>
+    </tr>
+    <tr class="talk">
+        <td class="time">13:15 - 13:45</td>
+        <td>Daniel Itzquierdo <span class="affiliation">(Bitergia)</span></td>
+        <td><span class="keynoteTag">Keynote: </span>Ten years of InnerSource case studies and our conclusions</td>
+    </tr>
+    <tr class="talk">
+        <td class="time">13:45 - 14:15</td>
+        <td>Maximilian Capraro <span class="affiliation">(FAU Erlangen)</span></td>
+        <td>A Classification Framework for InnerSource Projects and Programs</td>
+    </tr>
+    <tr class="metrics">
+        <td class="time">14:15 - 14:45</td>
+        <td>Israel Herraiz <span class="affiliation">(BBVH)</span></td>
+        <td>Notebooks are not enough: How InnerSource Can Make Data Science Better</td>
+    </tr>
+
+    <tr class="break">
+        <td class="time">14:45 - 15:15</td>
+        <td colspan="2">Coffe Break</td>
+    </tr>
+    <tr class="metrics">
+        <td class="time">15:15 - 15:45</td>
+        <td class="author">
+            Johannes Nicolai <span class="affiliation">(GitHub)</span></br>
+            Marko Berkovic <span class="affiliation">(GitHub)</span></td>
+        <td class="title">Inner Source Success Metrics that satisfy upper management and do not frustrate developers</td>
+    </tr>
+    <tr class="talk">
+        <td class="time">15:45 - 16:30</td>
+        <td class="author">Russel Rutledge <span class="affiliation">(Nike)</span></td>
+        <td class="title">An Oriole for InnerSource</td>
+    </tr>
+    <tr class="orga">
+        <td class="time">16:30 - 17:15</td>
+        <td colspan="2">Closing</td>
+    </tr>
+</table>
 
 
 ### What is InnerSource?
