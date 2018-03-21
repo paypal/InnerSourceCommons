@@ -195,7 +195,7 @@ The Siemens Inner Source platform started as a way for one division to maintain 
 
     <tr class="casestudy">
         <td class="time">10:30 - 11:00</td>
-        <td class="author">Rekha Joshi <span class="affiliation">(Intuit Inc.)</span></td>
+        <td class="author">Rekha Joshi <span class="affiliation">(Microsoft)</span></td>
         <td class="title">Scaling Organizations with InnerSource</td>
     </tr>
 
