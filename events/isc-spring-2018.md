@@ -185,7 +185,7 @@ The Siemens Inner Source platform started as a way for one division to maintain 
     </tr>
     <tr class="keynote">
         <td class="time">09:15 - 10:00</td>
-        <td class="author">Lauri Apple <span class="affiliation">Public Cloud</span></td>
+        <td class="author">Lauri Apple <span class="affiliation">Workday</span></td>
         <td class="title"><span class="keynoteTag">Keynote:</span> Building Trust with Intentional Relationship Design</td>
     </tr>
     <tr class="break">
