@@ -26,8 +26,6 @@ Dr. Stefan Ferber has been Chairman of the Executive Board of Bosch Software Inn
 Dr. Ferber holds an undergraduate degree and a Ph.D. in computer science from the University of Karlsruhe, Germany and an M.Sc. in computer science from the University of Massachusetts Dartmouth, USA. He is a certified ATAM lead evaluator by the Software Engineering Institute of Carnegie Mellon University, Pittsburgh, USA.
 </p>
 
-<p><b>Dr. Stefan Ferber</b></p>
-
 <p>
 Abstract will be added, soon.
 </p>
@@ -97,9 +95,10 @@ The Siemens Inner Source platform started as a way for one division to maintain 
 
 <div markdown="1">
 
-### Agenda
+### Agenda and speakers
 
 [See the agenda](/InnerSourceCommons/events/isc-spring-2018-agenda)
+[See all our speakers](/InnerSourceCommons/events/isc-spring-2018-speakers)
 
 ### What is InnerSource?
 
@@ -134,11 +133,11 @@ This Summit is hosted by Robert Bosch GmbH on the research campus in Renningen.
 
 ### Food
 
-Morning snack, lunch and afternoon snack will be provided to Summit attendees each day, courtsey of Bosch.
+Morning snack, lunch and afternoon snack will be provided to Summit attendees each day, courtesy of Robert Bosch.
 
 ### How do I register?
 
-*Registration will open, soon*. The registration fee will be **27.37 EUR**. We will donate all proceedings to a non-profit organisation which we will nominate at a later point in time.
+*Registration will open, soon*. The registration fee will be **27.37 EUR**. We will donate all proceeds to the Apache Foundation in recognition of their work in the Open Source world. 
 
 ### Travel and Transit
 
