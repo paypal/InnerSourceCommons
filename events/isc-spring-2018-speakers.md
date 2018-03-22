@@ -246,7 +246,7 @@ m Jagielski is a well known and acknowledged expert and visionary in Open Source
 
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
-        <img alt="" width="200" src="/InnerSourceCommons/assets/img/profile-pic-placeholder.png"/>
+        <img alt="Rekha Joshi" width="200" src="/InnerSourceCommons/assets/img/profile-pic-placeholder.png"/>
     </div>
 
     <b>Rekha Joshi</b>
