@@ -97,8 +97,7 @@ The Siemens Inner Source platform started as a way for one division to maintain 
 
 ### Agenda and speakers
 
-[See the agenda](/InnerSourceCommons/events/isc-spring-2018-agenda)
-[See all our speakers](/InnerSourceCommons/events/isc-spring-2018-speakers)
+See the [agenda](/InnerSourceCommons/events/isc-spring-2018-agenda) and see all [our speakers](/InnerSourceCommons/events/isc-spring-2018-speakers)
 
 ### What is InnerSource?
 
