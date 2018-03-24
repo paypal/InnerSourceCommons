@@ -10,6 +10,8 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Atom Feed (Styled)</title>
 	<link rel="stylesheet" type="text/css" href="/InnerSourceCommons/assets/css/styles_feeling_responsive.css">
+    <link rel="stylesheet" type="text/css" href="/InnerSourceCommons/assets/css/style.css">
+
 	<script src="/InnerSourceCommons/assets/js/modernizr.min.js"></script>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
