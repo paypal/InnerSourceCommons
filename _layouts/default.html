@@ -5,6 +5,7 @@ layout: compress
 <html class="no-js" lang="{% if site.language == nil %}en{% else %}{{ site.language }}{% endif %}">
 <head>
 	{% include _head.html %}
+    {% include isc.s6/isc.s6.css %}
 </head>
 <body id="top-of-page" class="{{ page.format }}">
 	{% unless page.skip_boilerplate %}
