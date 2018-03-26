@@ -81,6 +81,20 @@ Marko is passionate about the power of software, how it is improving our lives, 
 
 <div style="clear:both;"></div>
 
+<a name="clint_cain">&nbsp;</a>
+<hr/>
+<div style="width:100%">
+    <div style="float:left;padding-right:30px;padding-bottom:30px">
+        <img alt="Clint Cain" width="200" src="/InnerSourceCommons/assets/img/profile-pic-placeholder.png"/>
+    </div>
+
+    <b>Clint Cain</b>
+    <p>
+Clint Cain is the Solution Architect / Technical Consultant & InnerSource Lead for his team at Optum.  Clint has played many roles in IT from support, to project management, to software architect/developer for over 18yrs. Clint has always been an advocate for collaboration with a quality first approach and a get it right the first time attitude. He is currently working with an internal Front-End Pattern library where he is building a community surrounding the project based on contribution and collaboration using innerSource. Clint drives the conversation on innerSource for those parts of the project and those interested as he spearheads specific technical details which influence the final product.
+    </p>
+</div>
+
+<div style="clear:both;"></div>
 
 <a name="maximilian_capraro">&nbsp;</a>
 <hr/>
@@ -133,10 +147,10 @@ Michael Dorner, M.Sc., is a researcher and a PhD candidate at the Professorship 
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
-        <img alt="Dr. Stefan Ferber" width="200" src="/InnerSourceCommons/assets/img/stefan-ferber.png"/>
+        <img alt="Stefan Ferber" width="200" src="/InnerSourceCommons/assets/img/stefan-ferber.png"/>
     </div>
 
-    <b>Dr. Stefan Ferber</b>
+    <b>Stefan Ferber</b>
     <p>
 Dr. Stefan Ferber has been Chairman of the Executive Board of Bosch Software Innovations GmbH since January 1, 2018. He has direct management responsibility for product development, business development, sales & marketing as well as HR, finance & controlling. Stefan Ferber currently represents Bosch on the board of the Eclipse Foundation and is a member of the European Internet of Things Council. Stefan has more than 25 years’ experience in software development, software processes, software product lines, and software architectures for embedded systems, computer vision, and IT domains.
 
@@ -246,12 +260,12 @@ m Jagielski is a well known and acknowledged expert and visionary in Open Source
 
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
-        <img alt="Rekha Joshi" width="200" src="/InnerSourceCommons/assets/img/profile-pic-placeholder.png"/>
+        <img alt="Rekha Joshi" width="200" src="/InnerSourceCommons/assets/img/rekha-joshi.jpg"/>
     </div>
 
     <b>Rekha Joshi</b>
     <p>
-    Bio coming, soon
+Rekha Joshi is a Principal Engineer for Cloud and AI Platforms at Microsoft, where she is responsible for architecture and implementation of large-scale intelligent distributed platform solutions. Previously, she has delivered large-scale personalized solutions for Intuit and for internet scale at Yahoo!. Rekha has worked in diverse domains of finance, advertising, supply chain, AI and research. Her refueling stops include reading Issac Asimov, Richard Feynman, PG Wodehouse and stalking Elon Musk.
     </p>
 </div>
 
@@ -331,7 +345,7 @@ I am a development manager of a technology foundations group at Amdocs, developi
         <img alt="Dirk Riehle" width="200" src="https://www.bitkom.org/Portraits/Vorstaende-Gremien/ECM/Dirk-Riehle-340%20x%20454.png"/>
     </div>
 
-    <b>Prof. Dr. Dirk Riehle</b>
+    <b>Dirk Riehle</b>
     <p>
 Prof. Dr. Dirk Riehle, M.B.A., is the Professor of Open Source Software at the Friedrich-Alexander University of Erlangen-Nürnberg. Before joining academia, Riehle led the Open Source Research Group at SAP Labs, LLC, in Palo Alto, California (Silicon Valley). Riehle founded the Open Symposium, now the international conference on open collaboration. He was also the lead architect of the first UML virtual machine. He is interested in open source and inner source software engineering, agile software development methods, complexity science and human collaboration, and software system architecture, design, and implementation. Prof. Riehle holds a Ph.D. in computer science from ETH Zürich and an M.B.A. from Stanford Graduate School of Business. He welcomes email at dirk@riehle.org, blogs at http://dirkriehle.com, and tweets as @dirkriehle.
     </p>
@@ -344,7 +358,7 @@ Prof. Dr. Dirk Riehle, M.B.A., is the Professor of Open Source Software at the F
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
-        <img alt="Russ Rutledge" width="200" src="/InnerSourceCommons/assets/img/profile-pic-placeholder.png"/>
+        <img alt="Russ Rutledge" width="200" src="/InnerSourceCommons/assets/img/russ-rutledge.jpeg"/>
     </div>
 
     <b>Russ Rutledge</b>
@@ -357,6 +371,19 @@ Prior to this role Russ ran another successful startup delivering JavaScript con
 
 <div style="clear:both;"></div>
 
+<a name="klaas_jan_stol">&nbsp;</a>
+<hr/>
+<div style="width:100%">
+    <div style="float:left;padding-right:30px;padding-bottom:30px">
+        <img alt="Klaas-Jan Stol" width="200" src="https://pbs.twimg.com/profile_images/684093359728766976/j3uRHsVw.jpg"/>
+    </div>
+
+    <b>Klaas-Jan Stol</b>                                                        
+    <p>                                                                         
+Dr. Klaas-Jan Stol is a Lecturer with the School of Computer Science and Technology at University College Cork. Previously he worked as a Research Fellow with Lero—the Irish Software Research Centre. He holds a PhD in software engineering from the University of Limerick on Open and InnerSource. He conducts research on contemporary software development methods and strategies, including InnerSource, Open Source, crowdsourcing, and agile and lean methods. His work on InnerSource has been published in several top journals and magazines including ACM Transactions on Software Engineering and Methodology and IEEE Transactions on Software Engineering. In a previous life, he was a contributor to the Perl 6 open source project.  </p>                                                                        
+</div>
+
+<div style="clear:both;"></div>
 
 <a name="kristof_van_tomme">&nbsp;</a>
 <hr/>
