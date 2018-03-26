@@ -153,7 +153,15 @@ title: 'InnerSource Commons Spring Summit 2018 Agenda'
 
     <tr >
         <td class="time">13:30 - 14:00</td>
-        <td class="author"><a href="/InnerSourceCommons/events/isc-spring-2018-speakers#erin_bank">Erin Bank</a> <span class="affiliation">(Computer Associates)</span></td>
+        <td class="author">
+            <a href="/InnerSourceCommons/events/isc-spring-2018-speakers#erin_bank">Erin Bank</a> <span class="affiliation">(Computer Associates)</span><br/>
+            <a href="/InnerSourceCommons/events/isc-spring-2018-speakers#clint_cain">Clint Cain</a> <span class="affiliation">(Optum)</span><br/>
+            <a href="/InnerSourceCommons/events/isc-spring-2018-speakers#daniel_izquierdo">Daniel Izquierdo</a> <span class="affiliation">(Bitergia)</span><br/>
+            <a href="/InnerSourceCommons/events/isc-spring-2018-speakers#georg_gruetter">Georg Gr&uuml;tter</a> <span class="affiliation">(Robert Bosch)</span><br/>
+            <a href="/InnerSourceCommons/events/isc-spring-2018-speakers#russel_rutledge">Russ Rutledge</a> <span class="affiliation">(Nike)</span><br/>
+            <a href="/InnerSourceCommons/events/isc-spring-2018-speakers#klaas_jan_stol">Klaas-Jan Stol</a> <span class="affiliation">(University College Cork)</span><br/>
+            <a href="/InnerSourceCommons/events/isc-spring-2018-speakers#tim_yao">Tim Yao</a> <span class="affiliation">(Nokia)</span>
+        </td>
         <td class="title">InnerSource Patterns (Part 1): Together we can build the roadmap for success!</td>
     </tr>
 
