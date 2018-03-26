@@ -6,7 +6,7 @@ title: 'InnerSource Commons Spring Summit 2018'
 
 ### Registration is now open 
 
-Please [register now]() for the 6th InnerSource Commons. We will donate the
+Please [register now](https://www.eventbrite.com/e/6th-innersource-commons-summit-tickets-42722496136) for the 6th InnerSource Commons. We will donate the
 conference proceeds to the [Apache Software Foundation](http://apache.org).
 
 ### Agenda and speakers
