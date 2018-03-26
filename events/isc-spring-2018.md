@@ -2,16 +2,18 @@
 layout: page
 title: 'InnerSource Commons Spring Summit 2018'
 ---
-
 ### May 16-18 Wed-Fri near Stuttgart, Germany
 
-### Call For Presentations
+### Registration is now open 
 
-The call for presentations has concluded on Feb. 28th.
+Please [register now]() for the 6th InnerSource Commons. We will donate the
+conference proceeds to the [Apache Software Foundation](http://apache.org).
 
-Note that all presentations given at the Summit, unless otherwise designated by the presenter, will be covered by [the Chatham House Rule](https://www.chathamhouse.org/about/chatham-house-rule).
+### Agenda and speakers
 
-### Keynote Speakers
+See the [agenda](/InnerSourceCommons/events/isc-spring-2018-agenda) and see all [our speakers](/InnerSourceCommons/events/isc-spring-2018-speakers)
+
+### Our Keynote Speakers
 
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
@@ -94,10 +96,6 @@ The Siemens Inner Source platform started as a way for one division to maintain 
 </p>
 
 <div markdown="1">
-
-### Agenda and speakers
-
-See the [agenda](/InnerSourceCommons/events/isc-spring-2018-agenda) and see all [our speakers](/InnerSourceCommons/events/isc-spring-2018-speakers)
 
 ### What is InnerSource?
 
