@@ -134,10 +134,6 @@ This Summit is hosted by Robert Bosch GmbH on the research campus in Renningen.
 
 Morning snack, lunch and afternoon snack will be provided to Summit attendees each day, courtesy of Robert Bosch.
 
-### How do I register?
-
-*Registration will open, soon*. The registration fee will be **27.37 EUR**. We will donate all proceeds to the Apache Foundation in recognition of their work in the Open Source world. 
-
 ### Travel and Transit
 
 * The closest Airport is Stuttgart (EDDS / STR), about 30 minutes from the summit location.
