@@ -2,16 +2,18 @@
 layout: page
 title: 'InnerSource Commons Spring Summit 2018'
 ---
-
 ### May 16-18 Wed-Fri near Stuttgart, Germany
 
-### Call For Presentations
+### Registration is now open 
 
-The call for presentations has concluded on Feb. 28th.
+Please [register now](https://www.eventbrite.com/e/6th-innersource-commons-summit-tickets-42722496136) for the 6th InnerSource Commons. We will donate the
+conference proceeds to the [Apache Software Foundation](http://apache.org).
 
-Note that all presentations given at the Summit, unless otherwise designated by the presenter, will be covered by [the Chatham House Rule](https://www.chathamhouse.org/about/chatham-house-rule).
+### Agenda and speakers
 
-### Keynote Speakers
+See the [agenda](/InnerSourceCommons/events/isc-spring-2018-agenda) and see all [our speakers](/InnerSourceCommons/events/isc-spring-2018-speakers)
+
+### Our Keynote Speakers
 
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
@@ -95,10 +97,6 @@ The Siemens Inner Source platform started as a way for one division to maintain 
 
 <div markdown="1">
 
-### Agenda and speakers
-
-See the [agenda](/InnerSourceCommons/events/isc-spring-2018-agenda) and see all [our speakers](/InnerSourceCommons/events/isc-spring-2018-speakers)
-
 ### What is InnerSource?
 
 InnerSource takes the lessons learned from developing open source software and applies them to the way companies develop software internally. As developers have become accustomed to working on world class open source software, there is a strong desire to bring those practices back inside the firewall and apply them to software that companies may be reluctant to release. For companies building mostly closed source software, InnerSource can be a great tool to help break down silos, encourage internal collaboration, accelerate new engineer on-boarding, and identify opportunities to contribute software back to the open source world.
@@ -133,10 +131,6 @@ This Summit is hosted by Robert Bosch GmbH on the research campus in Renningen.
 ### Food
 
 Morning snack, lunch and afternoon snack will be provided to Summit attendees each day, courtesy of Robert Bosch.
-
-### How do I register?
-
-*Registration will open, soon*. The registration fee will be **27.37 EUR**. We will donate all proceeds to the Apache Foundation in recognition of their work in the Open Source world. 
 
 ### Travel and Transit
 
