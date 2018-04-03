@@ -29,7 +29,15 @@ Dr. Ferber holds an undergraduate degree and a Ph.D. in computer science from th
 </p>
 
 <p>
-Abstract will be added, soon.
+Today, we know that InnerSource is a great way to efficiently develop software by leveraging communities that transcend organizational and geographical boundaries aka silos. We also know now, that InnerSource is an excellent segway into true Open Source development for companies lacking a software DNA. Back when Bosch started with InnerSource, there was not enough technical, legal, collaboration, social, and commercial experience within Bosch to start open source right away.  
+
+Getting an InnerSource initiative off the ground in such a setting is challenging. Stefan will go back to the origins of InnerSource at Bosch and share the surprising story of how he managed convince upper management to engage in InnerSource using rather unconventional means.  This included three key elements: 
+
+1)  start with InnerSource first and not with open source right away, 
+2)  start with tooling (here Eclipse IDE for automotive) and not with the Bosch products
+3)  start with “capturing the nations flag” and not with slides
+
+Now Stefan is proud that Bosch is active contributing to Eclipse Internet of Things projects.
 </p>
 </td>
 
