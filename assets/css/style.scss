@@ -5,13 +5,13 @@
 
 td {margin:0px; padding: 5px; text-align:left}
 
-.time { color:black }
+.time { color:black; width: 12% }
 
-.author { }
+.author { width: 25% }
 
 .affiliation { font-size: 0.8em }
 
-.title { font-style:italic}
+.title { font-style:italic; width: 50% }
 
 .schedule { width: 90% }
 
@@ -30,6 +30,11 @@ td {margin:0px; padding: 5px; text-align:left}
 .metrics { background: #A1FFC9 }
 
 .patterns { background: #4DB278  }
+
+.abstract { padding-top: 10px; font-style:italic; font-size: 1em }
+
+.abstract-toggle { padding-left: 10px }
+
 
 td.headerrow {
     text-align: center;

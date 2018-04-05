@@ -33,9 +33,11 @@ Today, we know that InnerSource is a great way to efficiently develop software b
 
 Getting an InnerSource initiative off the ground in such a setting is challenging. Stefan will go back to the origins of InnerSource at Bosch and share the surprising story of how he managed convince upper management to engage in InnerSource using rather unconventional means.  This included three key elements: 
 
-1)  start with InnerSource first and not with open source right away, 
-2)  start with tooling (here Eclipse IDE for automotive) and not with the Bosch products
-3)  start with “capturing the nations flag” and not with slides
+<ol>
+<li>start with InnerSource first and not with open source right away, </li>
+<li>start with tooling (here Eclipse IDE for automotive) and not with the Bosch products and</li>
+<li>start with “capturing the nations flag” and not with slides.</li>
+</ol>
 
 Now Stefan is proud that Bosch is active contributing to Eclipse Internet of Things projects.
 </p>
@@ -129,10 +131,10 @@ The three key reasons to attend the InnerSource Common Summits are:
 
 This Summit is hosted by Robert Bosch GmbH on the research campus in Renningen.
 
-    Robert Bosch GmbH
-    Robert-Bosch-Campus 1
-    71272 Renningen
-    Germany
+Robert Bosch GmbH<br/>
+Robert-Bosch-Campus 1<br/>
+71272 Renningen<br/>
+Germany<br/>
 
 <img alt="Renningen" width="600" src="/InnerSourceCommons/assets/img/renningen.png"/>
 
@@ -161,22 +163,21 @@ Also very close to public transportation to Stuttgart city centre.
 
 **Contact:**
 
-> Holiday Inn Stuttgart<br/>
-> Mittlerer Pfad 25-27<br/>
-> 70499 Stuttgart<br/>
-> +49 711 988880<br/>
-
-> [http://histuttgart.de](http://www.histuttgart.de/)<br/>
-> [info@histuttgart.de](mailto:info@histuttgart.de)<br/>
+Holiday Inn Stuttgart<br/>
+Mittlerer Pfad 25-27<br/>
+70499 Stuttgart<br/>
++49 711 988880<br/>
+[http://histuttgart.de](http://www.histuttgart.de/)<br/>
+[info@histuttgart.de](mailto:info@histuttgart.de)<br/>
 
 - [Find it in Google Maps](https://www.google.de/maps/place/Holiday+Inn+Stuttgart/@48.821247,9.0918303,17z/data=!3m1!4b1!4m5!3m4!1s0x4799da2088ce7b5f:0x83dd99418907dc4a!8m2!3d48.821247!4d9.094019)<br/>
-- [Get there](http://en.histuttgart.de/directions.htm)
+- [How to get there](http://en.histuttgart.de/directions.htm)
 
 #### Hotel Campo
 
 Well reviewed Hotel adjacent to summit venue (approx. 10 minutes on foot). 
 
-- Rooms **reserved until Feb. 22nd (!)**. Keyword: _InnerSource_
+- Rooms **reserved until April. 10th**. Keyword: _InnerSource_
     - 2 double rooms, deluxe, 124 EUR/night
     - 25 single rooms, superior, 114 EUR/night
     - 14 double rooms, superior, 116 EUR/night
@@ -186,20 +187,15 @@ Well reviewed Hotel adjacent to summit venue (approx. 10 minutes on foot).
 
 **Contact:**
 
-> Hotel Campo<br/>
-> Raitestraße 26<br/>
-> 71272 Renningen<br/>
-> +49 7159 939800<br/>
-
-> [info@campo-renningen.de](mailto:info@campo-renningen.de)<br/>
-> [http://www.campo-renningen.de](http://www.campo-renningen.de)<br/>
+Hotel Campo<br/>
+Raitestraße 26<br/>
+71272 Renningen<br/>
++49 7159 939800<br/>
+[info@campo-renningen.de](mailto:info@campo-renningen.de)<br/>
+[http://www.campo-renningen.de](http://www.campo-renningen.de)<br/>
 
 - [Find it in Google Maps](https://www.google.de/maps/place/Hotel+Campo/@48.7803301,8.923918,17z/data=!3m1!4b1!4m5!3m4!1s0x479763d4db745a11:0x795309d67965653a!8m2!3d48.7803301!4d8.9261066)<br/>
 - [Get there](http://www.campo-renningen.de/en/hotel/location)
-
-### Area Highlights
-
-* *coming soon*
 
 ### [Code of Conduct](/InnerSourceCommons/events/conduct/)
 
