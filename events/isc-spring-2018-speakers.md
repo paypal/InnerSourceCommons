@@ -56,7 +56,7 @@ Erin Bank has 20 years of experience in engineering program management and techn
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
-        <img alt="Adam Baratz" width="200" src="/InnerSourceCommons/assets/img/profile-pic-placeholder.png"/>
+        <img alt="Adam Baratz" width="200" src="/InnerSourceCommons/assets/img/adam-barratz.jpg"/>
     </div>
 
     <b>Adam Baratz</b>
@@ -211,7 +211,7 @@ Robert is a founding member of the Social Coding Initiative at Bosch, in which h
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
-        <img alt="Israel Herraiz" width="200" src="/InnerSourceCommons/assets/img/profile-pic-placeholder.png"/>
+        <img alt="Israel Herraiz" width="200" src="/InnerSourceCommons/assets/img/israel_herraiz.jpg"/>
     </div>
 
     <b>Israel Herraiz</b>
