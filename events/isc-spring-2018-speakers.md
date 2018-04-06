@@ -184,7 +184,7 @@ Having worked at the intersection of technology, policy and law for more than a 
 
     <b>Georg Gr&uuml;tter</b>
     <p>
-Georg Gr&uuml;tter is a Senior Expert at Bosch Corporate Research and a founding member of the InnerSource activities at Bosch. He is driving the adoption of InnerSource within Bosch as an evangelist and as a developer since 2009. Georg is also a passionate software craftsman with over 30 years of experience. Previously, he worked for Daimler Chrysler as a researcher, the Zurich System House as a software engineer, and the Line Information GmbH as a consultant. Georg has created two open source projects, [XHSI](http://xhsi.sourceforge.net) and [stashNotifier](https://github.com/jenkinsci/stashnotifier-plugin). He is an avid recumbent cyclist, mountainbiker, stargazer and generally collects way too many hobbies.
+Georg Gr&uuml;tter is a Senior Expert at Bosch Corporate Research and a founding member of the InnerSource activities at Bosch. He is driving the adoption of InnerSource within Bosch as an evangelist and as a developer since 2009. Georg is also a passionate software craftsman with over 30 years of experience. Previously, he worked for Daimler Chrysler as a researcher, the Zurich System House as a software engineer, and the Line Information GmbH as a consultant. Georg has created two open source projects, <a href="http://xhsi.sourceforge.net" alt="XHSI">XHSI</a> and <a href="https://github.com/jenkinsci/stashnotifier-plugin" alt="stashNotifier">stashNotifier</a>. He is an avid recumbent cyclist, mountainbiker, stargazer and generally collects way too many hobbies.
     </p>
 </div>
 
