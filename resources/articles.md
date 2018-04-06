@@ -8,6 +8,12 @@ Below is a historical list of various blog posts, talks, articles, and presentat
 
 Note: This is in the process of being migrated from http://www.inner-sourcing.com/wiki/inner-source-wiki/
 
+2018:
+
+* [Apr 4, 2018] [Inner Sourcing: What's this?](https://engineering.salesforce.com/inner-sourcing-whats-this-ef2220ae59ec)
+* [Apr 4, 2018] [Inner Sourcing: The Mechanics](https://engineering.salesforce.com/inner-sourcing-the-mechanics-c0b1421230fd)
+* [Apr 4, 2018] [Inner Sourcing: The Ups and Downs](https://engineering.salesforce.com/inner-sourcing-the-ups-and-downs-3d443d5417b9)
+
 2016:
 
 * [Nov, 2016] [All Companies Are Tech Companies: How Open Source and InnerSource are changing the IT landscape](http://opensource.cioreview.com/cxoinsight/all-companies-are-tech-companies-how-open-source-and-innersource-are-changing-the-it-landscape-nid-23378-cid-92.html)
