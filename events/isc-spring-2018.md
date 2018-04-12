@@ -142,6 +142,7 @@ Germany<br/>
 
 <img alt="Renningen" width="600" src="/InnerSourceCommons/assets/img/renningen.png"/>
 
+
 ### Food
 
 Morning snack, lunch and afternoon snack will be provided to Summit attendees each day, courtesy of Robert Bosch.
@@ -149,7 +150,12 @@ Morning snack, lunch and afternoon snack will be provided to Summit attendees ea
 ### Travel and Transit
 
 * The closest Airport is Stuttgart (EDDS / STR), about 30 minutes from the summit location.
-* If you should arrive at Frankfurt Main Airport (FRA), a train to Stuttgart takes approximately 1.5 hours.
+* If you should arrive at Frankfurt Main Airport (FRA), a train to Stuttgart central station takes approximately 1.5 hours.
+* Please note that services like **Uber and Lyft are not available in Germany**. Your best options for getting from the airport to the hotels or summit location are
+
+    * [public transportation](https://en.vvs.de/): Take the S3 to the main station and then the S6 to either hotel.
+    * taxi: expect a fee of 60 - 70 EUR from the airport to the hotels or the summit location
+    * rental car.
 
 ### Hotels
 
