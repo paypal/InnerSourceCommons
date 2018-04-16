@@ -9,6 +9,8 @@ title: 'InnerSource Commons Spring Summit 2018'
 Please [register now](https://www.eventbrite.com/e/6th-innersource-commons-summit-tickets-42722496136) for the 6th InnerSource Commons. We will donate the
 conference proceeds to the [Apache Software Foundation](http://apache.org).
 
+After you have registered, consider sharing your travel schedule to [help us plan activities for before and after the Summit](https://goo.gl/forms/REhxCcp8LUaYIxEV2) (e.g., meeting up for dinner, informal discussions around InnerSource and even sightseeing around Stuttgart).
+
 ### Call for posters is now open
 
 During the summit, we will perform a poster session: Participants will gather around posters and have discussions with the authors of these posters. Use [this form](https://docs.google.com/forms/d/e/1FAIpQLSe9jmvR1bhtQ8MSqXEvmYbG6tn3AkS7IL7BsMJWRpZOgH8asw/viewform?usp=sf_link) to submit a poster for the InnerSource Commons Spring Summit 2018 before <b>May 7th, 2018</b>.
