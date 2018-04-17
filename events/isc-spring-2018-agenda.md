@@ -213,7 +213,7 @@ Disagreements and misunderstandings are common even in the most high-performing 
         <td class="title">Culture Shift With InnerSource
             <span onClick="toggleAbstract('joshi-1')" class="abstract-toggle">(<a id="joshi-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="joshi-1">
-Here I share my experience with applying InnerSource at my previous employer Intuit, and how we found out how it is the most powerful way of developing, learning fast, breaking silos and scaling organization. InnerSource enables establishing open source software development best practices and open source-like culture to every internal development. You can still develop proprietary software, but internally open up its development. In this session, I share our experience how we scaled our organization using InnerSource, defining roles, metrics and practices.
+Applying InnerSource with our teams we found out how it is the most powerful way of developing, learning fast, breaking silos and scaling organization. InnerSource enables establishing open source software development best practices and open source-like culture to every internal development. You can still develop proprietary software, but internally open up its development. In this session, I share our experiences how we scaled our organization using InnerSource with roles, metrics at my previous organization Intuit, and the internal open source culture and practices at Microsoft.
             </div>
         </td>
     </tr>
