@@ -40,7 +40,7 @@ Now Stefan is proud that Bosch is active contributing to Eclipse Internet of Thi
         <td colspan="2">Coffee Break</td>
     </tr>
      <tr>
-        <td class="time">09:30 - 10:15</td>
+        <td class="time">10:15 - 10:45</td>
         <td class="author">
             <a href="/InnerSourceCommons/events/isc-spring-2018-speakers#danese_cooper">Danese Cooper</a> <span class="affiliation">(PayPal)</span><br/>
             <a href="/InnerSourceCommons/events/isc-spring-2018-speakers#jim_jagielski">Jim Jagielski</a><br/>
