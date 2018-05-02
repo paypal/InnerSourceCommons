@@ -146,9 +146,9 @@ Germany<br/>
 
 ### Food
 
-Morning snack, lunch and afternoon snack will be provided to Summit attendees each day, courtesy of Robert Bosch. ### Evening Events
+Morning snack, lunch and afternoon snack will be provided to Summit attendees each day, courtesy of Robert Bosch. 
 
-### Events
+### Evening Events
 
 - **May 16th**: Bosch will host a summit dinner on May 16th close to the venue.
 - **May 17th**: We'll visit the Bosch semiconductor fab in Reutlingen. **Note:** we can only accomodate 50 visitors! We'll prioritize external guests over Bosch employees and we'll go in the order of registrations.
@@ -159,7 +159,7 @@ Morning snack, lunch and afternoon snack will be provided to Summit attendees ea
 * If you should arrive at Frankfurt Main Airport (FRA), a train to Stuttgart central station takes approximately 1.5 hours.
 * Please note that services like **Uber and Lyft are not available in Germany**. Your best options for getting from the airport to the hotels or summit location are
 
-    * [public transportation](https://en.vvs.de/): Take the S3 to the main station and then the S6 to either hotel.
+    * [public transportation](https://en.vvs.de/): Take the S3 to the main station and then the S6 to either hotel. **Note**: tickets for the tram can be paid for with credit card, but you'll need your PIN!
     * taxi: expect a fee of 60 - 70 EUR from the airport to the hotels or the summit location
     * rental car.
 
