@@ -144,70 +144,31 @@ Germany<br/>
 
 <img alt="Renningen" width="600" src="/InnerSourceCommons/assets/img/renningen.png"/>
 
-
 ### Food
 
-Morning snack, lunch and afternoon snack will be provided to Summit attendees each day, courtesy of Robert Bosch.
+Morning snack, lunch and afternoon snack will be provided to Summit attendees each day, courtesy of Robert Bosch. 
+
+### Evening Events
+
+- **May 16th**: Bosch will host a summit dinner on May 16th close to the venue.
+- **May 17th**: We'll visit the Bosch semiconductor fab in Reutlingen. **Note:** we can only accomodate 50 visitors! We'll prioritize external guests over Bosch employees and we'll go in the order of registrations.
 
 ### Travel and Transit
+
+Detailed transit information are <a href="/InnerSourceCommons/events/isc-spring-2018-travelinfo.pdf">available here</a>.
 
 * The closest Airport is Stuttgart (EDDS / STR), about 30 minutes from the summit location.
 * If you should arrive at Frankfurt Main Airport (FRA), a train to Stuttgart central station takes approximately 1.5 hours.
 * Please note that services like **Uber and Lyft are not available in Germany**. Your best options for getting from the airport to the hotels or summit location are
 
-    * [public transportation](https://en.vvs.de/): Take the S3 to the main station and then the S6 to either hotel.
+    * [public transportation](https://en.vvs.de/): Take the S3 to the main station and then the S6 to either hotel. **Note**: tickets for the tram can be paid for with credit card, but you'll need your PIN!
     * taxi: expect a fee of 60 - 70 EUR from the airport to the hotels or the summit location
     * rental car.
 
 ### Hotels
 
-We have reserved rooms in the following two hotels:
-
-#### Holiday Inn Stuttgart
-
-Recommended hotel approx. 20 km away from summit venue (20 minutes by car). 
-Free shuttle bus service from this hotel to the summit venue will be provided.
-Also very close to public transportation to Stuttgart city centre.
-
-- Rooms **reserved until April 17th**. Keyword: _InnerSource_
-    - 50 single rooms, 113.50 EUR
-    - breakfast included
-
-**Contact:**
-
-Holiday Inn Stuttgart<br/>
-Mittlerer Pfad 25-27<br/>
-70499 Stuttgart<br/>
-+49 711 988880<br/>
-[http://histuttgart.de](http://www.histuttgart.de/)<br/>
-[info@histuttgart.de](mailto:info@histuttgart.de)<br/>
-
-- [Find it in Google Maps](https://www.google.de/maps/place/Holiday+Inn+Stuttgart/@48.821247,9.0918303,17z/data=!3m1!4b1!4m5!3m4!1s0x4799da2088ce7b5f:0x83dd99418907dc4a!8m2!3d48.821247!4d9.094019)<br/>
-- [How to get there](http://en.histuttgart.de/directions.htm)
-
-#### Hotel Campo
-
-Well reviewed Hotel adjacent to summit venue (approx. 10 minutes on foot). 
-
-- Rooms **reserved until April. 10th**. Keyword: _InnerSource_
-    - 2 double rooms, deluxe, 124 EUR/night
-    - 25 single rooms, superior, 114 EUR/night
-    - 14 double rooms, superior, 116 EUR/night
-    - 4 double rooms, comfort, 104 EUR/night
-    - breakfast included
-    - all rooms can be used by single person
-
-**Contact:**
-
-Hotel Campo<br/>
-Raitestraße 26<br/>
-71272 Renningen<br/>
-+49 7159 939800<br/>
-[info@campo-renningen.de](mailto:info@campo-renningen.de)<br/>
-[http://www.campo-renningen.de](http://www.campo-renningen.de)<br/>
-
-- [Find it in Google Maps](https://www.google.de/maps/place/Hotel+Campo/@48.7803301,8.923918,17z/data=!3m1!4b1!4m5!3m4!1s0x479763d4db745a11:0x795309d67965653a!8m2!3d48.7803301!4d8.9261066)<br/>
-- [Get there](http://www.campo-renningen.de/en/hotel/location)
+The rooms in our preferred hotels, the Holiday Inn Stuttgart and Hotel Campo
+are booked solid at this point!
 
 ### [Code of Conduct](/InnerSourceCommons/events/conduct/)
 
