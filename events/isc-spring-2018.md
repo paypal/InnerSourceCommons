@@ -155,6 +155,8 @@ Morning snack, lunch and afternoon snack will be provided to Summit attendees ea
 
 ### Travel and Transit
 
+Detailed transit information are <a href="/InnerSourceCommons/events/isc-spring-2018-travelinfo.pdf">available here</a>.
+
 * The closest Airport is Stuttgart (EDDS / STR), about 30 minutes from the summit location.
 * If you should arrive at Frankfurt Main Airport (FRA), a train to Stuttgart central station takes approximately 1.5 hours.
 * Please note that services like **Uber and Lyft are not available in Germany**. Your best options for getting from the airport to the hotels or summit location are
