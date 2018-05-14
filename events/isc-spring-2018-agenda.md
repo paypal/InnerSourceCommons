@@ -90,7 +90,7 @@ In 2006, I introduced inner source to SAP. After becoming a professor, my group 
         </td>
     </tr>
     <tr >
-        <td class="time" rowspan="4">14:15 - 15:15</td>
+        <td class="time" rowspan="5">14:15 - 15:15</td>
         <td colspan="2">Poster Sessions</td>
     </tr>
     <tr >
@@ -103,11 +103,11 @@ Wayfair has a sizable (over 1200 people) engineering organization. It's comprise
         </td>
     </tr>
     <tr >
-        <td class="author"><a href="/InnerSourceCommons/events/isc-spring-2018-speakers#david_sancho_moreno">David Sancho Moreno <span class="affiliation">(Typeform)</span></td>
-        <td class="title">The YOLO Manifesto
-            <span onClick="toggleAbstract('moreno-1')" class="abstract-toggle">(<a id="moreno-1-link">Show Abstract</a>)</span>
-            <div style="display:none" class="abstract" id="moreno-1">
-The yolo manifesto tries to emphasise the fact that time is the most important resource for us. "Agile" tries to solve it but there a few drawbacks, fails into over-engineering with the message of quality and it's being used by consultancy companies and they re-define agile as they matter. 
+        <td class="author"><a href="/InnerSourceCommons/events/isc-spring-2018-speakers#alexander_dais">Alexander Dais <span class="affiliation">(Robert Bosch GmbH)</span></td>
+        <td class="title">Prototyping in Bosch Internal Open Source
+            <span onClick="toggleAbstract('dais-1')" class="abstract-toggle">(<a id="dais-1-link">Show Abstract</a>)</span>
+            <div style="display:none" class="abstract" id="dais-1">
+Innersource has a very positive influence on prototyping and predevelopment. A company with many products in different domains can trigger cross domain solutions by internally publishing of APIs and libraries. Sharing these within the company has been enabling reuse in different Business Units leading to surprising synergies across different applications. 
             </div>
         </td> 
     </tr>
@@ -120,6 +120,16 @@ While there are a lot of talks and blogposts about APIs and the importance of an
             </div>
         </td>
     </tr>
+    <tr >
+        <td class="author"><a href="/InnerSourceCommons/events/isc-spring-2018-speakers#georg_gruetter">Georg Gr&uuml;tter <span class="affiliation">(Robert Bosch)</span></td>
+        <td class="title">Bosch Internal Open Source - Empowering Fellow Engineers with APIs
+            <span onClick="toggleAbstract('gruetter-2')" class="abstract-toggle">(<a id="gruetter-2-link">Show Abstract</a>)</span>
+            <div style="display:none" class="abstract" id="gruetter-2">
+FusionX was the first Bosch Internal Open Source Community and has been active for the past 9 years. Our mission is to empower fellow Bosch engineers to build prototypes, tools and new products connecting to our products much more quickly than before. Over the years, we have seen all of that happen and more. I will share examples and insights into how the community worked, what we developed and what the success factors and challenges were we encountered along the way.
+           </div>
+        </td>
+    </tr>
+
     <tr >
         <td class="time">15:15 - 15:45</td>
         <td colspan="2">Coffe Break</td>
@@ -283,15 +293,17 @@ Pattern languages show how patterns fit together to solve classes of problems ar
 
     <tr >
         <td class="time">14:30 - 15:00</td>
-        <td class="author"><a href="/InnerSourceCommons/events/isc-spring-2018-speakers#spiros_aktipis">Spiros Aktipis</a> <span class="affiliation">(Nokia)</span></td>
-        <td class="title">Inner sourcing - Fantastic, Forgettable or a Spiritual pursuit?
-            <span onClick="toggleAbstract('aktipis-1')" class="abstract-toggle">(<a id="aktipis-1-link">Show Abstract</a>)</span>
-            <div style="display:none" class="abstract" id="aktipis-1">
-Inner sourcing at NOKIA core networks and the people seemed like a match made in heaven. For the senior management, it is a R&D Efficiency program. For developers, it is an opportunity to express themselves. The journey had its share of successes and failures that made us to do several course corrections on the way. Soon the fantasy of inner sourcing/reuse and the expectations of delivering on the corporate targets had its own ways of coming together. The honey moon was soon over and we had the onerous task of making that heady cocktail, just the right mix between the open source dare and the corporate flair. We are still looking for that elusive mix… This talk will explore the things that worked, things that didn't, people aspirations, frustrations
+        <td><a href="/InnerSourceCommons/events/isc-spring-2018-speakers#daniel_izquierdo">Daniel Izquierdo</a> <span class="affiliation">(Bitergia)</span></td>
+        <td class="title">Are maturity models needed in InnerSource?
+            <span onClick="toggleAbstract('izquierdo-2')" class="abstract-toggle">(<a id="izquierdo-2-link">Show Abstract</a>)</span>
+            <div style="display:none" class="abstract" id="izquierdo-2">
+During the last months a set of companies in Spain have been working on a maturity model to give a general framework for C-level and other areas of work in InnerSource.
+This talk will present some internal discussion around the topic of the maturity model and a potential implementation based on the main InnerSource principles such as Collaboration or Transparency. In addition to this, it is expected to open some discussion around the topic of this type of models that are usually initiated as a set of good practices, but at the end they are seen as pure bureaocracy within organizations.
             </div>
         </td>
     </tr>
 
+        
     <tr >
         <td class="time">15:00 - 15:15</td>
         <td colspan="2">Closing</td>
@@ -357,16 +369,16 @@ Those of us establishing InnerSource programs encounter similar problems. Develo
     </tr>
     <tr >
         <td class="time">13:15 - 13:45</td>
-        <td><a href="/InnerSourceCommons/events/isc-spring-2018-speakers#daniel_izquierdo">Daniel Izquierdo</a> <span class="affiliation">(Bitergia)</span></td>
-        <td class="title">Are maturity models needed in InnerSource?
-            <span onClick="toggleAbstract('izquierdo-2')" class="abstract-toggle">(<a id="izquierdo-2-link">Show Abstract</a>)</span>
-            <div style="display:none" class="abstract" id="izquierdo-2">
-During the last months a set of companies in Spain have been working on a maturity model to give a general framework for C-level and other areas of work in InnerSource.
-This talk will present some internal discussion around the topic of the maturity model and a potential implementation based on the main InnerSource principles such as Collaboration or Transparency. In addition to this, it is expected to open some discussion around the topic of this type of models that are usually initiated as a set of good practices, but at the end they are seen as pure bureaocracy within organizations.
+        <td class="author"><a href="/InnerSourceCommons/events/isc-spring-2018-speakers#spiros_aktipis">Spiros Aktipis</a> <span class="affiliation">(Nokia)</span></td>
+        <td class="title">Inner sourcing - Fantastic, Forgettable or a Spiritual pursuit?
+            <span onClick="toggleAbstract('aktipis-1')" class="abstract-toggle">(<a id="aktipis-1-link">Show Abstract</a>)</span>
+            <div style="display:none" class="abstract" id="aktipis-1">
+Inner sourcing at NOKIA core networks and the people seemed like a match made in heaven. For the senior management, it is a R&D Efficiency program. For developers, it is an opportunity to express themselves. The journey had its share of successes and failures that made us to do several course corrections on the way. Soon the fantasy of inner sourcing/reuse and the expectations of delivering on the corporate targets had its own ways of coming together. The honey moon was soon over and we had the onerous task of making that heady cocktail, just the right mix between the open source dare and the corporate flair. We are still looking for that elusive mix… This talk will explore the things that worked, things that didn't, people aspirations, frustrations
             </div>
         </td>
     </tr>
-    <tr >
+
+    <tr>
         <td class="time">13:45 - 14:15</td>
         <td><a href="/InnerSourceCommons/events/isc-spring-2018-speakers#maximilian_capraro">Maximilian Capraro</a> <span class="affiliation">(FAU Erlangen)</span></td>
         <td class="title">A Classification Framework for InnerSource Projects and Programs
