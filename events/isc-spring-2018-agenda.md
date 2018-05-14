@@ -265,7 +265,6 @@ We’ll discuss some sure fire ways to ensure that you set your InnerSource Jour
         <td class="time">13:30 - 14:00</td>
         <td class="author">
             <a href="/InnerSourceCommons/events/isc-spring-2018-speakers#erin_bank">Erin Bank</a> <span class="affiliation">(CA Technologies)</span><br/>
-            <a href="/InnerSourceCommons/events/isc-spring-2018-speakers#clint_cain">Clint Cain</a> <span class="affiliation">(Optum)</span><br/>
             <a href="/InnerSourceCommons/events/isc-spring-2018-speakers#daniel_izquierdo">Daniel Izquierdo</a> <span class="affiliation">(Bitergia)</span><br/>
             <a href="/InnerSourceCommons/events/isc-spring-2018-speakers#georg_gruetter">Georg Gr&uuml;tter</a> <span class="affiliation">(Robert Bosch)</span><br/>
             <a href="/InnerSourceCommons/events/isc-spring-2018-speakers#russel_rutledge">Russ Rutledge</a> <span class="affiliation">(Nike)</span><br/>
