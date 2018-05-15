@@ -297,7 +297,7 @@ Sungjin is the Program Manager for Open Source Technology in Samsung Research. H
 
     <b>Shelly Nezri</b>
     <p>
-Shelly Nezri is an open source and inner source evangelist, in charge of and gamification in the workplace :)
+Shelly Nezri is an open source and inner source evangelist, in charge of fun and gamification in the workplace :)
     </p>
 </div>
 

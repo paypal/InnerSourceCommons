@@ -135,6 +135,8 @@ FusionX was the first Bosch Internal Open Source Community and has been active f
             <span onClick="toggleAbstract('nezri-1')" class="abstract-toggle">(<a id="nezri-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="nezri-1">
             We've done step 1: we have a platform, repositories and a group of initial users. Now we are looking for step 2, getting the developers of big infrastructure projects involved. They are worried they won't have time to participate in InnerSource. We have teams--they have good softwre and are willing to share it, but they have concerns about the quality of code that others will be contributing; and their ability to mentor others outside the group. This is our next hurdle. This poster talk is an inverted advice booth--please visit us and share your ideas and advice.
+
+            Another topic: we have a one hour meeting with the company president about InnerSource; what should we emphasize and try to get from him (in terms of support for the InnerSource Program).
            </div>
         </td>
     </tr>
