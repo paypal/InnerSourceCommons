@@ -18,7 +18,7 @@ title: 'InnerSource Commons Spring Summit 2018 Agenda'
         </td>
     </tr>
     <tr>
-        <td class="time">09:00 - 09:30</td>
+        <td class="time">09:00 - 09:45</td>
         <td class="author"><a href="/InnerSourceCommons/events/isc-spring-2018-speakers#stefan_ferber">Dr. Stefan Ferber</a> <span class="affiliation">(Robert Bosch)</span></td>
         <td class="title">
             <span class="keynoteTag">Keynote: </span>Teaching Old Dogs New Tricks</span>
@@ -36,11 +36,11 @@ Now Stefan is proud that Bosch is active contributing to Eclipse Internet of Thi
         </td>
     </tr>
     <tr >
-        <td class="time">09:30 - 10:15</td>
+        <td class="time">09:45 - 10:30</td>
         <td colspan="2">Coffee Break</td>
     </tr>
      <tr>
-        <td class="time">10:15 - 10:45</td>
+        <td class="time">10:30 - 10:45</td>
         <td class="author">
             <a href="/InnerSourceCommons/events/isc-spring-2018-speakers#danese_cooper">Danese Cooper</a> <span class="affiliation">(PayPal)</span><br/>
             <a href="/InnerSourceCommons/events/isc-spring-2018-speakers#jim_jagielski">Jim Jagielski</a><br/>
@@ -90,7 +90,7 @@ In 2006, I introduced inner source to SAP. After becoming a professor, my group 
         </td>
     </tr>
     <tr >
-        <td class="time" rowspan="5">14:15 - 15:15</td>
+        <td class="time" rowspan="6">14:15 - 15:15</td>
         <td colspan="2">Poster Sessions</td>
     </tr>
     <tr >
@@ -126,6 +126,15 @@ While there are a lot of talks and blogposts about APIs and the importance of an
             <span onClick="toggleAbstract('gruetter-2')" class="abstract-toggle">(<a id="gruetter-2-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="gruetter-2">
 FusionX was the first Bosch Internal Open Source Community and has been active for the past 9 years. Our mission is to empower fellow Bosch engineers to build prototypes, tools and new products connecting to our products much more quickly than before. Over the years, we have seen all of that happen and more. I will share examples and insights into how the community worked, what we developed and what the success factors and challenges were we encountered along the way.
+           </div>
+        </td>
+    </tr>
+    <tr >
+        <td class="author"><a href="/InnerSourceCommons/events/isc-spring-2018-speakers#shelly_nezri">Shelly Nezri <span class="affiliation">(Elbit Systems Ltd)</span></td>
+        <td class="title">InnerSource Advice Booth
+            <span onClick="toggleAbstract('nezri-1')" class="abstract-toggle">(<a id="nezri-1-link">Show Abstract</a>)</span>
+            <div style="display:none" class="abstract" id="nezri-1">
+            We've done step 1: we have a platform, repositories and a group of initial users. Now we are looking for step 2, getting the developers of big infrastructure projects involved. They are worried they won't have time to participate in InnerSource. We have teams--they have good softwre and are willing to share it, but they have concerns about the quality of code that others will be contributing; and their ability to mentor others outside the group. This is our next hurdle. This poster talk is an inverted advice booth--please visit us and share your ideas and advice.
            </div>
         </td>
     </tr>
