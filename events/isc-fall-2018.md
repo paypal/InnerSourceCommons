@@ -10,8 +10,8 @@ title: 'InnerSource Commons Fall Summit 2018'
 See the [Call For Presentations for the 2018 Fall Summit](/InnerSourceCommons/events/isc-fall-2018-cfp), which will be open through June 2018.
 
 
-### Registration
-Registration opens soon. The registration fee of $25.00 will be donated to a nominated non-profit organization.
+### Registration is Now Open!
+[Registration](https://www.brownpapertickets.com/event/3444630) is now open. Get your tickets now, and spread the word! Your registration fee of $25.00 will be donated to the Apache Software Foundation. 
 
 ### What is the InnerSource Commons?
 The InnerSource Commons ([InnerSourceCommons.org](http://innersourcecommons.org)) aka ISC is a consortium of representatives from over sixty companies and institutions. It utilizes open source methods to provide organizations pursuing inner sourcing a forum for discussing and improving the practice of InnerSource through the sharing of experiences (under the [Chatham House Rule](https://www.chathamhouse.org/about/chatham-house-rule)), creation and review of InnerSource patterns, and the open exchange of ideas.
