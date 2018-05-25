@@ -7,11 +7,18 @@ title: 'InnerSource Commons Fall Summit 2018'
 
 ### Call For Presentations
 
-See the [Call For Presentations for the 2018 Fall Summit](/InnerSourceCommons/events/isc-fall-2018-cfp), which will be open through June 2018.
+See the [Call For Presentations for the 2018 Fall Summit](/InnerSourceCommons/events/isc-fall-2018-cfp), which will be open through <b>June 2018</b>.
 
 
 ### Registration is Now Open!
 [Registration](https://www.brownpapertickets.com/event/3444630) is now open. Get your tickets now, and spread the word! Your registration fee of $25.00 will be donated to the Apache Software Foundation. 
+
+### Our Keynote Speakers
+<b>Mary Lynn Manns, PhD</b>
+
+Dr. Mary Lynn Manns is a professor in the Department of Management at UNC Asheville and the co-author of two books, <i>Fearless Change: Patterns for Introducing New Ideas</i>, 2005 (also published in Japanese and Chinese) and <i>More Fearless Change: Strategies for Making Your Ideas Happen</i>, 2015. Mary Lynn has given numerous presentations on change leadership throughout the world in many organizations that include Microsoft, Proctor & Gamble, Avon, and amazon.com.  On campus, she coordinates the "Ideas to Action" initiative at UNC Asheville, which guides students as they work in interdisciplinary teams to design, develop, and defend their ideas for changing the world. Click [here](https://mgmtacct.unca.edu/faces/mary-lynn-manns-phd) for more information. 
+
+Stay tuned for announcements of more keynote speakers!
 
 ### What is the InnerSource Commons?
 The InnerSource Commons ([InnerSourceCommons.org](http://innersourcecommons.org)) aka ISC is a consortium of representatives from over sixty companies and institutions. It utilizes open source methods to provide organizations pursuing inner sourcing a forum for discussing and improving the practice of InnerSource through the sharing of experiences (under the [Chatham House Rule](https://www.chathamhouse.org/about/chatham-house-rule)), creation and review of InnerSource patterns, and the open exchange of ideas.
