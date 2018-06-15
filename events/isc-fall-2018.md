@@ -7,7 +7,7 @@ title: 'InnerSource Commons Fall Summit 2018'
 
 ### Call For Presentations
 
-See the [Call For Presentations for the 2018 Fall Summit](/InnerSourceCommons/events/isc-fall-2018-cfp), which will be open through <b>June 2018</b>.
+See the [Call For Presentations for the 2018 Fall Summit](/InnerSourceCommons/events/isc-fall-2018-cfp), which will be open through <b>July 2018</b>.
 
 
 ### Registration is Now Open!
