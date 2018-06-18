@@ -11,13 +11,7 @@ engaging and interesting one!
 
 <a href="/InnerSourceCommons/assets/img/isc.s6-group-photo.jpg"><img alt="ISC.S6 Crowd" width="600" src="/InnerSourceCommons/assets/img/isc.s6-group-photo.jpg"/></a>
 
-You can find all other pictures taken during the summit here:
-
-[ISC.S6 Pictures](https://photos.app.goo.gl/xiFwFMTg7pN0a4ut2)
-
-Please remember that the pictures are published under Chatham House Rule, which
-means you can't share them with anybody who was not present on the summit. We
-have also published the first videos on the InnerSource Commons YouTube channel:
+We have published the first videos on the InnerSource Commons YouTube channel:
 
 [ISC.S6 Videos](https://www.youtube.com/playlist?list=PLCH-i0B0otNT6m6EUu2ZDFyEuXXI5JkUK)
 
