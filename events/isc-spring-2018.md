@@ -7,8 +7,11 @@ title: 'InnerSource Commons Spring Summit 2018'
 ### Pictures and Videos
 
 The ISC.S6 is a wrap! Thanks to all attendees for making this summit such an
-engaging and interesting one! You can find pictures taken during the summit
-here:
+engaging and interesting one! 
+
+<a href="/InnerSourceCommons/assets/img/isc.s6-group-photo.jpg"><img alt="ISC.S6 Crowd" width="600" src="/InnerSourceCommons/assets/img/isc.s6-group-photo.jpg"/></a>
+
+You can find all other pictures taken during the summit here:
 
 [ISC.S6 Pictures](https://photos.app.goo.gl/xiFwFMTg7pN0a4ut2)
 
