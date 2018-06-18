@@ -4,16 +4,25 @@ title: 'InnerSource Commons Spring Summit 2018'
 ---
 ### May 16-18 Wed-Fri near Stuttgart, Germany
 
-### Registration is now open 
+### Pictures and Videos
 
-Please [register now](https://www.eventbrite.com/e/6th-innersource-commons-summit-tickets-42722496136) for the 6th InnerSource Commons. We will donate the
-conference proceeds to the [Apache Software Foundation](http://apache.org).
+The ISC.S6 is a wrap! Thanks to all attendees for making this summit such an
+engaging and interesting one! 
 
-After you have registered, consider sharing your travel schedule to [help us plan activities for before and after the Summit](https://goo.gl/forms/REhxCcp8LUaYIxEV2) (e.g., meeting up for dinner, informal discussions around InnerSource and even sightseeing around Stuttgart).
+<a href="/InnerSourceCommons/assets/img/isc.s6-group-photo.jpg"><img alt="ISC.S6 Crowd" width="600" src="/InnerSourceCommons/assets/img/isc.s6-group-photo.jpg"/></a>
 
-### Call for posters is now open
+You can find all other pictures taken during the summit here:
 
-During the summit, we will perform a poster session: Participants will gather around posters and have discussions with the authors of these posters. Use [this form](https://docs.google.com/forms/d/e/1FAIpQLSe9jmvR1bhtQ8MSqXEvmYbG6tn3AkS7IL7BsMJWRpZOgH8asw/viewform?usp=sf_link) to submit a poster for the InnerSource Commons Spring Summit 2018 before <b>May 7th, 2018</b>.
+[ISC.S6 Pictures](https://photos.app.goo.gl/xiFwFMTg7pN0a4ut2)
+
+Please remember that the pictures are published under Chatham House Rule, which
+means you can't share them with anybody who was not present on the summit. We
+have also published the first videos on the InnerSource Commons YouTube channel:
+
+[ISC.S6 Videos](https://www.youtube.com/playlist?list=PLCH-i0B0otNT6m6EUu2ZDFyEuXXI5JkUK)
+
+The authors of these videos have released them for sharing under the 
+Creative Commons license (CC BY).
 
 ### Agenda and speakers
 
@@ -152,23 +161,6 @@ Morning snack, lunch and afternoon snack will be provided to Summit attendees ea
 
 - **May 16th**: Bosch will host a summit dinner on May 16th close to the venue.
 - **May 17th**: We'll visit the Bosch semiconductor fab in Reutlingen. **Note:** we can only accomodate 50 visitors! We'll prioritize external guests over Bosch employees and we'll go in the order of registrations.
-
-### Travel and Transit
-
-Detailed transit information are <a href="/InnerSourceCommons/events/isc-spring-2018-travelinfo.pdf">available here</a>.
-
-* The closest Airport is Stuttgart (EDDS / STR), about 30 minutes from the summit location.
-* If you should arrive at Frankfurt Main Airport (FRA), a train to Stuttgart central station takes approximately 1.5 hours.
-* Please note that services like **Uber and Lyft are not available in Germany**. Your best options for getting from the airport to the hotels or summit location are
-
-    * [public transportation](https://en.vvs.de/): Take the S3 to the main station and then the S6 to either hotel. **Note**: tickets for the tram can be paid for with credit card, but you'll need your PIN!
-    * taxi: expect a fee of 60 - 70 EUR from the airport to the hotels or the summit location
-    * rental car.
-
-### Hotels
-
-The rooms in our preferred hotels, the Holiday Inn Stuttgart and Hotel Campo
-are booked solid at this point!
 
 ### [Code of Conduct](/InnerSourceCommons/events/conduct/)
 
