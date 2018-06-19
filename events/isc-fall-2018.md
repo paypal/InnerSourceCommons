@@ -40,6 +40,8 @@ Dr. Mary Lynn Manns is a professor in the Department of Management at UNC Ashevi
 
 <b>Nigel Simpson, Director of Tech Strategy & Research at The Walt Disney Company</b>
 
+<img alt="Nigel Simpson" width="200" src="/InnerSourceCommons/assets/img/nigelsimpson.jpg"/>
+
 As Director of Tech Strategy & Research at The Walt Disney Company, Nigel Simpson leads a team that is future-focused; looking at the interplay of technology, culture, consumer behavior, and other factors, and exploring what it means to the company by mapping it into strategy, education, and tactical initiatives. As a pragmatic technologist, Nigel enjoys making sense of technology: cutting through the hype and explaining the relationship between vision and current and future potential.
 
 Nigel is passionate about all types of engineering and innovation. He established Disney’s Open Source Program in 2015 which is designed to enable developers while simultaneously managing risk. He also created an enterprise-wide developer productivity initiative that was designed to break down artificial barriers between business units, enabling collaboration around technology through the enterprise adoption of open source community concepts and tools.
