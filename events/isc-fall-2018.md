@@ -32,13 +32,27 @@ An advocate of diversity, he is a member of the University of Vermont’s STEM l
 
 Otto earned a bachelor’s degree in physics from Middlebury College in Vermont and a master’s degree in computer science and electrical engineering from the University of Vermont. He is co-inventor on and holds multiple patents spanning design, mobile device interaction and core computing technologies. 
 
-<b>Mary Lynn Manns, PhD</b>
+<b>Mary Lynn Manns, PhD and Author</b>
 
 <img alt="Mary Lynn Manns" width="200" src="/InnerSourceCommons/assets/img/Mary Lynn Manns_July2015.jpg"/>
 
 Dr. Mary Lynn Manns is a professor in the Department of Management at UNC Asheville and the co-author of two books, <i>Fearless Change: Patterns for Introducing New Ideas</i>, 2005 (also published in Japanese and Chinese) and <i>More Fearless Change: Strategies for Making Your Ideas Happen</i>, 2015. Mary Lynn has given numerous presentations on change leadership throughout the world in many organizations that include Microsoft, Proctor & Gamble, Avon, and amazon.com.  On campus, she coordinates the "Ideas to Action" initiative at UNC Asheville, which guides students as they work in interdisciplinary teams to design, develop, and defend their ideas for changing the world. Click [here](https://mgmtacct.unca.edu/faces/mary-lynn-manns-phd) for more information. 
 
-<i>Stay tuned for announcements of more keynote speakers!</i>
+<b>Nigel Simpson, Director of Tech Strategy & Research at The Walt Disney Company</b>
+
+<img alt="Nigel Simpson" width="200" src="/InnerSourceCommons/assets/img/nigelsimpson.jpg"/>
+
+As Director of Tech Strategy & Research at The Walt Disney Company, Nigel Simpson leads a team that is future-focused; looking at the interplay of technology, culture, consumer behavior, and other factors, and exploring what it means to the company by mapping it into strategy, education, and tactical initiatives. As a pragmatic technologist, Nigel enjoys making sense of technology: cutting through the hype and explaining the relationship between vision and current and future potential.
+
+Nigel is passionate about all types of engineering and innovation. He established Disney’s Open Source Program in 2015 which is designed to enable developers while simultaneously managing risk. He also created an enterprise-wide developer productivity initiative that was designed to break down artificial barriers between business units, enabling collaboration around technology through the enterprise adoption of open source community concepts and tools.
+
+Prior to joining Disney, Nigel had a 20-year career at Sun Microsystems, where he began by answering the phones as a technical support engineer and ended up as a researcher in Sun Labs. While at Sun Labs, he co-developed Open Wonderland, an open source, immersive 3D virtual world designed for distance collaboration. 
+
+Nigel is a long-term mentor to aspiring young engineers. He’s currently mentoring STEM startups through LearnLaunch, an Accelerator program for EdTech startups. He is also mentoring high school students via The Possible Project, a Cambridge, MA-based after school program that teaches students with untapped potential entrepreneurship, technical, and business skills.
+
+Nigel graduated from Imperial College, London with a degree in Computing Science. He is co-inventor on and holds multiple patents in areas that include virtual worlds, voice interaction, and electronic communications.
+
+<i>Stay tuned for additional agenda details!</i>
 
 ### What is the InnerSource Commons?
 The InnerSource Commons ([InnerSourceCommons.org](http://innersourcecommons.org)) aka ISC is a consortium of representatives from over sixty companies and institutions. It utilizes open source methods to provide organizations pursuing inner sourcing a forum for discussing and improving the practice of InnerSource through the sharing of experiences (under the [Chatham House Rule](https://www.chathamhouse.org/about/chatham-house-rule)), creation and review of InnerSource patterns, and the open exchange of ideas.
