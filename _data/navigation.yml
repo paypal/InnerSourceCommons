@@ -29,8 +29,6 @@
     url: "/events/"
   - title: "Checklist"
     url: "/checklist/"
-  - title: "Adopting InnerSource"
-    url: "/adoptinginnersource/"
 
 - title: Contribute
   url: "/contribute/"
