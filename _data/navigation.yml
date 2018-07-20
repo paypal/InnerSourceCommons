@@ -21,6 +21,8 @@
   dropdown:
   - title: "Articles"
     url: "/resources/articles/"
+  - title: "Books"
+    url: "/resources/#books"
   - title: "Wiki"
     url: "https://github.com/paypal/InnerSourceCommons/wiki"
   - title: "Patterns"
