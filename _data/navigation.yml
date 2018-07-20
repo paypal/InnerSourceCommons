@@ -21,16 +21,14 @@
   dropdown:
   - title: "Articles"
     url: "/resources/articles/"
+  - title: "Books"
+    url: "/resources/books"
   - title: "Wiki"
     url: "https://github.com/paypal/InnerSourceCommons/wiki"
   - title: "Patterns"
     url: "/patterns/"
   - title: "Events"
     url: "/events/"
-  - title: "Checklist"
-    url: "/checklist/"
-  - title: "Adopting InnerSource"
-    url: "/adoptinginnersource/"
 
 - title: Contribute
   url: "/contribute/"
