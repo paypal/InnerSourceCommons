@@ -246,6 +246,11 @@
 
                       
 
+                      <li><a  href="/InnerSourceCommons/resources/books" >Books</a></li>
+                    
+
+                      
+
                       <li><a  target="_blank" href="https://github.com/paypal/InnerSourceCommons/wiki" >Wiki</a></li>
                     
 
@@ -257,16 +262,6 @@
                       
 
                       <li><a  href="/InnerSourceCommons/events/" >Events</a></li>
-                    
-
-                      
-
-                      <li><a  href="/InnerSourceCommons/checklist/" >Checklist</a></li>
-                    
-
-                      
-
-                      <li><a  href="/InnerSourceCommons/adoptinginnersource/" >Adopting InnerSource</a></li>
                     
                   </ul>
 
