@@ -263,6 +263,11 @@
 
                       <li><a  href="/InnerSourceCommons/checklist/" >Checklist</a></li>
                     
+
+                      
+
+                      <li><a  href="/InnerSourceCommons/adoptinginnersource/" >Adopting InnerSource</a></li>
+                    
                   </ul>
 
               </li>
