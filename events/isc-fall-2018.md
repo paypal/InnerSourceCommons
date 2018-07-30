@@ -55,6 +55,10 @@ Dr. Mary Lynn Manns is a professor in the Department of Management at UNC Ashevi
 </p>
 </td>
 
+<div style="width:100%">
+    <div style="float:left;padding-right:30px;padding-bottom:30px">
+        <img alt="Nithya Ruff" width="200" src="/InnerSourceCommons/assets/img/Nithya Ruff.png"/>
+    </div>
 <b>Nithya Ruff, Head of Open Source Practice at Comcast</b>
 
 <p>
