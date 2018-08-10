@@ -101,6 +101,7 @@ Nigel is a long-term mentor to aspiring young engineers. He’s currently mentor
 Nigel graduated from Imperial College, London with a degree in Computing Science. He is co-inventor on and holds multiple patents in areas that include virtual worlds, voice interaction, and electronic communications.
 </p>
 
+<div markdown="1">
 
 ### What is the InnerSource Commons?
 The InnerSource Commons ([InnerSourceCommons.org](http://innersourcecommons.org)) aka ISC is a consortium of representatives from over sixty companies and institutions. It utilizes open source methods to provide organizations pursuing inner sourcing a forum for discussing and improving the practice of InnerSource through the sharing of experiences (under the [Chatham House Rule](https://www.chathamhouse.org/about/chatham-house-rule)), creation and review of InnerSource patterns, and the open exchange of ideas.
