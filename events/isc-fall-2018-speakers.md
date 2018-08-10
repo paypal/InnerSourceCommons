@@ -5,6 +5,7 @@ title: 'InnerSource Commons Fall Summit 2018 Speakers'
 
 [[Return to the Fall Summit 2018 page](/InnerSourceCommons/events/isc-fall-2018/)]
 
+<i><b>We are in the process of confirming speakers, so this page will be updated frequently throughout August.</i></b>
 
 <a name="erin_bank">&nbsp;</a>
 <hr/>
@@ -105,3 +106,5 @@ David has been developing software for over 35 years, and is currently Manager f
 </p>
 </div>
 <div style="clear:both;"></div>
+
+<i><b>Check again soon to see more speaker announcements. We are in the process of confirming speakers, so this page will be updated frequently throughout August.</i></b>
