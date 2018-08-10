@@ -69,7 +69,7 @@ A passionate believer in Automation, Raimund believes that there is a solution f
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-        <img alt="Daniel Izquierdo" width="200" src="/InnerSourceCommons/assets/img/Daniel Izquierdo.jpg"/>
+        <img alt="Daniel Izquierdo" width="200" src="/InnerSourceCommons/assets/img/Daniel_Izquierdo.jpg"/>
     </div>
     <b>Daniel Izquierdo</b></a>
     <p>
