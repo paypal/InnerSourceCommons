@@ -15,7 +15,7 @@ The [Call For Presentations for the 2018 Fall Summit](/InnerSourceCommons/events
 
 
 ### Agenda and Speakers
-We've received a high volume of submissions, and are in the process of confirming speakers. Feel free to revisit the [speakers page](/InnerSourceCommons/events/isc-fall-2018-speakers) often, as we'll be adding speakers on a near daily basis for the next few weeks! 
+We've received a high volume of submissions, and are in the process of confirming speakers. Feel free to revisit the [speakers page](/InnerSourceCommons/events/isc-fall-2018-speakers) often, as we'll be announcing speakers frequently throughout August. 
 
 The agenda will be published soon.
 
