@@ -210,12 +210,12 @@
 
                       
 
-                      <li><a  href="/InnerSourceCommons/events/isc-spring-2018" >EU Summit Spring 2018</a></li>
+                      <li><a  href="/InnerSourceCommons/events/isc-fall-2018" >US Summit Fall 2018</a></li>
                     
 
                       
 
-                      <li><a  href="/InnerSourceCommons/events/isc-fall-2018" >US Summit Fall 2018</a></li>
+                      <li><a  href="/InnerSourceCommons/events/isc-spring-2018" >EU Summit Spring 2018</a></li>
                     
                   </ul>
 
