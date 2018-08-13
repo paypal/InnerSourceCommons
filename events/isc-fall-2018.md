@@ -5,17 +5,13 @@ title: 'InnerSource Commons Fall Summit 2018'
 
 ### October 3-5, 2018 in Islandia, New York, USA
 
-### Call For Presentations
-
-The [Call For Presentations for the 2018 Fall Summit](/InnerSourceCommons/events/isc-fall-2018-cfp) closes at midnight on <b>August 10, 2018</b>.
-
 
 ### Registration
 [Registration](https://www.brownpapertickets.com/event/3444630) is open through end of September 2018. Get your tickets now, and spread the word! Your registration fee of $25.00 will be donated to the Apache Software Foundation. 
 
 
 ### Agenda and Speakers
-We've received a high volume of submissions, and are in the process of confirming speakers. Feel free to revisit the [speakers page](/InnerSourceCommons/events/isc-fall-2018-speakers) often, as we'll be announcing speakers frequently throughout August. 
+The Call for Presentations closed on August 10, 2018. We received a high volume of submissions, and are in the process of confirming speakers. Feel free to revisit the [speakers page](/InnerSourceCommons/events/isc-fall-2018-speakers) often, as we'll be announcing speakers frequently throughout August. 
 
 The agenda will be published soon.
 
