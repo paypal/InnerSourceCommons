@@ -21,6 +21,21 @@ Erin Bank has more than 20 years of experience building and executing transforma
 <div style="clear:both;"></div>
 
 
+
+<a name="Georg Gruetter">&nbsp;</a>
+<hr/>
+<div style="width:100%">
+    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
+        <img alt="Georg Gruetter" width="200" src="/InnerSourceCommons/assets/img/Georg Gruetter.jpg"/>
+    </div>
+    <b>Georg Gruetter</b></a>
+    <p>
+Georg is a Senior Expert at Bosch Corporate Research and a founding member of the InnerSource activities at Bosch. He is driving the adoption of InnerSource within Bosch as an evangelist and as a developer since 2009. Georg is also a passionate software craftsman with over 30 years of experience. Previously, he worked for Daimler Chrysler as a researcher, the Zurich System House as a software engineer, and the Line Information GmbH as a consultant. Georg has created two open source projects: [XHSI]<http://xhsi.sourceforge.net/> and [stashNotifier]<https://github.com/jenkinsci/stashnotifier-plugin>. He is an avid recumbent cyclist, mountain biker, stargazer and generally collects way too many hobbies.
+</p>
+</div>
+<div style="clear:both;"></div>
+
+
 <a name="andre_hagemeier">&nbsp;</a>
 <hr/>
 <div style="width:100%">
