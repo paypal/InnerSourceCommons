@@ -21,7 +21,6 @@ Erin Bank has more than 20 years of experience building and executing transforma
 <div style="clear:both;"></div>
 
 
-
 <a name="Georg Gruetter">&nbsp;</a>
 <hr/>
 <div style="width:100%">
@@ -30,7 +29,7 @@ Erin Bank has more than 20 years of experience building and executing transforma
     </div>
     <b>Georg Gruetter</b></a>
     <p>
-Georg Gruetter is a Senior Expert at Bosch Corporate Research and a founding member of the InnerSource activities at Bosch. He is driving the adoption of InnerSource within Bosch as an evangelist and as a developer since 2009. Georg is also a passionate software craftsman with over 30 years of experience. Previously, he worked for Daimler Chrysler as a researcher, the Zurich System House as a software engineer, and the Line Information GmbH as a consultant. Georg has created two open source projects: [XHSI](http://xhsi.sourceforge.net/) and [stashNotifier](https://github.com/jenkinsci/stashnotifier-plugin). He is an avid recumbent cyclist, mountain biker, stargazer and generally collects way too many hobbies.
+Georg Gruetter is a Senior Expert at Bosch Corporate Research and a founding member of the InnerSource activities at Bosch. He is driving the adoption of InnerSource within Bosch as an evangelist and as a developer since 2009. Georg is also a passionate software craftsman with over 30 years of experience. Previously, he worked for Daimler Chrysler as a researcher, the Zurich System House as a software engineer, and the Line Information GmbH as a consultant. Georg has created two open source projects: XHSI (http://xhsi.sourceforge.net/) and stashNotifier (https://github.com/jenkinsci/stashnotifier-plugin). He is an avid recumbent cyclist, mountain biker, stargazer and generally collects way too many hobbies.
 </p>
 </div>
 <div style="clear:both;"></div>
@@ -52,9 +51,6 @@ Andre Hagemeier is the Head of Development Platforms EU at Wayfair, where he tri
 
 <a name="robert_hansel">&nbsp;</a>
 <hr/>
-
-<div style="clear:both;"></div>
-
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
         <img alt="Robert Hansel" width="200" src="/InnerSourceCommons/assets/img/Robert Hansel.png"/>
@@ -74,7 +70,7 @@ Robert Hansel is a founding member of the Social Coding Initiative at Bosch, in 
      </div>
     <b>Raimund Hook</b></a>
     <p>
-As InnerSource and DevOps Specialist at EXFO, Raimund Hook has a corporate mandate to introduce and develop InnerSource in his organization. He is bringing his skills honed from his 20-year career into building tools and trying to foster a community of developers across the business. A technical generalist, Raimund has experience with a vast array of technology from hardware to deep network stacks, virtualization to cloud building, and a plethora of programming languages to several automation frameworks.
+As InnerSource and DevOps Specialist at EXFO Inc., Raimund Hook has a corporate mandate to introduce and develop InnerSource in his organization. He is bringing his skills honed from his 20-year career into building tools and trying to foster a community of developers across the business. A technical generalist, Raimund has experience with a vast array of technology from hardware to deep network stacks, virtualization to cloud building, and a plethora of programming languages to several automation frameworks.
 A passionate believer in Automation, Raimund believes that there is a solution for most mundane tasks – somebody simply needs to take the time to implement it. Unfortunately, he’s found out, automating people is less of an ‘easy target’. He’s admittedly learning along the way and has found that sharing his experiences is part of the InnerSource way. Raimund joined Ontology Systems in London in late 2015, which was later acquired by EXFO in 2017. Prior to working at EXFO, he spent 11 years working for Internet Solutions in South Africa, a converged Telecommunications provider. There, he held various positions culminating in leading a team responsible for building and maintaining fulfilment and provisioning solutions for the business.
 </p>
 </div>
@@ -169,7 +165,7 @@ Otto earned a bachelor’s degree in physics from Middlebury College in Vermont 
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-        <img alt=" Mary Lynn Manns" width="200" src="/InnerSourceCommons/assets/img/ Mary Lynn Manns_July2015.jpg"/>
+        <img alt=" Mary Lynn Manns" width="200" src="/InnerSourceCommons/assets/img/Mary Lynn Manns_July2015.jpg"/>
     </div>
     <b>Mary Lynn Manns</b></a>
     <p>
@@ -185,7 +181,7 @@ Dr. Mary Lynn Manns is a professor in the Department of Management at UNC Ashevi
 
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
-        <img alt="Nithya Ruff" width="200" src="/InnerSourceCommons/assets/img/ Nithya Ruff.png"/>
+        <img alt="Nithya Ruff" width="200" src="/InnerSourceCommons/assets/img/Nithya Ruff.png"/>
     </div>
     <b>Nithya Ruff</b></a>
     <p>
