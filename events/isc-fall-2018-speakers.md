@@ -15,7 +15,7 @@ title: 'InnerSource Commons Fall Summit 2018 Speakers'
      </div>
     <b>Erin Bank</b></a>
     <p>
-Erin Bank has more than 20 years of experience building and executing transformative programs and solutions, with roles in engineering program management, product management, and technical communications in North America and abroad. Erin is currently Sr. Director of Engineering Program Management for the CA Technologies Office of the CTO, where she drives both the Open Source and Inner Source programs for CA Product Development. Erin has also been a driver of the Accelerator, CA’s hybrid-angel VC incubator program where internal innovators receive support and funding to get new products into market.  She is a contributing member of InnerSource Commons, committed to establishing inner source best practices with the community. Erin has Lean Six Sigma and Pragmatic certifications.
+Erin Bank has more than 20 years of experience building and executing transformative programs and solutions, with roles in engineering program management, product management, and technical communications in North America and abroad. Erin is currently Sr. Director of Engineering Program Management for the CA Technologies Office of the CTO, where she drives both the Open Source and Inner Source programs for CA Product Development. Erin has also been a driver of the Accelerator, CA’s hybrid-angel VC incubator program where internal innovators receive support and funding to get new products into market. She is a contributing member of InnerSource Commons, committed to establishing inner source best practices with the community. Erin has Lean Six Sigma and Pragmatic certifications.
      </p>
 </div>
 <div style="clear:both;"></div>
