@@ -21,7 +21,7 @@ Erin Bank has more than 20 years of experience building and executing transforma
 <div style="clear:both;"></div>
 
 
-<a name="Georg Gr&uuml;tter">&nbsp;</a>
+<a name="georg_gruetter">&nbsp;</a>
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
@@ -118,7 +118,7 @@ Stephen McCall is currently the InnerSource Governance Architect within the Ente
 <div style="clear:both;"></div>
 
 
-<a name="David McKenna">&nbsp;</a>
+<a name="david_mckenna">&nbsp;</a>
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
