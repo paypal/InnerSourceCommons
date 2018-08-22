@@ -39,8 +39,7 @@ Georg Gruetter is a Senior Expert at Bosch Corporate Research and a founding mem
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-        <img alt="Andre 
-                  meier" width="200" src="/InnerSourceCommons/assets/img/Andre Hagemeier.png"/>
+        <img alt="Andre Hagemeier" width="200" src="/InnerSourceCommons/assets/img/Andre Hagemeier.png"/>
     </div>
     <b>Andre Hagemeier</b></a>
     <p>
