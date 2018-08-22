@@ -39,9 +39,10 @@ Georg Gruetter is a Senior Expert at Bosch Corporate Research and a founding mem
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-        <img alt="Andre Hagemeier" width="200" src="/InnerSourceCommons/assets/img/Andre Hagemeier.png"/>
+        <img alt="Andre 
+                  meier" width="200" src="/InnerSourceCommons/assets/img/Andre Hagemeier.png"/>
     </div>
-    <b>Andre Hagemeir</b></a>
+    <b>Andre Hagemeier</b></a>
     <p>
 Andre Hagemeier is the Head of Development Platforms EU at Wayfair, where he tries to improve the quality of the code base, introduce scalable patterns for a rapidly growing Engineering group and establish a sense of ownership, commitment and collaboration. Before his position at Wayfair, Andre was Principal Engineer at IBM for IBM Connections, where he led a globally distributed team of over 200 engineers and guided them through a fundamental re-architecting of an industry leading enterprise software product.
      </p>
