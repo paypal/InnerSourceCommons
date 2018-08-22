@@ -7,6 +7,12 @@ title: 'InnerSource Resources'
 
 Academic papers, news articles, blogs
 
+### [Books](books/)
+
+  * [Getting Started With InnerSource](http://www.oreilly.com/programming/free/getting-started-with-innersource.csp)
+  * [Understanding the InnerSource Checklist]({{ site.baseurl }}/checklist/)
+  * [Adopting InnerSource - Principles and Case Studies](books/adoptinginnersource)
+
 ### [InnerSource Commons Wiki](https://github.com/paypal/InnerSourceCommons/wiki)
 
 Checklists, definitions, and all the other random, uncategorized stuff
