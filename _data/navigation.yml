@@ -29,8 +29,7 @@
     url: "/patterns/"
   - title: "Events"
     url: "/events/"
-  - title: "Checklist"
-    url: "/checklist/"
+
 - title: Contribute
   url: "/contribute/"
   side: left
