@@ -60,7 +60,7 @@ In this session, I will share insights into recent developments of InnerSource a
         </td>
     </tr>
     <tr >
-        <td class="time" rowspan="6">11:55 - 12:25</td>
+        <td class="time">11:55 - 12:25</td>
         <td class="author"><a href="/InnerSourceCommons/events/isc-fall-2018-speakers#stephen_mccall">Stephen McCall <span class="affiliation">(Fidelity Investments)</span></td>
         <td class="title">Cultivating Your InnerSource Marketplace
             <span onClick="toggleAbstract('mccall-1')" class="abstract-toggle">(<a id="mccall-1-link">Show Abstract</a>)</span>
@@ -232,7 +232,9 @@ InnerSource - what we call Bosch Internal Open Source (BIOS) internally - is a g
 During this collaborative session, we will review, discuss, and collaborate on the latest draft of the InnerSource Manifesto, created by the InnerSource Commons community.
             </div>
         </td>
-    <td class="time">3:15 - 4:05</td>
+    </tr>
+    <tr>
+        <td class="time">3:15 - 4:05</td>
         <td class="author"><a href="/InnerSourceCommons/events/isc-fall-2018-speakers#nithya_ruff">Nithya Ruff</a> <span class="affiliation">(Comcast)</span></td>
         <td class="title">
             <span class="keynoteTag">Afternoon Keynote
