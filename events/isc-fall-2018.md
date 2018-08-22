@@ -13,8 +13,7 @@ title: 'InnerSource Commons Fall Summit 2018'
 ### Agenda and Speakers
 The Call for Presentations closed on August 10, 2018. We received a high volume of submissions, and are in the process of confirming speakers. Feel free to revisit the [speakers page](/InnerSourceCommons/events/isc-fall-2018-speakers) often, as we'll be announcing speakers frequently throughout August. 
 
-The agenda will be published soon.
-
+See the [agenda](/InnerSourceCommons/events/isc-fall-2018-agenda) 
 
 ### Our Keynote Speakers
 
