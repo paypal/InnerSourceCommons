@@ -191,7 +191,7 @@ This session will discuss how to find teams that are ready to practice InnerSour
         <td class="time">11:20 – 11:45</td>
         <td class="author">
             <a href="/InnerSourceCommons/events/isc-fall-2018-speakers#daniel_izquierdo">Daniel Izquierdo</a> <span class="affiliation">(Bitergia)</span><br/>
-                   <td class="title">Are you sure you are measuring what you want to measure?
+                   <td class="title">Are You Sure You are Measuring What You Want to Measure?
             <span onClick="toggleAbstract('izquierdo-1')" class="abstract-toggle">(<a id=" izquierdo-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="izquierdo-1">
 Cheating on metrics is easy. And it happens that from time to time we realize that the metrics that we thought were the right ones, are in reality the wrong ones. 
@@ -327,8 +327,9 @@ In this session, I will discuss how agile teams implement inner source, and use 
     </tr>
     <tr >
         <td class="time">12:15 - 12:45</td>
-        <td>Loren Sanz<span class="affiliation">(Nike - </em>being confirmed</em>)</span></td>
-        <td class="title"> Harness the Power of Gravity to Build a Strong Inner Source Culture            <span onClick="toggleAbstract('sanz-1')" class="abstract-toggle">(<a id="sanz-1-link">Show Abstract</a>)</span>
+        <td>Loren Sanz<span class="affiliation"> (Nike - </em>being confirmed</em>)</span></td>
+        <td class="title"> Harness the Power of Gravity to Build a Strong Inner Source Culture            
+            <span onClick="toggleAbstract('sanz-1')" class="abstract-toggle">(<a id="sanz-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="sanz-1">
 Gravity is a natural phenomenon that occurs when bodies are in close proximity to one another. It is such a powerful force that rivers and canyons form as a result. We can take a few lessons from this natural phenomenon and apply it to developing inner source culture. Learn to use gravity to harness existing momentum and energy within your organization.            </div>
         </td>
