@@ -21,15 +21,15 @@ Erin Bank has more than 20 years of experience building and executing transforma
 <div style="clear:both;"></div>
 
 
-<a name="Georg Gruetter">&nbsp;</a>
+<a name="Georg Gr&uuml;tter">&nbsp;</a>
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-        <img alt="Georg Gruetter" width="200" src="/InnerSourceCommons/assets/img/Georg Gruetter.jpg"/>
+        <img alt="Georg Gr&uuml;tter" width="200" src="/InnerSourceCommons/assets/img/Georg Gruetter.jpg"/>
     </div>
-    <b>Georg Gruetter</b></a>
+    <b>Georg Gr&uuml;tter</b></a>
     <p>
-Georg Gruetter is a Senior Expert at Bosch Corporate Research and a founding member of the InnerSource activities at Bosch. He is driving the adoption of InnerSource within Bosch as an evangelist and as a developer since 2009. Georg is also a passionate software craftsman with over 30 years of experience. Previously, he worked for Daimler Chrysler as a researcher, the Zurich System House as a software engineer, and the Line Information GmbH as a consultant. Georg has created two open source projects: XHSI (http://xhsi.sourceforge.net/) and stashNotifier (https://github.com/jenkinsci/stashnotifier-plugin). He is an avid recumbent cyclist, mountain biker, stargazer and generally collects way too many hobbies.
+Georg Gr&uuml;tter is a Senior Expert at Bosch Corporate Research and a founding member of the InnerSource activities at Bosch. He is driving the adoption of InnerSource within Bosch as an evangelist and as a developer since 2009. Georg is also a passionate software craftsman with over 30 years of experience. Previously, he worked for Daimler Chrysler as a researcher, the Zurich System House as a software engineer, and the Line Information GmbH as a consultant. Georg has created two open source projects: <a href="http://xhsi.sourceforge.net" alt="XHSI">XHSI</a> and <a href="https://github.com/jenkinsci/stashnotifier-plugin" alt="stashNotifier">stashNotifier</a>. He is an avid recumbent cyclist, mountain biker, stargazer and generally collects way too many hobbies.
 </p>
 </div>
 <div style="clear:both;"></div>
@@ -45,6 +45,19 @@ Georg Gruetter is a Senior Expert at Bosch Corporate Research and a founding mem
     <p>
 Andre Hagemeier is the Head of Development Platforms EU at Wayfair, where he tries to improve the quality of the code base, introduce scalable patterns for a rapidly growing Engineering group and establish a sense of ownership, commitment and collaboration. Before his position at Wayfair, Andre was Principal Engineer at IBM for IBM Connections, where he led a globally distributed team of over 200 engineers and guided them through a fundamental re-architecting of an industry leading enterprise software product.
      </p>
+</div>
+<div style="clear:both;"></div>
+
+
+<a name="billy_foss">&nbsp;</a>
+<hr/>
+<div style="width:100%">
+    <div style="float:left;padding-right:30px;padding-bottom:30px">
+        <img alt="Billy Foss" width="200" src="/InnerSourceCommons/assets/img/Billy Foss.jpg"/>
+    </div>
+    <b>Billy Foss</b></a>
+    <p>
+Billy Foss works in the world between development and operations. As part of bridging these worlds, he has helped development teams run and operate development integration environments that provide continuous feedback on the stability of the code base. He has also helped operations and infrastructure teams adopt development techniques with source control and automated build processes of infrastructure as code. He enjoys automating to help people and helping people to automate. Prior to his experience at enterprise software companies (CA Technologies and IBM), he performed military simulation research while earning a master’s degree in computer science at the University of Central Florida.     </p>
 </div>
 <div style="clear:both;"></div>
 
@@ -131,6 +144,20 @@ David Mittman has been developing software for over 35 years, and is currently M
 </p>
 </div>
 <div style="clear:both;"></div>
+
+<a name="kanchana_welagedara">&nbsp;</a>
+<hr/>
+<div style="width:100%">
+    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
+        <img alt="Kanchana Welagedara" width="200" src="/InnerSourceCommons/assets/img/Kanchana Welagedara.jpg"/>
+    </div>
+    <b>Kanchana Welagedara</b></a>
+    <p>
+A long-time open source enthusiast and community member, Kanchana Welagedara is a member of The Apache Software Foundation, and a contributor for Apache Axis C++, Geronimo, and other open source projects. Kanchana is currently a Lead Developer at JPMorgan Chase. In her previous role, she was an innersource evangelist at PayPal. Kanchana is also the proud mother of a geeky 3-year-old boy.
+</p>
+</div>
+<div style="clear:both;"></div>
+
 
 <b>Check again soon to see more speaker announcements. We are in the process of confirming speakers, so this page will be updated frequently throughout August.</b>
 
