@@ -21,7 +21,7 @@ Erin Bank has more than 20 years of experience building and executing transforma
 <div style="clear:both;"></div>
 
 
-<a name="Georg Gr&uuml;tter">&nbsp;</a>
+<a name="georg_gruetter">&nbsp;</a>
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
@@ -118,7 +118,7 @@ Stephen McCall is currently the InnerSource Governance Architect within the Ente
 <div style="clear:both;"></div>
 
 
-<a name="David McKenna">&nbsp;</a>
+<a name="david_mckenna">&nbsp;</a>
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
@@ -219,6 +219,7 @@ Nithya has been a passionate advocate and a speaker for opening doors to new peo
 Nithya graduated with an MS in Computer Science from NDSU and an MBA from the University of Rochester, Simon Business School. She lives in the San Francisco Bay Area and is a proud mother of two daughters. You can follow her on twitter @nithyaruff.     </p>
 </div>
 <div style="clear:both;"></div>
+
 <a name="nigel_simpson">&nbsp;</a>
 <hr/>
 <div style="width:100%">
