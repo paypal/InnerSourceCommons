@@ -14,7 +14,7 @@ title: 'InnerSource Commons Fall Summit 2018 Agenda'
     <tr>
         <td class="time">09:05 - 09:15</td>
         <td colspan="2">
-            Opening
+            Day 1 Opening
         </td>
     </tr>
     <tr>
@@ -27,7 +27,7 @@ title: 'InnerSource Commons Fall Summit 2018 Agenda'
     </tr>
     <tr >
         <td class="time">10:05 - 10:50</td>
-        <td class="author">Russell R. Rutledge<span class="affiliation">(Nike - </em>being confirmed</em>)</span><br/>
+        <td class="author"><a href="/InnerSourceCommons/events/isc-fall-2018-speakers#russell_rutledge">Russell R. Rutledge</a><span class="affiliation">(Nike)</span><br/>
         <td class="title">The Inner Source Learning Path
             <span onClick="toggleAbstract('rutledge-1')" class="abstract-toggle">(<a id="rutledge-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="rutledge-1">
@@ -36,9 +36,8 @@ Many engineers lack the background in open source and the ideas and mechanics of
 
 The Inner Source Learning path gives a simple, easy to understand introduction to inner source. It introduces key terms, concepts, and principles for effective inner sourcing along with explanations and real examples. It is intended to bring newcomers up to speed as well as provide those with experience a common vocabulary to use when discussing more advanced concepts.
 
-The Inner Source Learning path will be freely hosted by O'Reilly Media at https://www.safaribooksonline.com/learning-paths for your use and sharing.
-More advanced segments of the learning path are forthcoming, and we'll outline how you can get involved.            
-</div>
+The Inner Source Learning path will be freely hosted by O'Reilly Media at https://www.safaribooksonline.com/learning-paths for your use and sharing. More advanced segments of the learning path are forthcoming, and we'll outline how you can get involved.            
+            </div>
         </td>
     </tr>
     <tr >
@@ -76,7 +75,7 @@ Establishing an InnerSource program inherently implies creating a supply and dem
              <span onClick="toggleAbstract('jagielski-1')" class="abstract-toggle">(<a id="jagielski-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id=" jagielski-1">
 Join this session to learn about the best practices of Open Source via a deep dive into The Apache Way, which serve as the inspiration for InnerSource.
-</div>
+            </div>
         </td>
     </tr>
     <tr >
@@ -93,7 +92,7 @@ Join this session to learn about the best practices of Open Source via a deep di
             <span onClick="toggleAbstract('bank-1')" class="abstract-toggle">(<a id="bank-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="bank-1">
 Those of us establishing InnerSource programs encounter similar problems. Developing Patterns is a way of capturing proven solutions to these problems.  This workshop will provide a brief introduction of the InnerSource patterns, and the standard components of patterns. Then we’ll break out into groups to draft patterns for pervasive problems.  Let’s work together and provide solutions for the larger community!
-</div>
+            </div>
         </td>
         </tr>
     <tr >
@@ -107,17 +106,17 @@ Those of us establishing InnerSource programs encounter similar problems. Develo
             <span onClick="toggleAbstract('mittman-1')" class="abstract-toggle">(<a id="mittman-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="mittman-1">
 In 2013, a number of employees at NASA's Jet Propulsion Laboratory believed that the tools that were so successfully supporting the open source community could have significant benefits for our software development community at JPL. Core to this belief was the theory that the JPL software development community was similar to the open source community in the way it operates. This theory has been put into practice in a number of companies, and is known as InnerSource.  
-</div>
+            </div>
         </td>
     </tr>
     <tr >
         <td class="time">4:15 - 5:00</td>
-        <td class="author">Russell R. Rutledge<span class="affiliation"> (Nike - </em>being confirmed</em>)</span><br/>
+       <td class="author"><a href="/InnerSourceCommons/events/isc-fall-2018-speakers#russell_rutledge">Russell R. Rutledge</a><span class="affiliation">(Nike)</span><br/>
         <td class="title"><span class="keynoteTag">Keynote:</span> Growing an InnerSource Program
             <span onClick="toggleAbstract('rutledge-2')" class="abstract-toggle">(<a id=" rutledge-2-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id=" rutledge-2">
 "Inner source is a great idea! Go do inner source!" You're the dedicated champion for inner source in your company. What do you do now? How do you realistically affect the behavior of dozens or hundreds of teams to the point where robust and pervasive inner sourcing is a normal part of the way that engineering is done? This presentation shares principles, practical anecdotes, and relatable examples on this situation gleaned from experience at Nike. While not claiming all of the answers, it is insightful summary of over a year of work in the area.
-</div>
+            </div>
         </td>
     </tr>
     <tr >
@@ -129,12 +128,12 @@ In 2013, a number of employees at NASA's Jet Propulsion Laboratory believed that
             <div style="display:none" class="abstract" id=" hook-1">
 I’ve long been a proponent of software reuse, sharing, and breaking down of silos, but it wasn’t until this year (2018) that I was introduced to InnerSource as a formal concept. At the same time, my company was advertising internally for somebody to start building an InnerSource program internally. I felt that it was a position designed for me.
 This talk is about the 9-month journey I’ve had since the beginning of the year. During this time, I’ve encountered people all over our global organization. Most of them are overwhelmingly positive about this concept of InnerSource. Fortunately, I’m in an environment where it’s not only supported by upper management but being actively encouraged. At the ISC Spring Summit, I met several people who were interested in starting up an InnerSource program, but not sure what to do first. This presentation is designed to kickstart offline discussion around a future series of talks related to how to start a program. 
-</div>
+            </div>
         </td>
     </tr>
     <tr >
         <td class="time">5:15 - 5:25</td>
-        <td colspan="2">Closing</td>
+        <td colspan="2">Day 1 Closing</td>
     </tr>
 </table>
 
@@ -154,18 +153,18 @@ This talk is about the 9-month journey I’ve had since the beginning of the yea
         <td class="time">09:00 - 09:50</td>
         <td class="author"><a href="/InnerSourceCommons/events/isc-fall-2018-speakers#nigel_simpson">Nigel Simpson</a> <span class="affiliation">(The Walt Disney Company)</span></td>
         <td class="title">
-            <span class="keynoteTag">Morning Keynote
+            <span class="keynoteTag">Keynote: </span>Cultural Change at Enterprise Scale</span>
             </div>
         </td>
     </tr>
     <tr >
         <td class="time">09:50 - 10:00</td>
-        <td class="author">Noah Cawley<span class="affiliation"> (Nike - </em>being confirmed</em>)</span></td>
+        <td class="author"><a href="/InnerSourceCommons/events/isc-fall-2018-speakers#noah_cawley">Noah Cawley</a><span class="affiliation">(Nike)</span></td>
         <td class="title">The Science Behind Grass Roots InnerSource
             <span onClick="toggleAbstract('cawley-1')" class="abstract-toggle">(<a id="cawley-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="cawley-1">
 At Nike, we've chosen a bottom-up, grass roots strategy for our InnerSource effort. We strive to achieve horizontal adoption of InnerSource tools and practice before advocating up Nike's organizational hierarchy. Recent work in social networks and network dynamics suggest there is more than intuition and anecdotes behind this strategy. In this session, we will review the science behind behavior change and connect the theoretical and experimental evidence to our own experience running an InnerSource effort.            
-</div>
+            </div>
         </td>
     </tr>
     <tr >
@@ -175,7 +174,7 @@ At Nike, we've chosen a bottom-up, grass roots strategy for our InnerSource effo
             <span onClick="toggleAbstract('bonewald-1')" class="abstract-toggle">(<a id="bonewald-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="bonewald-1">
 This session will discuss how to find teams that are ready to practice InnerSource together.  It will also explore how to prove to middle management that it is safe to collaborate across BUs.   
-</div>
+            </div>
         </td>
         </tr>
     <tr >
@@ -183,8 +182,7 @@ This session will discuss how to find teams that are ready to practice InnerSour
         <td colspan="2">Break</td>
     </tr>
     <tr>
-         
-</div>
+            </div>
         </td>
     </tr>
     <tr >
@@ -196,12 +194,12 @@ This session will discuss how to find teams that are ready to practice InnerSour
             <div style="display:none" class="abstract" id="izquierdo-1">
 Cheating on metrics is easy. And it happens that from time to time we realize that the metrics that we thought were the right ones, are in reality the wrong ones. 
 This talk will analyze one of the first steps that everyone is measuring in the InnerSource initiative, and these are the contributions. There are of course several types of them, and not only source code: reviews, edits in a wiki, or conversations in asynchrounous channels. However, how can we sure that we all mean the same when we measure those contributions? Does a commit have the same meaning for everyone? Have we ever thought about automated actions by bots, merge commits, or people adding tabs to the source code? And even more, is better to measure commits than source code lines? And what about files?
-</div>
+            </div>
         </td>
     </tr>
         <tr>
         <td class="time">11:50 – 12:30</td>
-        <td class="author">Noah Cawley<span class="affiliation"> (Nike - </em>being confirmed</em>)</span><br/>
+        <td class="author"><a href="/InnerSourceCommons/events/isc-fall-2018-speakers#noah_cawley">Noah Cawley</a><span class="affiliation">(Nike)</span></td>
                     <td class="title"> Modeling and Measuring the Value of your InnerSource Effort
             <span onClick="toggleAbstract('cawley-2')" class="abstract-toggle">(<a id="cawley-2-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="cawley-2">
@@ -230,12 +228,17 @@ InnerSource - what we call Bosch Internal Open Source (BIOS) internally - is a g
             <span onClick="toggleAbstract('gr&uuml;tter-1')" class="abstract-toggle">(<a id="gr&uuml;tter-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="'gr&uuml;tter-1">
 During this collaborative session, we will review, discuss, and collaborate on the latest draft of the InnerSource Manifesto, created by the InnerSource Commons community.
-            </div>
+             </div>
         </td>
+    </tr>
+    <tr >
     <td class="time">3:15 - 4:05</td>
         <td class="author"><a href="/InnerSourceCommons/events/isc-fall-2018-speakers#nithya_ruff">Nithya Ruff</a> <span class="affiliation">(Comcast)</span></td>
         <td class="title">
-            <span class="keynoteTag">Afternoon Keynote
+            <span class="keynoteTag">Keynote:</span>Collaboration Not Just for Open Source Communities; Key for Internal Communities</span> 
+             <span onClick="toggleAbstract('ruff-1')" class="abstract-toggle">(<a id="ruff-1-link">Show Abstract</a>)</span>
+            <div style="display:none" class="abstract" id="ruff-1">
+Bringing down silos in companies, creating strong and scalable competencies in development requires intentional community building.  Internal community building can also strengthen skills in creating broader communities when companies open source projects. Comcast has been working in open source since the early 2000s and on practices that improve engineering effectiveness. Nithya will share some of these practices and how it is creating stronger and inclusive internal communities. 
             </div>
         </td>
         </tr>
@@ -256,10 +259,15 @@ Join this session to hear about what we have learned at Wayfair, when we tried t
     </tr>
     <tr >
         <td class="time">4:55 – 5:05</td>
-        <td colspan="2">Close</td>
+        <td colspan="2">Day 2 Closing</td>
+    </div>
+        </td>
     </tr>
-
-</table>    
+    <tr >
+        <td class="time">6:30 – 9:30</td>
+        <td colspan="2">Event Night</td>
+ </tr>
+</table>
 
 <table class="schedule">
     <tr>
@@ -277,7 +285,7 @@ Join this session to hear about what we have learned at Wayfair, when we tried t
         <td class="time">08:55 - 09:45</td>
         <td class="author"><a href="/InnerSourceCommons/events/isc-fall-2018-speakers#mary lynn_manns">Dr. Mary Lynn Manns</a> <span class="affiliation">(UNC Asheville)</span></td>
         <td class="title">
-            <span class="keynoteTag">Morning Keynote
+            <span class="keynoteTag"></span>Morning Keynote</span>
             </div>
         </td>
     </tr>
@@ -288,7 +296,7 @@ Join this session to hear about what we have learned at Wayfair, when we tried t
             <span onClick="toggleAbstract('foss-1')" class="abstract-toggle">(<a id="foss-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="foss-1">
 Operations teams need to adopt automation to scale. The development background and operational knowledge required to build these automations can be hard to find. We will discuss a pattern that uses inner source to create these automations using an enablement team. The enablement team builds the initial automation using tools that are easy to learn and publishes them in shared source control. The automation is exposed via GUI for easy execution. By having open visibility to the code and easy execution, we can create a culture where the operations team can increase their expertise in the automation and eventually assumes ownership. The open culture enabling operations teams to learn these development skills also addresses a critical gap in the workforce.            
-</div>
+            </div>
         </td>
     </tr>
       <tr >
@@ -312,7 +320,7 @@ At the European InnerSource Commons event, we held a workshop about the document
             <span onClick="toggleAbstract('welagedara-1')" class="abstract-toggle">(<a id=" welagedara-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id=" welagedara-1">
 In this session, I will deep-dive into the issues that engineering silos cause at large financial tech companies. Silos limit innovation, cause less collaboration amongst engineering teams, contribute to a lack of quality mentorship, limit people skills, and can drive fear to move more current technologies. I will discuss how inner source brings a revolutionary approach to transform such engineering cultures to adopt efficient, collaborative processes, quality mentorship and to create a more organic and innovative software engineering ecosystem overall. 
-</div>
+            </div>
         </td>
     </tr>
     <tr>
@@ -327,11 +335,12 @@ In this session, I will discuss how agile teams implement inner source, and use 
     </tr>
     <tr >
         <td class="time">12:15 - 12:45</td>
-        <td>Loren Sanz<span class="affiliation"> (Nike - </em>being confirmed</em>)</span></td>
+        <td><a href="/InnerSourceCommons/events/isc-fall-2018-speakers#loren_sanz">Loren Sanz</a> <span class="affiliation">(Nike)</span></td>
         <td class="title"> Harness the Power of Gravity to Build a Strong Inner Source Culture            
             <span onClick="toggleAbstract('sanz-1')" class="abstract-toggle">(<a id="sanz-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="sanz-1">
-Gravity is a natural phenomenon that occurs when bodies are in close proximity to one another. It is such a powerful force that rivers and canyons form as a result. We can take a few lessons from this natural phenomenon and apply it to developing inner source culture. Learn to use gravity to harness existing momentum and energy within your organization.            </div>
+Gravity is a natural phenomenon that occurs when bodies are in close proximity to one another. It is such a powerful force that rivers and canyons form as a result. We can take a few lessons from this natural phenomenon and apply it to developing inner source culture. Learn to use gravity to harness existing momentum and energy within your organization.            
+            </div>
         </td>
     </tr>
     <tr >
