@@ -27,7 +27,7 @@ title: 'InnerSource Commons Fall Summit 2018 Agenda'
     </tr>
     <tr >
         <td class="time">10:05 - 10:50</td>
-        <td class="author"><a href="/InnerSourceCommons/events/isc-fall-2018-speakers#russell_rutledge">Russell R. Rutledge</a><span class="affiliation"> (Nike)</span><br/>
+        <td class="author"><a href="/InnerSourceCommons/events/isc-fall-2018-speakers#russell_rutledge">Russell R. Rutledge</a><span class="affiliation"> (Nike)</span></td>
         <td class="title">The Inner Source Learning Path
             <span onClick="toggleAbstract('rutledge-1')" class="abstract-toggle">(<a id="rutledge-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="rutledge-1">
@@ -58,7 +58,7 @@ In this session, I will share insights into recent developments of InnerSource a
             </div>
         </td>
     </tr>
-    <tr >
+    <tr>
         <td class="time">11:55 - 12:25</td>
         <td class="author"><a href="/InnerSourceCommons/events/isc-fall-2018-speakers#stephen_mccall">Stephen McCall</a> <span class="affiliation"> (Fidelity Investments)</span></td>
         <td class="title">Cultivating Your InnerSource Marketplace
@@ -68,7 +68,7 @@ Establishing an InnerSource program inherently implies creating a supply and dem
             </div>
         </td>
     </tr>
-    <tr >
+    <tr>
         <td class="time">12:30 - 1:00</td>
         <td class="author">Jim Jagielski<span class="affiliation"> (ConsenSys and The Apache Software Foundation - <em>Being confirmed</em>)</span></td>
         <td class="title">Foundations of InnerSource and The Apache Way
@@ -78,15 +78,15 @@ Join this session to learn about the best practices of Open Source via a deep di
             </div>
         </td>
     </tr>
-    <tr >
+    <tr>
         <td class="time">1:00 - 2:10</td>
         <td colspan="2">Lunch</td>
     </tr>
     <tr>
         <td class="time">2:15 - 3:25</td>
         <td class="author">
-            <a href="/InnerSourceCommons/events/isc-fall-2018-speakers#erin_bank">Erin Bank</a> <span class="affiliation">(CA Technologies)</span><br/>
-            <a href="/InnerSourceCommons/events/isc-fall-2018-speakers#daniel_izquierdo">Daniel Izquierdo</a> <span class="affiliation">(Bitergia)</span><br/></span></td>
+            <a href="/InnerSourceCommons/events/isc-fall-2018-speakers#erin_bank">Erin Bank</a> <span class="affiliation"> (CA Technologies)</span></td>
+            <a href="/InnerSourceCommons/events/isc-fall-2018-speakers#daniel_izquierdo">Daniel Izquierdo</a> <span class="affiliation (Bitergia)</span><br/></span></td>
         <td class="title">Inner Source Patterns: Introduction & Workshop: Together we can build the roadmap for success!
             <span onClick="toggleAbstract('bank-1')" class="abstract-toggle">(<a id="bank-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="bank-1">
@@ -108,9 +108,9 @@ In 2013, a number of employees at NASA's Jet Propulsion Laboratory believed that
             </div>
         </td>
     </tr>
-    <tr >
+    <tr>
         <td class="time">4:15 - 5:00</td>
-       <td class="author"><a href="/InnerSourceCommons/events/isc-fall-2018-speakers#russell_rutledge">Russell R. Rutledge</a><span class="affiliation"> (Nike)</span><br/>
+       <td class="author"><a href="/InnerSourceCommons/events/isc-fall-2018-speakers#russell_rutledge">Russell R. Rutledge</a><span class="affiliation"> (Nike)</span></td>
         <td class="title"><span class="keynoteTag">Keynote:</span> Growing an InnerSource Program
             <span onClick="toggleAbstract('rutledge-2')" class="abstract-toggle">(<a id=" rutledge-2-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id=" rutledge-2">
@@ -118,10 +118,10 @@ In 2013, a number of employees at NASA's Jet Propulsion Laboratory believed that
             </div>
         </td>
     </tr>
-    <tr >
+    <tr>
         <td class="time">5:00 - 5:15</td>
         <td class="author">
-            <a href="/InnerSourceCommons/events/isc-fall-2018-speakers#raimund_hook">Raimund Hook</a> <span class="affiliation">(EXFO Inc.)</span><br/>
+            <a href="/InnerSourceCommons/events/isc-fall-2018-speakers#raimund_hook">Raimund Hook</a> <span class="affiliation">(EXFO Inc.)</span></td>
         <td class="title"><span class="keynoteTag">Keynote:</span> Starting an InnerSource Program: This is scary – where do I begin?
             <span onClick="toggleAbstract('hook-1')" class="abstract-toggle">(<a id="hook-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id=" hook-1">
@@ -130,7 +130,7 @@ This talk is about the 9-month journey I’ve had since the beginning of the yea
             </div>
         </td>
     </tr>
-    <tr >
+    <tr>
         <td class="time">5:15 - 5:25</td>
         <td colspan="2">Day 1 Closing</td>
     </tr>
@@ -148,7 +148,7 @@ This talk is about the 9-month journey I’ve had since the beginning of the yea
             Day 2 Opening
         </td>
     </tr>
-    <tr >
+    <tr>
         <td class="time">09:00 - 09:50</td>
         <td class="author"><a href="/InnerSourceCommons/events/isc-fall-2018-speakers#nigel_simpson">Nigel Simpson</a> <span class="affiliation">(The Walt Disney Company)</span></td>
         <td class="title">
@@ -156,7 +156,7 @@ This talk is about the 9-month journey I’ve had since the beginning of the yea
             </div>
         </td>
     </tr>
-    <tr >
+    <tr>
         <td class="time">09:50 - 10:00</td>
         <td class="author"><a href="/InnerSourceCommons/events/isc-fall-2018-speakers#noah_cawley">Noah Cawley</a><span class="affiliation"> (Nike)</span></td>
         <td class="title">The Science Behind Grass Roots InnerSource
@@ -166,7 +166,7 @@ At Nike, we've chosen a bottom-up, grass roots strategy for our InnerSource effo
             </div>
         </td>
     </tr>
-    <tr >
+    <tr>
         <td class="time">10:25 - 10:55</td>
         <td class="author">Silona Bonewald<span class="affiliation"> (PayPal - <em>Being confirmed</em>)</span></td>
         <td class="title">Discoverability and Collaboration
@@ -176,7 +176,7 @@ This session will discuss how to find teams that are ready to practice InnerSour
             </div>
         </td>
         </tr>
-    <tr >
+    <tr>
         <td class="time">11:00 - 11:15</td>
         <td colspan="2">Break</td>
     </tr>
@@ -184,10 +184,10 @@ This session will discuss how to find teams that are ready to practice InnerSour
             </div>
         </td>
     </tr>
-    <tr >
+    <tr>
         <td class="time">11:20 – 11:45</td>
         <td class="author">
-            <a href="/InnerSourceCommons/events/isc-fall-2018-speakers#daniel_izquierdo">Daniel Izquierdo</a> <span class="affiliation">(Bitergia)</span><br/>
+            <a href="/InnerSourceCommons/events/isc-fall-2018-speakers#daniel_izquierdo">Daniel Izquierdo</a> <span class="affiliation">(Bitergia)</span></td>
                    <td class="title">Are You Sure You are Measuring What You Want to Measure?
             <span onClick="toggleAbstract('izquierdo-1')" class="abstract-toggle">(<a id=" izquierdo-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="izquierdo-1">
@@ -206,7 +206,7 @@ How do you explain the value InnerSource brings an organization? How do you dete
             </div>
         </td>
     </tr>
-    <tr >
+    <tr>
         <td class="time">12:30 - 1:00</td>
         <td class="author"><a href="/InnerSourceCommons/events/isc-fall-2018-speakers#robert_hansel">Robert Hansel</a> <span class="affiliation">(Robert Boch)</span></td>
         <td class="title"> Case Study: Artificial Intelligence - How to enable a whole company with the help of InnerSource
@@ -216,7 +216,7 @@ InnerSource - what we call Bosch Internal Open Source (BIOS) internally - is a g
             </div>
         </td>
     </tr>
-    <tr >
+    <tr>
         <td class="time">1:00 - 2:20</td>
         <td colspan="2">Lunch</td>
     </tr>
@@ -230,7 +230,7 @@ During this collaborative session, we will review, discuss, and collaborate on t
              </div>
         </td>
     </tr>
-    <tr >
+    <tr>
     <td class="time">3:15 - 4:05</td>
         <td class="author"><a href="/InnerSourceCommons/events/isc-fall-2018-speakers#nithya_ruff">Nithya Ruff</a> <span class="affiliation">(Comcast)</span></td>
         <td class="title">
@@ -241,14 +241,14 @@ Bringing down silos in companies, creating strong and scalable competencies in d
             </div>
         </td>
         </tr>
-    <tr >
+    <tr>
         <td class="time">4:05 – 4:20</td>
         <td colspan="2">Break</td>
     </tr>
     <tr>
         <td class="time">4:25 – 4:55</td>
         <td class="author">
-            <a href="/InnerSourceCommons/events/isc-fall-2018-speakers#andre_hagemeier">Andre Hagemeier</a> <span class="affiliation">(Wayfair)</span><br/>
+            <a href="/InnerSourceCommons/events/isc-fall-2018-speakers#andre_hagemeier">Andre Hagemeier</a> <span class="affiliation">(Wayfair)</span></td>
                     <td class="title"> Foundation for IS: A Sense of Ownership
             <span onClick="toggleAbstract('hagemeier-1')" class="abstract-toggle">(<a id="hagemeier-1">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="hagemeier-1">
@@ -256,13 +256,13 @@ Join this session to hear about what we have learned at Wayfair, when we tried t
             </div>
         </td>
     </tr>
-    <tr >
+    <tr>
         <td class="time">4:55 – 5:05</td>
         <td colspan="2">Day 2 Closing</td>
     </div>
         </td>
     </tr>
-    <tr >
+    <tr>
         <td class="time">6:30 – 9:30</td>
         <td colspan="2">Event Night</td>
  </tr>
@@ -280,7 +280,7 @@ Join this session to hear about what we have learned at Wayfair, when we tried t
             Day 3 Opening
         </td>
     </tr>
-    <tr >
+    <tr>
         <td class="time">08:55 - 09:45</td>
         <td class="author"><a href="/InnerSourceCommons/events/isc-fall-2018-speakers#mary lynn_manns">Dr. Mary Lynn Manns</a> <span class="affiliation">(UNC Asheville)</span></td>
         <td class="title">
@@ -288,9 +288,9 @@ Join this session to hear about what we have learned at Wayfair, when we tried t
             </div>
         </td>
     </tr>
-    <tr >
+    <tr>
         <td class="time">09:50 - 10:15</td>
-           <td class="author"><a href="/InnerSourceCommons/events/isc-fall-2018-speakers#billy_foss">Billy Foss</a> <span class="affiliation">(CA Technologies)</span> </td>
+           <td class="author"><a href="/InnerSourceCommons/events/isc-fall-2018-speakers#billy_foss">Billy Foss</a> <span class="affiliation">(CA Technologies)</span></td>
         <td class="title">The Enablement Team Pattern
             <span onClick="toggleAbstract('foss-1')" class="abstract-toggle">(<a id="foss-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="foss-1">
@@ -298,7 +298,7 @@ Operations teams need to adopt automation to scale. The development background a
             </div>
         </td>
     </tr>
-      <tr >
+      <tr>
         <td class="time">10:15 - 10:45</td>
     <td>Kristof Van Tomme<span class="affiliation"> (Provonix - <em>Being confirmed</em>)</span></td>
         <td class="title">Documentation InnerSource Patterns             
@@ -312,7 +312,7 @@ At the European InnerSource Commons event, we held a workshop about the document
         <td class="time">10:45 - 11:00</td>
         <td colspan="2">Break</td>
     </tr>
-    <tr >
+    <tr>
         <td class="time">10:05 - 11:35</td>
         <td class="author"><a href="/InnerSourceCommons/events/isc-fall-2018-speakers#kanchana_welagedara">Kanchana Welagedara</a> <span class="affiliation">(Apache Software Foundation and JP Morgan Chase)</span></td>
         <td class="title">The Need of Innersource in FinTech
@@ -332,7 +332,7 @@ In this session, I will discuss how agile teams implement inner source, and use 
             </div>
         </td>
     </tr>
-    <tr >
+    <tr>
         <td class="time">12:15 - 12:45</td>
         <td><a href="/InnerSourceCommons/events/isc-fall-2018-speakers#loren_sanz">Loren Sanz</a> <span class="affiliation">(Nike)</span></td>
         <td class="title"> Harness the Power of Gravity to Build a Strong Inner Source Culture            
@@ -342,7 +342,7 @@ Gravity is a natural phenomenon that occurs when bodies are in close proximity t
             </div>
         </td>
     </tr>
-    <tr >
+    <tr>
         <td class="time">12:50 - 1:00</td>
         <td colspan="2">Summit Closing</td>
     </tr>
