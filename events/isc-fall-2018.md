@@ -11,9 +11,7 @@ title: 'InnerSource Commons Fall Summit 2018'
 
 
 ### Agenda and Speakers
-The Call for Presentations closed on August 10, 2018. We received a high volume of submissions, and are in the process of confirming speakers. Feel free to revisit the [speakers page](/InnerSourceCommons/events/isc-fall-2018-speakers) often, as we'll be announcing speakers frequently throughout August. 
-
-The agenda will be published soon.
+The Fall Summit [agenda](/InnerSourceCommons/events/isc-fall-2018-agenda) is now available, including an exciting lineup of [sessions](/InnerSourceCommons/events/isc-fall-2018-agenda) and [speakers](/InnerSourceCommons/events/isc-fall-2018-speakers)! 
 
 
 ### Our Keynote Speakers
@@ -26,23 +24,17 @@ The agenda will be published soon.
 <b>Otto Berkes, Chief Technology Officer</b>
 
 <p>
-As chief technology officer of CA Technologies, Otto Berkes is responsible for technical leadership and innovation, further developing the company’s technical community, and aligning its software strategy, architecture and partner relationships to deliver customer value. 
-
-Otto joined CA on June 15, 2015. As a 25-year industry veteran, he has a passion for innovation and development. He has extensive experience leading the development of cutting-edge products and technologies. An early champion of mobile computing, he led the development of touch-based technologies, user interfaces, hardware architectures, and physical designs that were the forerunners to today's tablets. 
+As chief technology officer of CA Technologies, Otto Berkes is responsible for technical leadership and innovation, further developing the company’s technical community, and aligning its software strategy, architecture and partner relationships to deliver customer value. Otto joined CA on June 15, 2015. As a 25-year industry veteran, he has a passion for innovation and development. He has extensive experience leading the development of cutting-edge products and technologies. An early champion of mobile computing, he led the development of touch-based technologies, user interfaces, hardware architectures, and physical designs that were the forerunners to today's tablets. 
 </p>
 
 <p>
-Before joining CA, Otto served as the chief technology officer at HBO, where he directed efforts that created and delivered innovative digital technologies and products such as HBO GO®. During his tenure, HBO GO became one of the most popular streaming services in the U.S. 
-
-Previously, Otto spent 18 years at Microsoft and was one of the four original founders of Xbox. As Xbox's first architect, he led its technical direction. He started his career at Microsoft as a senior software developer, where he worked on the first version of the Windows NT operating system, and re-wrote Microsoft's OpenGL implementation. He led Microsoft's OpenGL and DirectX graphics development groups in Windows during the formative years of the evolution of the modern GPU. 
+Before joining CA, Otto served as the chief technology officer at HBO, where he directed efforts that created and delivered innovative digital technologies and products such as HBO GO®. During his tenure, HBO GO became one of the most popular streaming services in the U.S. Previously, Otto spent 18 years at Microsoft and was one of the four original founders of Xbox. As Xbox's first architect, he led its technical direction. He started his career at Microsoft as a senior software developer, where he worked on the first version of the Windows NT operating system, and re-wrote Microsoft's OpenGL implementation. He led Microsoft's OpenGL and DirectX graphics development groups in Windows during the formative years of the evolution of the modern GPU. 
 </p>
 
 <p>
 Earlier in his career, Otto served as a senior developer at both Autodesk where he wrote the graphics engine and user interface for the first Windows-based version of AutoCAD. 
 
-An advocate of diversity, he is a member of the University of Vermont’s STEM leadership council where he is focused on addressing gender, racial, and economic gaps across all of the STEM disciplines. 
-
-Otto earned a bachelor’s degree in physics from Middlebury College in Vermont and a master’s degree in computer science and electrical engineering from the University of Vermont. He is co-inventor on and holds multiple patents spanning design, mobile device interaction and core computing technologies. 
+An advocate of diversity, he is a member of the University of Vermont’s STEM leadership council where he is focused on addressing gender, racial, and economic gaps across all of the STEM disciplines. Otto earned a bachelor’s degree in physics from Middlebury College in Vermont and a master’s degree in computer science and electrical engineering from the University of Vermont. He is co-inventor on and holds multiple patents spanning design, mobile device interaction and core computing technologies. 
 </p>
 </td>
 
@@ -77,6 +69,19 @@ Nithya graduated with an MS in Computer Science from NDSU and an MBA from the Un
 <div style="clear:both;"></div>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
+        <img alt="Russell Rutledge" width="200" src="/InnerSourceCommons/assets/img/Russell Rutledge.jpeg"/>
+    </div>
+<b>Russell R. Rutledge, Community Core Team Lead, Nike</b>
+    
+<p>
+Russ Rutledge is the lead for Nike's Community Core team—a startup within the company that culls the process and tools to encourage and foster cross-team and community interaction and development. Russ's drive and passion is to enable all software engineers to achieve incredible technical and business throughput via quality tooling and streamlined work process. Previously, Russ ran another successful startup delivering JavaScript continuous delivery solutions to hundreds of projects throughout Nike and did feature and infrastructure development for the Outlook and OneDrive consumer websites at Microsoft.
+    
+</p>
+</td>
+
+<div style="clear:both;"></div>
+<div style="width:100%">
+    <div style="float:left;padding-right:30px;padding-bottom:30px">
         <img alt="Nigel Simpson" width="200" src="/InnerSourceCommons/assets/img/nigelsimpson.jpg"/>
     </div>
 <b>Nigel Simpson, Director of Tech Strategy & Research at The Walt Disney Company</b>
@@ -92,9 +97,7 @@ Prior to joining Disney, Nigel had a 20-year career at Sun Microsystems, where h
 </p>
 
 <p>
-Nigel is a long-term mentor to aspiring young engineers. He’s currently mentoring STEM startups through LearnLaunch, an Accelerator program for EdTech startups. He is also mentoring high school students via The Possible Project, a Cambridge, MA-based after school program that teaches students with untapped potential entrepreneurship, technical, and business skills.
-
-Nigel graduated from Imperial College, London with a degree in Computing Science. He is co-inventor on and holds multiple patents in areas that include virtual worlds, voice interaction, and electronic communications.
+Nigel is a long-term mentor to aspiring young engineers. He’s currently mentoring STEM startups through LearnLaunch, an Accelerator program for EdTech startups. He is also mentoring high school students via The Possible Project, a Cambridge, MA-based after school program that teaches students with untapped potential entrepreneurship, technical, and business skills. Nigel graduated from Imperial College, London with a degree in Computing Science. He is co-inventor on and holds multiple patents in areas that include virtual worlds, voice interaction, and electronic communications.
 </p>
 
 <div markdown="1">
