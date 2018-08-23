@@ -30,7 +30,7 @@ I've been involved in innersource since the second summit, which Danese Cooper a
 </p>
 <p>
 I re-architected the FDI (Failed Developer interactions) monitoring program to be more accurate, resilient and reliable. I also worked with DevX team on the creation of a Unified Product Model for End to End Developer Experience.
-In addition, I open sourced the unified search tool <a href="http://https://github.com/paypal/seazme" alt="XHSI">Seazme</a>, while engaging with other companies in its adoption outside of PayPal.      
+In addition, I open sourced the unified search tool <a href="https://github.com/paypal/seazme" alt="Seazme">Seazme</a>, while engaging with other companies in its adoption outside of PayPal.      
 </p>
 </div>
 <div style="clear:both;"></div>
