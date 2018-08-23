@@ -16,10 +16,35 @@ title: 'InnerSource Commons Fall Summit 2018 Speakers'
     <b>Erin Bank</b></a>
     <p>
 Erin Bank has more than 20 years of experience building and executing transformative programs and solutions, with roles in engineering program management, product management, and technical communications in North America and abroad. Erin is currently Sr. Director of Engineering Program Management for the CA Technologies Office of the CTO, where she drives both the Open Source and Inner Source programs for CA Product Development. Erin has also been a driver of the Accelerator, CA’s hybrid-angel VC incubator program where internal innovators receive support and funding to get new products into market. She is a contributing member of InnerSource Commons, committed to establishing inner source best practices with the community. Erin has Lean Six Sigma and Pragmatic certifications.
-     </p>
+</p>
 </div>
 <div style="clear:both;"></div>
 
+<a name="noah_cawley">&nbsp;</a>
+<hr/>
+<div style="width:100%">
+    <div style="float:left;padding-right:30px;padding-bottom:30px">
+        <img alt="Noah Cawley" width="200" src="/InnerSourceCommons/assets/img/Picture Pending.png"/>
+    </div>
+    <b> Noah Cawley </b></a>
+    <p>
+I am a software engineer at Nike where I work to support collaborative efforts within Nike Digital. I am passionate about applying both theoretical and empirical tools to understand and measure the dynamics and impact of collaboration. I believe that collaboration can radically improve the effectiveness and health of software engineering organizations, and I am lucky I get to work on confirming that belief every day.     
+</p>
+</div>
+<div style="clear:both;"></div>
+
+<a name="billy_foss">&nbsp;</a>
+<hr/>
+<div style="width:100%">
+    <div style="float:left;padding-right:30px;padding-bottom:30px">
+        <img alt="Billy Foss" width="200" src="/InnerSourceCommons/assets/img/Billy Foss.jpg"/>
+    </div>
+    <b>Billy Foss</b></a>
+    <p>
+Billy Foss works in the world between development and operations. As part of bridging these worlds, he has helped development teams run and operate development integration environments that provide continuous feedback on the stability of the code base. He has also helped operations and infrastructure teams adopt development techniques with source control and automated build processes of infrastructure as code. He enjoys automating to help people and helping people to automate. Prior to his experience at enterprise software companies (CA Technologies and IBM), he performed military simulation research while earning a master’s degree in computer science at the University of Central Florida.     
+</p>
+</div>
+<div style="clear:both;"></div>
 
 <a name="georg_gruetter">&nbsp;</a>
 <hr/>
@@ -34,7 +59,6 @@ Georg Gr&uuml;tter is a Senior Expert at Bosch Corporate Research and a founding
 </div>
 <div style="clear:both;"></div>
 
-
 <a name="andre_hagemeier">&nbsp;</a>
 <hr/>
 <div style="width:100%">
@@ -48,20 +72,6 @@ Andre Hagemeier is the Head of Development Platforms EU at Wayfair, where he tri
 </div>
 <div style="clear:both;"></div>
 
-
-<a name="billy_foss">&nbsp;</a>
-<hr/>
-<div style="width:100%">
-    <div style="float:left;padding-right:30px;padding-bottom:30px">
-        <img alt="Billy Foss" width="200" src="/InnerSourceCommons/assets/img/Billy Foss.jpg"/>
-    </div>
-    <b>Billy Foss</b></a>
-    <p>
-Billy Foss works in the world between development and operations. As part of bridging these worlds, he has helped development teams run and operate development integration environments that provide continuous feedback on the stability of the code base. He has also helped operations and infrastructure teams adopt development techniques with source control and automated build processes of infrastructure as code. He enjoys automating to help people and helping people to automate. Prior to his experience at enterprise software companies (CA Technologies and IBM), he performed military simulation research while earning a master’s degree in computer science at the University of Central Florida.     </p>
-</div>
-<div style="clear:both;"></div>
-
-
 <a name="robert_hansel">&nbsp;</a>
 <hr/>
 <div style="width:100%">
@@ -70,10 +80,10 @@ Billy Foss works in the world between development and operations. As part of bri
     </div>
     <b>Robert Hansel</b></a>
     <p>
-Robert Hansel is a founding member of the Social Coding Initiative at Bosch, in which he is driving the adoption of InnerSource within Bosch as a Social Coding Evangelist. Over his ten-year career in software development, Robert has worked in different technical areas from laboratory equipment to automotive components before he joined Bosch in 2011. He joined the InnerSource movement at Bosch in 2012, has led his own community and was part of the Social Coding team before joining the Bosch Center for Artificial Intelligence, where he continues to promote Social Coding within Bosch. He is a passionate motorbike rider and a proud father of his little son which consumes nearly every bit of his spare time.     </p>
+Robert Hansel is a founding member of the Social Coding Initiative at Bosch, in which he is driving the adoption of InnerSource within Bosch as a Social Coding Evangelist. Over his ten-year career in software development, Robert has worked in different technical areas from laboratory equipment to automotive components before he joined Bosch in 2011. He joined the InnerSource movement at Bosch in 2012, has led his own community and was part of the Social Coding team before joining the Bosch Center for Artificial Intelligence, where he continues to promote Social Coding within Bosch. He is a passionate motorbike rider and a proud father of his little son which consumes nearly every bit of his spare time.     
+</p>
 </div>
 <div style="clear:both;"></div>
-
 
 <a name="raimund_hook">&nbsp;</a>
 <hr/>
@@ -89,7 +99,6 @@ A passionate believer in Automation, Raimund believes that there is a solution f
 </div>
 <div style="clear:both;"></div>
 
-
 <a name="daniel_izquierdo">&nbsp;</a>
 <hr/>
 <div style="width:100%">
@@ -102,7 +111,6 @@ Daniel Izquierdo Cortazar is a researcher and one of the founders of Bitergia, a
 </p>
 </div>
 <div style="clear:both;"></div>
-
 
 <a name="stephen_mccall">&nbsp;</a>
 <hr/>
@@ -117,7 +125,6 @@ Stephen McCall is currently the InnerSource Governance Architect within the Ente
 </div>
 <div style="clear:both;"></div>
 
-
 <a name="david_mckenna">&nbsp;</a>
 <hr/>
 <div style="width:100%">
@@ -131,7 +138,6 @@ Dave McKenna is an Agile Coach who has worked in the information technology fiel
 </div>
 <div style="clear:both;"></div>
 
-
 <a name="david_mittman">&nbsp;</a>
 <hr/>
 <div style="width:100%">
@@ -141,6 +147,19 @@ Dave McKenna is an Agile Coach who has worked in the information technology fiel
     <b>David Mittman</b></a>
     <p>
 David Mittman has been developing software for over 35 years, and is currently Manager for Enterprise and Information Systems Engineering at NASA’s Jet Propulsion Laboratory, where he leads the delivery of processes, tools and services that are specially designed to serve the needs of the scientists, engineers and technicians of JPL’s Engineering and Science Directorate. His software helped plan the Mars Pathfinder mission that put the first-ever rover on Mars in the late 1990s, and is planning observations for NASA’s Spitzer Space Telescope. As an advocate for the software developer, David is helping to modernize the state of software product development and encourage a culture of collaboration across the Laboratory.
+</p>
+</div>
+<div style="clear:both;"></div>
+
+<a name="loren_sanz">&nbsp;</a>
+<hr/>
+<div style="width:100%">
+    <div style="float:left;padding-right:30px;padding-bottom:30px">
+        <img alt="Loren Sanz" width="200" src="/InnerSourceCommons/assets/img/Picture Pending.png"/>
+    </div>
+    <b> Loren Sanz </b></a>
+    <p>
+Loren Sanz is a gregarious engineer on Nike's Community Core team - a startup within the company that fosters cross-team and community interaction and development. Loren brings a broad background of experience to the team. His background includes management, enterprise sales, customer service and software engineering. Loren is passionate about collaboration and believes that we are strongest when we are all working together.     
 </p>
 </div>
 <div style="clear:both;"></div>
@@ -159,7 +178,8 @@ A long-time open source enthusiast and community member, Kanchana Welagedara is 
 <div style="clear:both;"></div>
 
 
-<b>Check again soon to see more speaker announcements. We are in the process of confirming speakers, so this page will be updated frequently throughout August.</b>
+<b><em>Check again soon to see more speaker announcements. We are in the process of confirming speakers, so this page will be updated frequently throughout August.</em></b>
+
 
 ### Keynote Speakers
 
@@ -217,6 +237,18 @@ Nithya A. Ruff is the Head of Comcast’s Open Source Practice.  She is responsi
 <p>
 Nithya has been a passionate advocate and a speaker for opening doors to new people in Open Source for many years. She has also been a promoter of valuing diverse ways of contributing to open source such as in marketing, legal and community. You can often find her on social media promoting dialogue on diversity and open source.  She has spoken at multiple conferences such as OSSummit, OSCON, All Things Open, SCALE, Grace Hopper, OpenStack, VMWorld, OS Strategy Summit and Red Hat Summit on the business and community of open source.   In recognition of her work in open source both on the business and community side, she was named to CIO magazine’s most influential women in open source list. She was recently one of 4 people to win the 2017 O’Reilly Open Source Award for exceptional contribution to open source.  
 Nithya graduated with an MS in Computer Science from NDSU and an MBA from the University of Rochester, Simon Business School. She lives in the San Francisco Bay Area and is a proud mother of two daughters. You can follow her on twitter @nithyaruff.     </p>
+</div>
+<div style="clear:both;"></div>
+
+<a name="russell_rutledge">&nbsp;</a>
+<hr/>
+<div style="width:100%">
+    <div style="float:left;padding-right:30px;padding-bottom:30px">
+        <img alt="Russell Rutledge" width="200" src="/InnerSourceCommons/assets/img/Russell Rutledge.jpeg"/>
+    </div>
+    <b> Russell R. Rutledge </b></a>
+    <p>
+Russ Rutledge is the lead for Nike's Community Core team—a startup within the company that culls the process and tools to encourage and foster cross-team and community interaction and development. Russ's drive and passion is to enable all software engineers to achieve incredible technical and business throughput via quality tooling and streamlined work process. Previously, Russ ran another successful startup delivering JavaScript continuous delivery solutions to hundreds of projects throughout Nike and did feature and infrastructure development for the Outlook and OneDrive consumer websites at Microsoft.     </p>
 </div>
 <div style="clear:both;"></div>
 
