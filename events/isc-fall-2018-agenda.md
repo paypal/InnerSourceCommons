@@ -52,8 +52,8 @@ The Inner Source Learning path will be freely hosted by O'Reilly Media at https:
         <td class="time">11:35 - 11:50</td>
         <td><a href="/InnerSourceCommons/events/isc-fall-2018-speakers#georg_gruetter">Georg Gr&uuml;tter</a> <span class="affiliation"> (Robert Bosch)</span></td>
         <td class="title">The State of InnerSource at Bosch
-            <span onClick="toggleAbstract('gr&uuml;tter-1')" class="abstract-toggle">(<a id="gr&uuml;tter-1-link">Show Abstract</a>)</span>
-            <div style="display:none" class="abstract" id="'gr&uuml;tter-1">
+            <span onClick="toggleAbstract('gr&uuml;tter-1')" class="abstract-toggle">(<a id="gr&uuml;tter-1-link">Show Abstract</a></span>
+            <div style="display:none" class="abstract" id="gr&uuml;tter-1">
 In this session, I will share insights into recent developments of InnerSource at Bosch, including metrics on collaboration, changes in InnerSource governance as well as lessons learned from nine years of InnerSource at Bosch.
             </div>
         </td>
@@ -73,7 +73,7 @@ Establishing an InnerSource program inherently implies creating a supply and dem
         <td class="author">Jim Jagielski<span class="affiliation"> (ConsenSys and The Apache Software Foundation - <em>Being confirmed</em>)</span></td>
         <td class="title">Foundations of InnerSource and The Apache Way
              <span onClick="toggleAbstract('jagielski-1')" class="abstract-toggle">(<a id="jagielski-1-link">Show Abstract</a>)</span>
-            <div style="display:none" class="abstract" id=" jagielski-1">
+            <div style="display:none" class="abstract" id="jagielski-1">
 Join this session to learn about the best practices of Open Source via a deep dive into The Apache Way, which serve as the inspiration for InnerSource.
             </div>
         </td>
@@ -112,8 +112,8 @@ In 2013, a number of employees at NASA's Jet Propulsion Laboratory believed that
         <td class="time">4:15 - 5:00</td>
        <td class="author"><a href="/InnerSourceCommons/events/isc-fall-2018-speakers#russell_rutledge">Russell R. Rutledge</a><span class="affiliation"> (Nike)</span></td>
         <td class="title"><span class="keynoteTag">Keynote:</span> Growing an InnerSource Program
-            <span onClick="toggleAbstract('rutledge-2')" class="abstract-toggle">(<a id=" rutledge-2-link">Show Abstract</a>)</span>
-            <div style="display:none" class="abstract" id=" rutledge-2">
+            <span onClick="toggleAbstract('rutledge-2')" class="abstract-toggle">(<a id="rutledge-2-link">Show Abstract</a>)</span>
+            <div style="display:none" class="abstract" id="rutledge-2">
 "Inner source is a great idea! Go do inner source!" You're the dedicated champion for inner source in your company. What do you do now? How do you realistically affect the behavior of dozens or hundreds of teams to the point where robust and pervasive inner sourcing is a normal part of the way that engineering is done? This presentation shares principles, practical anecdotes, and relatable examples on this situation gleaned from experience at Nike. While not claiming all of the answers, it is insightful summary of over a year of work in the area.
             </div>
         </td>
@@ -124,7 +124,7 @@ In 2013, a number of employees at NASA's Jet Propulsion Laboratory believed that
             <a href="/InnerSourceCommons/events/isc-fall-2018-speakers#raimund_hook">Raimund Hook</a> <span class="affiliation">(EXFO Inc.)</span></td>
         <td class="title"><span class="keynoteTag">Keynote:</span> Starting an InnerSource Program: This is scary – where do I begin?
             <span onClick="toggleAbstract('hook-1')" class="abstract-toggle">(<a id="hook-1-link">Show Abstract</a>)</span>
-            <div style="display:none" class="abstract" id=" hook-1">
+            <div style="display:none" class="abstract" id="hook-1">
 I’ve long been a proponent of software reuse, sharing, and breaking down of silos, but it wasn’t until this year (2018) that I was introduced to InnerSource as a formal concept. At the same time, my company was advertising internally for somebody to start building an InnerSource program internally. I felt that it was a position designed for me.
 This talk is about the 9-month journey I’ve had since the beginning of the year. During this time, I’ve encountered people all over our global organization. Most of them are overwhelmingly positive about this concept of InnerSource. Fortunately, I’m in an environment where it’s not only supported by upper management but being actively encouraged. At the ISC Spring Summit, I met several people who were interested in starting up an InnerSource program, but not sure what to do first. This presentation is designed to kickstart offline discussion around a future series of talks related to how to start a program. 
             </div>
@@ -179,8 +179,6 @@ This session will discuss how to find teams that are ready to practice InnerSour
     <tr>
         <td class="time">11:00 - 11:15</td>
         <td colspan="2">Break</td>
-    </tr>
-    <tr>
             </div>
         </td>
     </tr>
@@ -223,9 +221,9 @@ InnerSource - what we call Bosch Internal Open Source (BIOS) internally - is a g
     <tr>
         <td class="time">2:25 - 3:10</td>
         <td><a href="/InnerSourceCommons/events/isc-fall-2018-speakers#georg_gruetter">Georg Gr&uuml;tter</a> <span class="affiliation">(Robert Bosch)</span></td>
-        <td class="title">The State of InnerSource at Bosch
-            <span onClick="toggleAbstract('gr&uuml;tter-1')" class="abstract-toggle">(<a id="gr&uuml;tter-1-link">Show Abstract</a>)</span>
-            <div style="display:none" class="abstract" id="'gr&uuml;tter-1">
+        <td class="title">The Inner Source Manifesto
+            <span onClick="toggleAbstract('gr&uuml;tter-2')" class="abstract-toggle">(<a id="gr&uuml;tter-2-link">Show Abstract</a>)</span>
+            <div style="display:none" class="abstract" id="'gr&uuml;tter-2">
 During this collaborative session, we will review, discuss, and collaborate on the latest draft of the InnerSource Manifesto, created by the InnerSource Commons community.
              </div>
         </td>
@@ -250,7 +248,7 @@ Bringing down silos in companies, creating strong and scalable competencies in d
         <td class="author">
             <a href="/InnerSourceCommons/events/isc-fall-2018-speakers#andre_hagemeier">Andre Hagemeier</a> <span class="affiliation">(Wayfair)</span></td>
                     <td class="title"> Foundation for IS: A Sense of Ownership
-            <span onClick="toggleAbstract('hagemeier-1')" class="abstract-toggle">(<a id="hagemeier-1">Show Abstract</a>)</span>
+            <span onClick="toggleAbstract('hagemeier-1')" class="abstract-toggle">(<a id="hagemeier-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="hagemeier-1">
 Join this session to hear about what we have learned at Wayfair, when we tried to launch an Innersource program at a company with well over 1300 engineers and a single monolithic code base. We'll talk about why a common understanding and a clear definition of ownership is a fundamental pre-requisite for any Innersource initiative, and how company politics can sometimes threaten to derail such initiatives.
             </div>
@@ -316,8 +314,8 @@ At the European InnerSource Commons event, we held a workshop about the document
         <td class="time">10:05 - 11:35</td>
         <td class="author"><a href="/InnerSourceCommons/events/isc-fall-2018-speakers#kanchana_welagedara">Kanchana Welagedara</a> <span class="affiliation">(Apache Software Foundation and JP Morgan Chase)</span></td>
         <td class="title">The Need of Innersource in FinTech
-            <span onClick="toggleAbstract('welagedara-1')" class="abstract-toggle">(<a id=" welagedara-1-link">Show Abstract</a>)</span>
-            <div style="display:none" class="abstract" id=" welagedara-1">
+            <span onClick="toggleAbstract('welagedara-1')" class="abstract-toggle">(<a id="welagedara-1-link">Show Abstract</a>)</span>
+            <div style="display:none" class="abstract" id="welagedara-1">
 In this session, I will deep-dive into the issues that engineering silos cause at large financial tech companies. Silos limit innovation, cause less collaboration amongst engineering teams, contribute to a lack of quality mentorship, limit people skills, and can drive fear to move more current technologies. I will discuss how inner source brings a revolutionary approach to transform such engineering cultures to adopt efficient, collaborative processes, quality mentorship and to create a more organic and innovative software engineering ecosystem overall. 
             </div>
         </td>
@@ -327,7 +325,7 @@ In this session, I will deep-dive into the issues that engineering silos cause a
         <td><a href="/InnerSourceCommons/events/isc-fall-2018-speakers#david_mckenna">David McKenna</a> <span class="affiliation">(CA Technologies)</span></td>
         <td class="title"> Case Study: Agile Transformation at CA Technologies: Some Assembly Required
             <span onClick="toggleAbstract('mckenna-1')" class="abstract-toggle">(<a id="mckenna-1-link">Show Abstract</a>)</span>
-            <div style="display:none" class="abstract" id="mckenna-2">
+            <div style="display:none" class="abstract" id="mckenna-1">
 In this session, I will discuss how agile teams implement inner source, and use CA's internal "agile" transformation as a backdrop to share the key mindsets of effective transformation we've learned supporting hundreds of companies in their change journeys.
             </div>
         </td>
