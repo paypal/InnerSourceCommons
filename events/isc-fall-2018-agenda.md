@@ -122,7 +122,7 @@ In 2013, a number of employees at NASA's Jet Propulsion Laboratory believed that
         <td class="time">5:00 - 5:15</td>
         <td class="author">
             <a href="/InnerSourceCommons/events/isc-fall-2018-speakers#raimund_hook">Raimund Hook</a> <span class="affiliation">(EXFO Inc.)</span></td>
-        <td class="title"><span class="keynoteTag">Keynote:</span> Starting an InnerSource Program: This is scary – where do I begin?
+        <td class="title">Starting an InnerSource Program: This is scary – where do I begin?
             <span onClick="toggleAbstract('hook-1')" class="abstract-toggle">(<a id="hook-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="hook-1">
 I’ve long been a proponent of software reuse, sharing, and breaking down of silos, but it wasn’t until this year (2018) that I was introduced to InnerSource as a formal concept. At the same time, my company was advertising internally for somebody to start building an InnerSource program internally. I felt that it was a position designed for me.
