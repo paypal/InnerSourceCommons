@@ -168,7 +168,7 @@ At Nike, we've chosen a bottom-up, grass roots strategy for our InnerSource effo
     </tr>
     <tr>
         <td class="time">10:25 - 10:55</td>
-        <td class="author">Silona Bonewald<span class="affiliation"> (PayPal - <em>Being confirmed</em>)</span></td>
+        <td class="author"><a href="/InnerSourceCommons/events/isc-fall-2018-speakers#silona_bonewald">Silona Bonewald</a><span class="affiliation"> (PayPal)</span></td>
         <td class="title">Discoverability and Collaboration
             <span onClick="toggleAbstract('bonewald-1')" class="abstract-toggle">(<a id="bonewald-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="bonewald-1">
