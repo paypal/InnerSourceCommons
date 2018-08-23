@@ -52,7 +52,7 @@ The Inner Source Learning path will be freely hosted by O'Reilly Media at https:
         <td class="time">11:35 - 11:50</td>
         <td><a href="/InnerSourceCommons/events/isc-fall-2018-speakers#georg_gruetter">Georg Gr&uuml;tter</a> <span class="affiliation"> (Robert Bosch)</span></td>
         <td class="title">The State of InnerSource at Bosch
-            <span onClick="toggleAbstract('gr&uuml;tter-1')" class="abstract-toggle">(<a id="gr&uuml;tter-1-link">Show Abstract</a></span>
+            <span onClick="toggleAbstract('gr&uuml;tter-1')" class="abstract-toggle">(<a id="gr&uuml;tter-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="gr&uuml;tter-1">
 In this session, I will share insights into recent developments of InnerSource at Bosch, including metrics on collaboration, changes in InnerSource governance as well as lessons learned from nine years of InnerSource at Bosch.
             </div>
@@ -231,7 +231,7 @@ During this collaborative session, we will review, discuss, and collaborate on t
     <td class="time">3:15 - 4:05</td>
         <td class="author"><a href="/InnerSourceCommons/events/isc-fall-2018-speakers#nithya_ruff">Nithya Ruff</a> <span class="affiliation">(Comcast)</span></td>
         <td class="title">
-            <span class="keynoteTag">Keynote:</span>Collaboration Not Just for Open Source Communities; Key for Internal Communities</span> 
+            <span class="keynoteTag">Keynote: </span>Collaboration Not Just for Open Source Communities; Key for Internal Communities</span> 
              <span onClick="toggleAbstract('ruff-1')" class="abstract-toggle">(<a id="ruff-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="ruff-1">
 Bringing down silos in companies, creating strong and scalable competencies in development requires intentional community building.  Internal community building can also strengthen skills in creating broader communities when companies open source projects. Comcast has been working in open source since the early 2000s and on practices that improve engineering effectiveness. Nithya will share some of these practices and how it is creating stronger and inclusive internal communities. 
@@ -310,7 +310,7 @@ At the European InnerSource Commons event, we held a workshop about the document
         <td colspan="2">Break</td>
     </tr>
     <tr>
-        <td class="time">10:05 - 11:35</td>
+        <td class="time">11:05 - 11:35</td>
         <td class="author"><a href="/InnerSourceCommons/events/isc-fall-2018-speakers#kanchana_welagedara">Kanchana Welagedara</a> <span class="affiliation">(Apache Software Foundation and JP Morgan Chase)</span></td>
         <td class="title">The Need of Innersource in FinTech
             <span onClick="toggleAbstract('welagedara-1')" class="abstract-toggle">(<a id="welagedara-1-link">Show Abstract</a>)</span>
