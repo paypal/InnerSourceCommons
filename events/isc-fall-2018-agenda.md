@@ -85,8 +85,8 @@ Join this session to learn about the best practices of Open Source via a deep di
     <tr>
         <td class="time">2:15 - 3:25</td>
         <td class="author">
-            <a href="/InnerSourceCommons/events/isc-fall-2018-speakers#erin_bank">Erin Bank</a> <span class="affiliation"> (CA Technologies)</span></td>
-            <a href="/InnerSourceCommons/events/isc-fall-2018-speakers#daniel_izquierdo">Daniel Izquierdo</a> <span class="affiliation (Bitergia)</span><br/></span></td>
+            <a href="/InnerSourceCommons/events/isc-fall-2018-speakers#erin_bank">Erin Bank</a> <span class="affiliation"> (CA Technologies)</span><br/>
+            <a href="/InnerSourceCommons/events/isc-fall-2018-speakers#daniel_izquierdo">Daniel Izquierdo</a> <span class="affiliation"> (Bitgeria)</span></td>
         <td class="title">Inner Source Patterns: Introduction & Workshop: Together we can build the roadmap for success!
             <span onClick="toggleAbstract('bank-1')" class="abstract-toggle">(<a id="bank-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="bank-1">
@@ -184,8 +184,7 @@ This session will discuss how to find teams that are ready to practice InnerSour
     </tr>
     <tr>
         <td class="time">11:20 – 11:45</td>
-        <td class="author">
-            <a href="/InnerSourceCommons/events/isc-fall-2018-speakers#daniel_izquierdo">Daniel Izquierdo</a> <span class="affiliation">(Bitergia)</span></td>
+        <td class="author"><a href="/InnerSourceCommons/events/isc-fall-2018-speakers#daniel_izquierdo">Daniel Izquierdo</a><span class="affiliation"> (Bitergia)</span></td>
                    <td class="title">Are You Sure You are Measuring What You Want to Measure?
             <span onClick="toggleAbstract('izquierdo-1')" class="abstract-toggle">(<a id=" izquierdo-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="izquierdo-1">
