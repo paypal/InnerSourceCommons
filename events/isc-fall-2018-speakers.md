@@ -186,7 +186,7 @@ Loren Sanz is a gregarious engineer on Nike's Community Core team - a startup wi
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-        <img alt="Kristof Van Tomme" width="200" src="/InnerSourceCommons/assets/img/Picture Pending.png"/>
+        <img alt="Kristof Van Tomme" width="200" src="/InnerSourceCommons/assets/img/Kristof Van Tomme.png"/>
     </div>
     <b>Kristof Van Tomme</b></a>
     <p>
