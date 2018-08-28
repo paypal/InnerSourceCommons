@@ -70,7 +70,7 @@ Establishing an InnerSource program inherently implies creating a supply and dem
     </tr>
     <tr>
         <td class="time">12:30 - 1:00</td>
-        <td class="author">Jim Jagielski<span class="affiliation"> (ConsenSys and The Apache Software Foundation - <em>Being confirmed</em>)</span></td>
+        <td class="author">Jim Jagielski<span class="affiliation"> (ConsenSys and The Apache Software Foundation)</span></td>
         <td class="title">Foundations of InnerSource and The Apache Way
              <span onClick="toggleAbstract('jagielski-1')" class="abstract-toggle">(<a id="jagielski-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="jagielski-1">
@@ -280,8 +280,7 @@ Join this session to hear about what we have learned at Wayfair, when we tried t
     <tr>
         <td class="time">08:55 - 09:45</td>
         <td class="author"><a href="/InnerSourceCommons/events/isc-fall-2018-speakers#mary lynn_manns">Dr. Mary Lynn Manns</a> <span class="affiliation">(UNC Asheville)</span></td>
-        <td class="title">
-            <span class="keynoteTag"></span>Morning Keynote</span>
+        <td class="title"><span class="keynoteTag">Keynote:</span> Leading Change from the Heart (Instead of the Head)
             </div>
         </td>
     </tr>
