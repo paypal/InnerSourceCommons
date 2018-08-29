@@ -139,6 +139,18 @@ Enter Whitestone Expressway from Ditmas Blvd.
 Take I-495 E/Long Island Expressway to Express Drive, S/Long Island Expressway South Service Rd in Hauppauge.  Take exit 57 from I-495 E/Long Island Expy.
 Take Long Island Motor Parkway/Motor Pkwy to Computer Associates Plaza in Islandia.
 
+#### Trains
+
+There are trains each hour either from Jamaica Station (where the airport train goes) or Penn Station in central NY.
+
+The price goes from $10.50 off peak to $14.50 peak time from Jamaica and $13.75 off peak and $19.00 peak time from Penn Station.
+
+The total travel time ranges from one hour from Jamaica Station to 1.2 hours from Penn Station.
+
+Need more info?
+
+* [LIRR map](http://web.mta.info/lirr/Timetable/lirrmap.htm)
+* [Fare estimation](http://lirr42.mta.info/fares.php)
 
 ### Hotels
 
