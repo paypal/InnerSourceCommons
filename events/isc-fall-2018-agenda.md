@@ -205,7 +205,7 @@ How do you explain the value InnerSource brings an organization? How do you dete
     </tr>
     <tr>
         <td class="time">12:30 - 1:00</td>
-        <td class="author"><a href="/InnerSourceCommons/events/isc-fall-2018-speakers#robert_hansel">Robert Hansel</a> <span class="affiliation">(Robert Boch)</span></td>
+        <td class="author"><a href="/InnerSourceCommons/events/isc-fall-2018-speakers#robert_hansel">Robert Hansel</a> <span class="affiliation">(Robert Bosch)</span></td>
         <td class="title"> Case Study: Artificial Intelligence - How to enable a whole company with the help of InnerSource
             <span onClick="toggleAbstract('hansel-1')" class="abstract-toggle">(<a id="hansel-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="hansel-1">
