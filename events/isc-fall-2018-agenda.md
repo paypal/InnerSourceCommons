@@ -221,8 +221,7 @@ InnerSource - what we call Bosch Internal Open Source (BIOS) internally - is a g
         <td class="time">2:25 - 3:10</td>
         <td><a href="/InnerSourceCommons/events/isc-fall-2018-speakers#georg_gruetter">Georg Gr&uuml;tter</a> <span class="affiliation">(Robert Bosch)</span></td>
         <td class="title">The Inner Source Manifesto
-            <span onClick="toggleAbstract('gr&uuml;tter-2')" class="abstract-toggle">(<a id="gr&uuml;tter-2">Show Abstract</a>)</span>
-            <div style="display:none" class="abstract" id="gr&uuml;tter-2">
+             <span onClick="toggleAbstract('gr&uuml;tter-2')" class="abstract-toggle">(<a id="gr&uuml;tter-2-link">Show Abstract</a>)                </span><div style="display:none" class="abstract" id="gr&uuml;tter-2">
 During this collaborative session, we will review, discuss, and collaborate on the latest draft of the InnerSource Manifesto, created by the InnerSource Commons community.
              </div>
         </td>
