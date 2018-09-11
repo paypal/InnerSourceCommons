@@ -168,11 +168,11 @@ At Nike, we've chosen a bottom-up, grass roots strategy for our InnerSource effo
     </tr>
     <tr>
         <td class="time">10:25 - 10:55</td>
-        <td class="author"><a href="/InnerSourceCommons/events/isc-fall-2018-speakers#silona_bonewald">Silona Bonewald</a><span class="affiliation"> (PayPal)</span></td>
-        <td class="title">Discoverability and Collaboration
-            <span onClick="toggleAbstract('bonewald-1')" class="abstract-toggle">(<a id="bonewald-1-link">Show Abstract</a>)</span>
-            <div style="display:none" class="abstract" id="bonewald-1">
-This session will discuss how to find teams that are ready to practice InnerSource together.  It will also explore how to prove to middle management that it is safe to collaborate across BUs.   
+        <td class="author"><a href="/InnerSourceCommons/events/isc-fall-2018-speakers#kanchana_welagedara">Kanchana Welagedara</a> <span class="affiliation">(Apache Software Foundation and JP Morgan Chase)</span></td>
+        <td class="title">The Need of Innersource in FinTech
+            <span onClick="toggleAbstract('welagedara-1')" class="abstract-toggle">(<a id="welagedara-1-link">Show Abstract</a>)</span>
+            <div style="display:none" class="abstract" id="welagedara-1">
+In this session, I will deep-dive into the issues that engineering silos cause at large financial tech companies. Silos limit innovation, cause less collaboration amongst engineering teams, contribute to a lack of quality mentorship, limit people skills, and can drive fear to move more current technologies. I will discuss how inner source brings a revolutionary approach to transform such engineering cultures to adopt efficient, collaborative processes, quality mentorship and to create a more organic and innovative software engineering ecosystem overall.    
             </div>
         </td>
         </tr>
@@ -242,12 +242,11 @@ The pace of technology innovation is accelerating. New technologies can be disru
     </tr>
     <tr>
         <td class="time">4:25 – 4:55</td>
-        <td class="author">
-            <a href="/InnerSourceCommons/events/isc-fall-2018-speakers#andre_hagemeier">Andre Hagemeier</a> <span class="affiliation">(Wayfair)</span></td>
-                    <td class="title"> Foundation for IS: A Sense of Ownership
-            <span onClick="toggleAbstract('hagemeier-1')" class="abstract-toggle">(<a id="hagemeier-1-link">Show Abstract</a>)</span>
-            <div style="display:none" class="abstract" id="hagemeier-1">
-Join this session to hear about what we have learned at Wayfair, when we tried to launch an Innersource program at a company with well over 1300 engineers and a single monolithic code base. We'll talk about why a common understanding and a clear definition of ownership is a fundamental pre-requisite for any Innersource initiative, and how company politics can sometimes threaten to derail such initiatives.
+.<td class="author"><a href="/InnerSourceCommons/events/isc-fall-2018-speakers#silona_bonewald">Silona Bonewald</a><span class="affiliation"> (PayPal)</span></td>
+        <td class="title">Discoverability and Collaboration
+            <span onClick="toggleAbstract('bonewald-1')" class="abstract-toggle">(<a id="bonewald-1-link">Show Abstract</a>)</span>
+            <div style="display:none" class="abstract" id="bonewald-1">
+This session will discuss how to find teams that are ready to practice InnerSource together.  It will also explore how to prove to middle management that it is safe to collaborate across BUs.
             </div>
         </td>
     </tr>
@@ -308,11 +307,11 @@ At the European InnerSource Commons event, we held a workshop about the document
     </tr>
     <tr>
         <td class="time">11:05 - 11:35</td>
-        <td class="author"><a href="/InnerSourceCommons/events/isc-fall-2018-speakers#kanchana_welagedara">Kanchana Welagedara</a> <span class="affiliation">(Apache Software Foundation and JP Morgan Chase)</span></td>
-        <td class="title">The Need of Innersource in FinTech
-            <span onClick="toggleAbstract('welagedara-1')" class="abstract-toggle">(<a id="welagedara-1-link">Show Abstract</a>)</span>
-            <div style="display:none" class="abstract" id="welagedara-1">
-In this session, I will deep-dive into the issues that engineering silos cause at large financial tech companies. Silos limit innovation, cause less collaboration amongst engineering teams, contribute to a lack of quality mentorship, limit people skills, and can drive fear to move more current technologies. I will discuss how inner source brings a revolutionary approach to transform such engineering cultures to adopt efficient, collaborative processes, quality mentorship and to create a more organic and innovative software engineering ecosystem overall. 
+       <td class="author"><a href="/InnerSourceCommons/events/isc-fall-2018-speakers#andre_hagemeier">Andre Hagemeier</a> <span class="affiliation">(Wayfair)</span></td>
+                    <td class="title"> Foundation for IS: A Sense of Ownership
+            <span onClick="toggleAbstract('hagemeier-1')" class="abstract-toggle">(<a id="hagemeier-1-link">Show Abstract</a>)</span>
+            <div style="display:none" class="abstract" id="hagemeier-1">
+Join this session to hear about what we have learned at Wayfair, when we tried to launch an Innersource program at a company with well over 1300 engineers and a single monolithic code base. We'll talk about why a common understanding and a clear definition of ownership is a fundamental pre-requisite for any Innersource initiative, and how company politics can sometimes threaten to derail such initiatives
             </div>
         </td>
     </tr>
