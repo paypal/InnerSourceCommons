@@ -7,7 +7,7 @@ title: 'InnerSource Commons Fall Summit 2018'
 
 
 ### Registration
-[Registration](https://www.brownpapertickets.com/event/3444630) is open through end of September 2018. Get your tickets now, and spread the word! Your registration fee of $25.00 will be donated to the Apache Software Foundation. 
+There are only a few tickets left, so [register](https://www.brownpapertickets.com/event/3444630) now! Your registration fee of $25.00 will be donated to the Apache Software Foundation. 
 
 
 ### Agenda and Speakers
