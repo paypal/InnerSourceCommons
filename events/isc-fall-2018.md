@@ -7,7 +7,7 @@ title: 'InnerSource Commons Fall Summit 2018'
 
 
 ### Registration
-There are only a few tickets left, so [register](https://www.brownpapertickets.com/event/3444630) now! Your registration fee of $25.00 will be donated to the Apache Software Foundation. 
+This event is close to being sold out, so [register](https://www.brownpapertickets.com/event/3444630) now! Your registration fee of $25.00 will be donated to the Apache Software Foundation. 
 
 
 ### Agenda and Speakers
@@ -45,22 +45,6 @@ An advocate of diversity, he is a member of the University of Vermont’s STEM l
 
 <p>
 Dr. Mary Lynn Manns is a professor in the Department of Management at UNC Asheville and the co-author of two books, <i>Fearless Change: Patterns for Introducing New Ideas</i>, 2005 (also published in Japanese and Chinese) and <i>More Fearless Change: Strategies for Making Your Ideas Happen</i>, 2015. Mary Lynn has given numerous presentations on change leadership throughout the world in many organizations that include Microsoft, Proctor & Gamble, Avon, and amazon.com.  On campus, she coordinates the "Ideas to Action" initiative at UNC Asheville, which guides students as they work in interdisciplinary teams to design, develop, and defend their ideas for changing the world. For more information: https://mgmtacct.unca.edu/faces/mary-lynn-manns-phd. 
-</p>
-</td>
-
-<div style="width:100%">
-    <div style="float:left;padding-right:30px;padding-bottom:30px">
-        <img alt="Nithya Ruff" width="200" src="/InnerSourceCommons/assets/img/Nithya Ruff.png"/>
-    </div>
-<b>Nithya Ruff, Head of Open Source Practice at Comcast</b>
-
-<p>
-Nithya A. Ruff is the Head of Comcast’s Open Source Practice.  She is responsible for growing Open Source culture inside of Comcast and engagement with external communities.  Prior to this, she started and grew the Western Digital’s Open Source Strategy Office. She first glimpsed the power of open source while at SGI in the 90s and has been building bridges between companies and the open source community ever since. She’s also held leadership positions at Wind River (an Intel Company), Synopsys, Avaya, Tripwire and Eastman Kodak. At Wind River, she led a team of product managers in managing a world class embedded Linux distribution and was a key member of the Yocto Project advocacy team on the board. Nithya is a Director at Large on the Linux Foundation Board and represents community interests on the board.
- 
-Nithya has been a passionate advocate and a speaker for opening doors to new people in Open Source for many years. She has also been a promoter of valuing diverse ways of contributing to open source such as in marketing, legal and community. You can often find her on social media promoting dialogue on diversity and open source.  She has spoken at multiple conferences such as OSSummit, OSCON, All Things Open, SCALE, Grace Hopper, OpenStack, VMWorld, OS Strategy Summit and Red Hat Summit on the business and community of open source.   In recognition of her work in open source both on the business and community side, she was named to CIO magazine’s most influential women in open source list. She was recently one of 4 people to win the 2017 O’Reilly Open Source Award for exceptional contribution to open source.  
-
-Nithya graduated with an MS in Computer Science from NDSU and an MBA from the University of Rochester, Simon Business School. She lives in the San Francisco Bay Area and is a proud mother of two daughters. You can follow her on twitter @nithyaruff.
- 
 </p>
 </td>
 
