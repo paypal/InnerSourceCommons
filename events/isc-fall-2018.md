@@ -7,7 +7,7 @@ title: 'InnerSource Commons Fall Summit 2018'
 
 
 ### Registration
-This event sold out! Watch the site for details on the 2019 summits.
+This event is now sold out. Please watch the site for details on the upcoming 2019 Spring (April) and Fall summits!
 
 ### Agenda and Speakers
 The Fall Summit [agenda](/InnerSourceCommons/events/isc-fall-2018-agenda) is now available, including an exciting lineup of [sessions](/InnerSourceCommons/events/isc-fall-2018-agenda) and [speakers](/InnerSourceCommons/events/isc-fall-2018-speakers)! 
