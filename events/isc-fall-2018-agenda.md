@@ -13,8 +13,8 @@ title: 'InnerSource Commons Fall Summit 2018 Agenda'
     </tr>
     <tr>
         <td class="time">09:05 - 09:15</td>
-        <td colspan="2">
-            Day 1 Opening
+            <td class="author"><a href="/InnerSourceCommons/events/isc-fall-2018-speakers#erin_bank">Erin Bank</a><span class="affiliation"> (CA Technologies)</span></td>
+        <td class="title">Day 1 Opening Comments
         </td>
     </tr>
     <tr>
@@ -144,8 +144,8 @@ This talk is about the 9-month journey I’ve had since the beginning of the yea
     </tr>
     <tr>
         <td class="time">08:45 - 08:55</td>
-        <td colspan="2" >
-            Day 2 Opening
+        <td class="author"><a href="/InnerSourceCommons/events/isc-fall-2018-speakers#erin_bank">Erin Bank</a><span class="affiliation">         (CA Technologies)</span></td>
+        <td class="title">Day 2 Opening Comments
         </td>
     </tr>
     <tr>
@@ -270,8 +270,8 @@ This session will discuss how to find teams that are ready to practice InnerSour
     </tr>
     <tr>
         <td class="time">08:45 - 08:55</td>
-        <td colspan="2" >
-            Day 3 Opening
+        <td class="author"><a href="/InnerSourceCommons/events/isc-fall-2018-speakers#erin_bank">Erin Bank</a><span class="affiliation">         (CA Technologies)</span></td>
+        <td class="title">Day 3 Opening Comments
         </td>
     </tr>
     <tr>
