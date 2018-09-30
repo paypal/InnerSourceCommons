@@ -186,7 +186,7 @@ David Mittman has been developing software for over 35 years, and is currently M
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
-        <img alt="Loren Sanz" width="200" src="/InnerSourceCommons/assets/img/Picture Pending.png"/>
+        <img alt="Loren Sanz" width="200" src="/InnerSourceCommons/assets/img/Loren Sanz.png"/>
     </div>
     <b> Loren Sanz </b></a>
     <p>
