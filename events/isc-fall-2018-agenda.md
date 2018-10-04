@@ -157,7 +157,7 @@ This talk is about the 9-month journey I’ve had since the beginning of the yea
         </td>
     </tr>
     <tr>
-        <td class="time">09:55 - 10:05</td>
+        <td class="time">09:55 - 10:25</td>
         <td class="author"><a href="/InnerSourceCommons/events/isc-fall-2018-speakers#noah_cawley">Noah Cawley</a><span class="affiliation"> (Nike)</span></td>
         <td class="title">The Science Behind Grass Roots InnerSource
             <span onClick="toggleAbstract('cawley-1')" class="abstract-toggle">(<a id="cawley-1-link">Show Abstract</a>)</span>
