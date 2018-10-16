@@ -9,7 +9,7 @@ title: 'InnerSource Commons Fall Summit 2018'
 ### Event
 That's an official wrap on the InnerSource Commons Fall Summit! Thanks to all attendees and speakers for making this summit so productive and fun!
 
-<a href="/InnerSourceCommons/assets/img/isc.s7-group-photo.jpg"><img alt="ISC.S7 Crowd" width="600" src="/InnerSourceCommons/assets/img/isc.s7-group-photo.jpg"/></a>
+<a href="/InnerSourceCommons/assets/img/isc.s7-group-photo.JPG"><img alt="ISC.S7 Crowd" width="600" src="/InnerSourceCommons/assets/img/isc.s7-group-photo.JPG"/></a>
 
 Please watch the site home page for details on the upcoming 2019 Spring (April) and Fall summits!
 
