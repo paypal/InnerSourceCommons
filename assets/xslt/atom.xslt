@@ -251,6 +251,11 @@
 
                       
 
+                      <li><a  href="/InnerSourceCommons/resources/learningpath/" >Learning Path</a></li>
+                    
+
+                      
+
                       <li><a  target="_blank" href="https://github.com/paypal/InnerSourceCommons/wiki" >Wiki</a></li>
                     
 
