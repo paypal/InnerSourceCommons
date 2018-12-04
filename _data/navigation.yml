@@ -23,6 +23,8 @@
     url: "/resources/articles/"
   - title: "Books"
     url: "/resources/books"
+  - title: "Learning Path"
+    url: "/resources/learningpath/"
   - title: "Wiki"
     url: "https://github.com/paypal/InnerSourceCommons/wiki"
   - title: "Patterns"
