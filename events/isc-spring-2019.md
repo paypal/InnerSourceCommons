@@ -3,13 +3,16 @@ layout: page
 title: 'InnerSource Commons Spring Summit 2019'
 ---
 
-### <date and location>
+### 9th to 11th April 2019 in Galway, Ireland
 
 ### Call For Presentations
+Details will be released shortly
 
 ### Registration
+Details will be released shortly
 
 ### Agenda and Speakers
+TBC
 
 ### What is the InnerSource Commons?
 
@@ -28,10 +31,41 @@ The three key reasons to attend the InnerSource Common Summits are:
 * Network, network, network! The InnerSource Commons is an excellent place to network with likeminded people, all of whom are passionate about making InnerSource a success in their respective organizations!
 
 ### Venue
+This Summit is hosted by the National University of Ireland, Galway (NUIG) at the North Campus in the J.E Cairnes Building. A full interactive campus map is also available at: https://www.nuigalway.ie/campus-map/
 
 ### Travel and Transit
 
+Three proximate Airports of choice are as follows:
+
+1. Shannon Airport
+
+The airport serves flights from north America and Continental Europe. The Airport is of particular ease to traffic from the USA with pre-clearance services provided by US Customs. Most of the major European Hubs ranging from Frankfurt, Heathrow and Schipol provide regular flight services across major carriers. Shannon Airport has a bus service from the front door of the Airport Terminal Serving Galway City. The bus journey from the airport varies with Express journeys taking 1 Hour 30 Minutes approx. Car Rental Services are available. Train services are available from Limerick City which can be accessed by bus.
+
+2. Dublin
+
+Dublin is the main national airport and enjoys access from all major worldwide hubs. Bus access is available to Galway from public bus services and private operators such as GoBus and CityLink. Car rental services are available. The Galway train is accessible bus bus to Heuston Station. Regular trains to Galway leave from Heuston Station.
+
+3. Knock
+
+Knock Airport is north of Galway City and can be accessed by bus services. It is a small regional airport. However, it has regular flight access from the UK, Spain and some limited continental airports. Car Rental Services are available. Train services can only be accessed by bus and are not direct.
+
 ### Hotels
+Galway Features a Number of Hotels that are proximate to the University. Attendees are encouraged to book early. Local options Include, Hotels, Guesthouses, Air B&B and Hostels. If attendees are booking late or experience difficulties booking please contact the organisers and alternative room provision can be arranged.
+
+* Maldron Hotel Sandy Road (Five Minutes Taxi Journey from J.E Cairnes School): https://www.maldronhotelsandyroadgalway.com/ 
+* Salthill Hotel (Ten Minutes Taxi Journey from J.E Cairnes School): https://www.salthillhotel.com/ 
+* Jurys Inn, Galway (Within several minutes walk of the South Campus): https://www.jurysinns.com/hotels/galway 
+* Asgard Guesthouse (Ten Minutes Taxi Journey from J.E Cairnes School)
+
+Other Hotels & Hostels in Galway City:
+* Raddison Blu Hotel
+* Park House Hotel
+* Meyrick Hotel
+* House Hotel
+* Imperial Hotel
+* Connacht Hotel
+* Snoozles Hostel Galway
+* The Nest Boutique Hostel
 
 ### [Code of Conduct](/InnerSourceCommons/events/conduct/)
 
