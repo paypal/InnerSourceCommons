@@ -6,10 +6,10 @@ title: 'InnerSource Commons Spring Summit 2019'
 ### 9th to 11th April 2019 in Galway, Ireland
 
 ### Call For Presentations
-Details will be released shortly
+Details will be released shortly.
 
 ### Registration
-Details will be released shortly
+Details will be released shortly.
 
 ### Agenda and Speakers
 TBC
