@@ -6,7 +6,8 @@ title: 'InnerSource Commons Spring Summit 2019'
 ### 9th to 11th April 2019 in Galway, Ireland
 
 ### Call For Presentations
-Details will be released shortly.
+Use this form to submit your proposal for the InnerSource Commons Spring Summit 2019:https://tinyurl.com/ycuxbjbe
+All proposals are due by midnight, February 10th, 2019. All presentations at the Spring Summit, unless otherwise designated by the presenter, will be covered by the Chatham House Rule. See https://www.chathamhouse.org/about/chatham-house-rule 
 
 ### Registration
 Details will be released shortly.
