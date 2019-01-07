@@ -6,8 +6,9 @@ title: 'InnerSource Commons Spring Summit 2019'
 ### 9th to 11th April 2019 in Galway, Ireland
 
 ### Call For Presentations
-Use this form to submit your proposal for the InnerSource Commons Spring Summit 2019:https://tinyurl.com/ycuxbjbe
-All proposals are due by midnight, February 10th, 2019. All presentations at the Spring Summit, unless otherwise designated by the presenter, will be covered by the Chatham House Rule. See https://www.chathamhouse.org/about/chatham-house-rule 
+Use this form to submit your proposal [here](https://tinyurl.com/ycuxbjbe) for the InnerSource Commons Spring Summit 2019
+
+All proposals are due by midnight, February 10th, 2019. All presentations at the Spring Summit, unless otherwise designated by the presenter, will be covered by the Chatham House Rule. See the [Chatham House Rule](https://www.chathamhouse.org/about/chatham-house-rule). 
 
 ### Registration
 Details will be released shortly.
@@ -32,7 +33,7 @@ The three key reasons to attend the InnerSource Common Summits are:
 * Network, network, network! The InnerSource Commons is an excellent place to network with likeminded people, all of whom are passionate about making InnerSource a success in their respective organizations!
 
 ### Venue
-This Summit is hosted by the National University of Ireland, Galway (NUIG) at the North Campus in the J.E Cairnes Building. A full interactive campus map is also available at: https://www.nuigalway.ie/campus-map/
+This Summit is hosted by the National University of Ireland, Galway (NUIG) at the North Campus in the J.E Cairnes Building. A full interactive campus map is also available at: [www.nuigalway.ie/campus-map/](https://www.nuigalway.ie/campus-map/)
 
 ### Travel and Transit
 
@@ -53,9 +54,9 @@ Knock Airport is north of Galway City and can be accessed by bus services. It is
 ### Hotels
 Galway Features a Number of Hotels that are proximate to the University. Attendees are encouraged to book early. Local options Include, Hotels, Guesthouses, Air B&B and Hostels. If attendees are booking late or experience difficulties booking please contact the organisers and alternative room provision can be arranged.
 
-* Maldron Hotel Sandy Road (Five Minutes Taxi Journey from J.E Cairnes School): https://www.maldronhotelsandyroadgalway.com/ 
-* Salthill Hotel (Ten Minutes Taxi Journey from J.E Cairnes School): https://www.salthillhotel.com/ 
-* Jurys Inn, Galway (Within several minutes walk of the South Campus): https://www.jurysinns.com/hotels/galway 
+* [Maldron Hotel Sandy Road](https://www.maldronhotelsandyroadgalway.com/) (Five Minutes Taxi Journey from J.E Cairnes School)
+* [Salthill Hotel](https://www.salthillhotel.com/) (Ten Minutes Taxi Journey from J.E Cairnes School)
+* [Jurys Inn, Galway](https://www.jurysinns.com/hotels/galway) (Within several minutes walk of the South Campus)
 * Asgard Guesthouse (Ten Minutes Taxi Journey from J.E Cairnes School)
 
 Other Hotels & Hostels in Galway City:
