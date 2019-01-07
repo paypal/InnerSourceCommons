@@ -11,6 +11,14 @@ title: "InnerSource Commons"
 homepage: true
 ---
 
+### What is the InnerSource Commons?
+The InnerSource Commons (ISC) is a growing community of practitioners with the goal of creating and sharing knowledge about InnerSource: the use of open source best practices for software development within the confines of an organization. Founded in 2015, the InnerSource Commons is now supporting and connecting over seventy companies, academic institutions, and government agencies.
+
+The InnerSource Commons supports practitioners and those who want to learn about inner source by a broad array of activities. It provides learning paths on how to get started with inner source, curates known best practices in the <a href="http://innersourcecommons.org/patterns">form of patterns</a>, facilitates discussion on the inner source values and principles that will lead to an inner source manifesto, and organizes the leading practitioner conference dedicated to inner source - the twice-yearly InnerSource Commons Summit.
+
+To get started, simply join the growing ISC community via our slack channel and introduce yourself:  
+<script async defer src="https://isc-inviter.herokuapp.com/slackin.js"></script>
+
 ### What is InnerSource?
 
 InnerSource takes the lessons learned from developing open source software and applies them to the way companies develop software internally. As developers have become accustomed to working on world class open source software, there is a strong desire to bring those practices back inside the firewall and apply them to software that companies may be reluctant to release. For companies building mostly closed source software, InnerSource can be a great tool to help break down silos, encourage internal collaboration, accelerate new engineer on-boarding, and identify opportunities to contribute software back to the open source world.
