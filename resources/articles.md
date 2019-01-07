@@ -4,11 +4,10 @@ show_meta: false
 title: 'Articles'
 ---
 
-Below is a historical list of various blog posts, talks, articles, and presentations on Inner Source:
-
-Note: This is in the process of being migrated from http://www.inner-sourcing.com/wiki/inner-source-wiki/
+Below is a historical list of various blog posts, talks, articles, and presentations on Inner Source. Note: This is in the process of being migrated from http://www.inner-sourcing.com/wiki/inner-source-wiki/
 
 2018:
+
 * [May 18, 2018] [Building Software - the lessons from open source](https://www.slideshare.net/icecrime/building-software-the-lessons-from-open-source), Arnaud Porterie, NCrafts 2018 conference.
 * [Apr 4, 2018] [Inner Sourcing: What's this?](https://engineering.salesforce.com/inner-sourcing-whats-this-ef2220ae59ec)
 * [Apr 4, 2018] [Inner Sourcing: The Mechanics](https://engineering.salesforce.com/inner-sourcing-the-mechanics-c0b1421230fd)
