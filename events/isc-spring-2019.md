@@ -60,6 +60,7 @@ Galway Features a Number of Hotels that are proximate to the University. Attende
 * Asgard Guesthouse (Ten Minutes Taxi Journey from J.E Cairnes School)
 
 Other Hotels & Hostels in Galway City:
+
 * Raddison Blu Hotel
 * Park House Hotel
 * Meyrick Hotel
