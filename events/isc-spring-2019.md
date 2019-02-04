@@ -11,7 +11,7 @@ Use this form to submit your proposal [here](https://tinyurl.com/ycuxbjbe) for t
 All proposals are due by midnight, February 10th, 2019. All presentations at the Spring Summit, unless otherwise designated by the presenter, will be covered by the Chatham House Rule. See the [Chatham House Rule](https://www.chathamhouse.org/about/chatham-house-rule). 
 
 ### Registration
-Details will be released shortly.
+Please visit our Registration Page ([Registration Page](https://innersourcesummit2019.brownpapertickets.com/)) to register for InnerSource Commons Spring Summit 2019.
 
 ### Agenda and Speakers
 TBC
