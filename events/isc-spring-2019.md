@@ -54,21 +54,20 @@ Knock Airport is north of Galway City and can be accessed by bus services. It is
 ### Hotels
 Galway Features a Number of Hotels that are proximate to the University. Attendees are encouraged to book early. Local options Include, Hotels, Guesthouses, Air B&B and Hostels. If attendees are booking late or experience difficulties booking please contact the organisers and alternative room provision can be arranged.
 
+* [The House Hotel, Galway](https://www.thehousehotel.ie/)(Within several minutes walk of the South Campus) - **NUIG rate available (delegates should quote NUI Galway rate when booking)
+* [Jurys Inn, Galway](https://www.jurysinns.com/hotels/galway) (Within several minutes walk of the South Campus) - **NUIG rate available (delegates should quote NUI Galway rate when booking)
 * [Maldron Hotel Sandy Road](https://www.maldronhotelsandyroadgalway.com/) (Five Minutes Taxi Journey from J.E Cairnes School)
 * [Salthill Hotel](https://www.salthillhotel.com/) (Ten Minutes Taxi Journey from J.E Cairnes School)
-* [Jurys Inn, Galway](https://www.jurysinns.com/hotels/galway) (Within several minutes walk of the South Campus)
 * Asgard Guesthouse (Ten Minutes Taxi Journey from J.E Cairnes School)
 
 Other Hotels & Hostels in Galway City:
-
-* Raddison Blu Hotel
-* Park House Hotel
-* Meyrick Hotel
-* House Hotel
-* Imperial Hotel
-* Connacht Hotel
-* Snoozles Hostel Galway
-* The Nest Boutique Hostel
+* [The Galmont Hotel](https://www.thegalmont.com/) 
+* [Park House Hotel](https://www.booking.com/hotel/ie/park-house.html)
+* [Meyrick Hotel](https://www.hotelmeyrick.ie/)
+* [Imperial Hotel](https://www.imperialhotelgalway.ie/)
+* [Connacht Hotel](https://www.theconnacht.ie/) 
+* [Snoozles Hostel Galway](https://www.snoozleshostelgalway.ie/) 
+* [The Nest Boutique Hostel](http://www.thenestaccommodation.com/) 
 
 ### [Code of Conduct](/InnerSourceCommons/events/conduct/)
 
