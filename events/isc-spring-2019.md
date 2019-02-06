@@ -13,6 +13,9 @@ All proposals are due by midnight, February 10th, 2019. All presentations at the
 ### Registration
 Please visit our [Registration Page](https://innersourcesummit2019.brownpapertickets.com/) to register for InnerSource Commons Spring Summit 2019.
 
+### Call For Sponsorship
+We invite interested organisations and companies to sponsor this renowned event. These summits provide a basis to encourage InnerSource practitioners to share their experiences and to collaborate with each other on improving InnerSource. If interested in sponsoring this event, please contact Dr. Lorraine Morgan for more details (Lorraine.morgan@nuigalway.ie).
+
 ### Agenda and Speakers
 TBC
 
