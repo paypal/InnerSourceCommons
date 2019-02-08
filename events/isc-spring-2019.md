@@ -44,11 +44,11 @@ Three proximate Airports of choice are as follows:
 
 1. Shannon Airport
 
-The airport serves flights from north America and Continental Europe. The Airport is of particular ease to traffic from the USA with pre-clearance services provided by US Customs. Most of the major European Hubs ranging from Frankfurt, Heathrow and Schipol provide regular flight services across major carriers. Shannon Airport has a bus service from the front door of the Airport Terminal Serving Galway City. The bus journey from the airport varies with Express journeys taking 1 Hour 30 Minutes approx. Car Rental Services are available. Train services are available from Limerick City which can be accessed by bus.
+The airport serves flights from north America and Continental Europe. The Airport is of particular ease to traffic from the USA with pre-clearance services provided by US Customs. Most of the major European Hubs ranging from Frankfurt, Heathrow and Schipol provide regular flight services across major carriers. Shannon Airport has a bus service ([Bus Éireann](https://expressway.ie/shannonairport)) from the front door of the Airport Terminal Serving Galway City. The bus journey from the airport varies with Express journeys taking 1 Hour 30 Minutes approx. Car Rental Services are available. Train services are available from Limerick City which can be accessed by bus.
 
 2. Dublin
 
-Dublin is the main national airport and enjoys access from all major worldwide hubs. Bus access is available to Galway from public bus services and private operators such as GoBus and CityLink. Car rental services are available. The Galway train is accessible bus bus to Heuston Station. Regular trains to Galway leave from Heuston Station.
+Dublin is the main national airport and enjoys access from all major worldwide hubs. Bus access is available to Galway from public bus services and private operators such as [GoBus](https://www.gobus.ie/) and [CityLink](https://www.citylink.ie/). Car rental services are available. The Galway train is accessible bus bus to Heuston Station. Regular trains to Galway leave from Heuston Station.
 
 3. Knock
 
