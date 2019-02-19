@@ -20,15 +20,21 @@ We invite interested organisations and companies to sponsor this renowned event.
 
 We are delighted to welcome John Landy and Eoin Conneely (Ericsson) and Professor Brian Fitzgerald (Lero – the Irish Software Research Centre) as our keynote speakers.
 
-John Landy
+<img alt="John Landy photo" src="/InnerSourceCommons/assets/img/John-Lundy.jpg" width="200" align="right"/>
+
+**John Landy**
 
 John Landy is a leader in Systems and Technology at Ericsson.  In his 20-year career at Ericsson, John has held a number of technical leadership roles, including head product owner for the Community-Developed Software project, which introduced Inner Source software development to the Ericsson. As well as participating in numerous industry and academic events in Ireland,  John has spoken at OSCON and gave a keynote address at the 2017 Inner Source Commons Fall Summit.  He also contributed to the O’Reilly 2018 publication “Adopting Inner Source”. John holds a Bachelor of Science in Computer Systems from the University of Limerick. 
 
-Eoin Conneely
+<img alt="Eoin Conneely photo" src="/InnerSourceCommons/assets/img/Eoin-Cooneely.jpg" width="200" align="right"/>
+
+**Eoin Conneely**
 
 Eoin Conneely is the Head of the Application Development Platform Program to enable cloud native application development & Head of Strategy Implementation for PDU OSS. Prior to this role, Eoin amassed over 25 years’ experience with Ericsson (LM Ericsson Limited), and also holds extensive professional experience in software and Agile S/W development. Eoin earned his Bachelor of Engineering Electronic (1989-1993) from National University of Ireland, Galway
 
-Professor Brian Fitzgerald
+<img alt="Brian Fitzgerald photo" src="/InnerSourceCommons/assets/img/Brian-Fitzgerald.jpg" width="200" align="right"/>
+
+**Professor Brian Fitzgerald**
 
 Professor Brian Fitzgerald is Director of Lero – the Irish Software Research Centre, where he previously held the role of Chief Scientist.  Prior to that he served as Vice-President Research at the University of Limerick. He also holds an endowed professorship, the Krehbiel Chair in Innovation in Business & Technology, at the University of Limerick.  His research interests lie primarily in software development, encompassing open source and inner source, crowdsourcing software development, agile and lean software development, and global software development. His publications include 16 books, and over 150 peer-reviewed articles in the leading international journals and conferences in both the Information Systems and Software Engineering fields, including MIS Quarterly (MISQ), Information Systems Research (ISR), IEEE Transactions on Software Engineering (TSE) and ACM Transactions on Software Engineering Methodology (TOSEM). Prior to taking up an academic position, he worked in the software industry for about 12 years, in a variety of sectors (including finance, telecommunications, manufacturing, bespoke software development) in a number of countries (Ireland, Belgium, Germany).
 
