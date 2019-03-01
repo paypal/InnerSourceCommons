@@ -25,8 +25,6 @@
     url: "/resources/books"
   - title: "Learning Path"
     url: "/resources/learningpath/"
-  - title: "Wiki"
-    url: "https://github.com/paypal/InnerSourceCommons/wiki"
   - title: "Patterns"
     url: "/patterns/"
   - title: "Events"
@@ -45,10 +43,6 @@
 
 - title: "About"
   url: "/about/"
-  side: left
-
-- title: "Wiki"
-  url: "/wiki/"
   side: left
 
 - title: "Patterns"
