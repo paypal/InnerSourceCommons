@@ -1,9 +1,9 @@
 ---
 layout: page-fullwidth
-title: 'InnerSource Commons Spring Summit 2018 Agenda'
+title: 'InnerSource Commons Spring Summit 2019 Agenda'
 ---
 
-[[Return to the Spring Summit 2018 page](/InnerSourceCommons/events/isc-spring-2018/)]
+[[Return to the Spring Summit 2019 page](/InnerSourceCommons/events/isc-spring-2019/)]
 
 <table class="schedule">
     <tr>
