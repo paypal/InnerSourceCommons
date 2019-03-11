@@ -9,7 +9,7 @@ title: 'InnerSource Commons Spring Summit 2019 Speakers'
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-        <img alt="Max Campraro" width="200" src="/InnerSourceCommons/assets/img/Max_Campraro.jpg"/>
+        <img alt="Max Campraro" width="200" src="/InnerSourceCommons/assets/img/Max_Campraro.png"/>
     </div>
 
     <b>Max Campraro</b></a>
