@@ -5,13 +5,13 @@ title: 'Learning Path'
 ---
 
 The Inner Source Learning Path is a series of short videos and articles explaining and teaching various aspects of inner source.
-Their production was kindly sponsored by PayPal. The Learning Path section introducing Inner Source is already shot and hosted in the O'Reilly Safari platform at http://bit.ly/inner-source-learning-path.
+Their production was kindly sponsored by PayPal. The Learning Path section introducing Inner Source is already shot and hosted in the O'Reilly Safari platform at [http://bit.ly/inner-source-learning-path].
 
 Once finished, the first edition of the Inner Source Learning Path will cover the following sections:
 
-1. Introduction
+1. [Introduction]
 1. Product Owner *(coming soon...)*
-1. Trusted Committer *(coming soon...)*
+1. [Trusted Committer]
 1. Contributor *(comming soon...)*
 
 
@@ -21,3 +21,6 @@ We invite you to help us finishing the Inner Source Learning Paths. Checkout the
 
 [InnerSource Commons]: http://www.innersourcecommons.org/
 [#learning-path]: https://paypalflow.slack.com/messages/CARTU4XV2
+[Trusted Committer]: https://learning.oreilly.com/videos/the-trusted-committer/9781492047599
+[Introduction]: https://learning.oreilly.com/videos/introduction-to-innersource/9781492041504
+[http://bit.ly/inner-source-learning-path]: http://bit.ly/inner-source-learning-path
