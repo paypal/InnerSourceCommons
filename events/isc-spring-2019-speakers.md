@@ -141,7 +141,7 @@ Chief Technologist at Red Hat Consulting, where I've worked for 18 years. Advoca
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
-      <img alt="Tobie Langel" width="200" src="InnerSourceCommons/assets/img/Picture Pending.png"/>
+      <img alt="Tobie Langel" width="200" src="/InnerSourceCommons/assets/img/Picture Pending.png"/>
     </div>
     <b>Tobie Langel</b></a>
     <p>
@@ -154,7 +154,7 @@ Tobie Langel is the founder of UnlockOpen, a boutique consulting firm that helps
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
-  <img alt="Johannes Tigges" width="200" src="InnerSourceCommons/assets/img/Picture Pending.png"/>
+  <img alt="Johannes Tigges" width="200" src="/InnerSourceCommons/assets/img/Picture Pending.png"/>
     </div>
     <b>Johannes Tigges</b></a>
     <p>
