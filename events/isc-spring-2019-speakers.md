@@ -8,7 +8,7 @@ title: 'InnerSource Commons Spring Summit 2019 Speakers'
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-      <img alt="Max Campraro" width="200" src="/InnerSourceCommons/assets/img/Picture Pending.png"/>
+      <img alt="Max Campraro" width="200" src="/InnerSourceCommons/assets/img/Picture%20Pending.png"/>
     </div>
     <b>Max Campraro</b></a>
     <p>
@@ -22,7 +22,7 @@ Maximilian Capraro is a researcher and doctoral candidate at the Open Source Res
 <div style="clear:both;"></div>
   <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
-        <img alt="Danese Cooper" width="200" src="/InnerSourceCommons/assets/img/Danese_Cooper.png"/>
+        <img alt="Danese Cooper" width="200" src="/InnerSourceCommons/assets/img/Picture%20Pending.png"/>
     </div>
     <b>Danese Cooper</b></a>
     <p>
@@ -102,7 +102,7 @@ Jorge Herrera is an agility enthusiast, currently working as Technical Manager f
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
-     <img alt="Thomas Froment" width="200" src="/InnerSourceCommons/assets/img/Picture Pending.png"/>
+     <img alt="Thomas Froment" width="200" src="/InnerSourceCommons/assets/img/Picture%20Pending.png"/>
     </div>
     <b>Thomas Froment</b></a>
     <p>
@@ -154,7 +154,7 @@ Tobie Langel is the founder of UnlockOpen, a boutique consulting firm that helps
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
-  <img alt="Johannes Tigges" width="200" src="InnerSourceCommons/assets/img/Picture Pending.png"/>
+  <img alt="Johannes Tigges" width="200" src="InnerSourceCommons/assets/img/Picture%20Pending.png"/>
     </div>
     <b>Johannes Tigges</b></a>
     <p>
@@ -167,7 +167,7 @@ Johannes is an Open Source and Inner Source enthusiast currently working for HER
   <hr/>
   <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
-     <img alt="Olivier Liechti" width="200" src="/InnerSourceCommons/assets/img/Picture Pending.png"/>
+     <img alt="Olivier Liechti" width="200" src="/InnerSourceCommons/assets/img/Picture%20Pending.png"/>
     </div>
     <b>Olivier_Liechti</b></a>
     <p>
@@ -181,7 +181,7 @@ Olivier is professor at the University of Applied Sciences and Arts Western Swit
   <hr/>
   <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
-       <img alt="Kevin Newman" width="200" src="/InnerSourceCommons/assets/img/Picture Pending.png"/>
+       <img alt="Kevin Newman" width="200" src="/InnerSourceCommons/assets/img/Picture%20Pending.png"/>
     </div>
     <b>Kevin Newman</b></a>
     <p>
@@ -207,7 +207,7 @@ Katrina joined Red Hat, the world's leading provider of enterprise open source s
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
-       <img alt="Ben_van_'t_ende" width="200" src="/InnerSourceCommons/assets/img/Picture Pending.png"/>
+       <img alt="Ben_van_'t_ende" width="200" src="/InnerSourceCommons/assets/img/Picture%20Pending.png"/>
     </div>
     <b>Ben van 't ende</b></a>
     <p>
@@ -223,7 +223,7 @@ Ben is partner and collaboration strategist at Age of Peers. With Age of Peers B
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
-     <img alt="Kristof Van Tomme" width="200" src="/InnerSourceCommons/assets/img/Picture Pending.png"/>
+     <img alt="Kristof Van Tomme" width="200" src="/InnerSourceCommons/assets/img/Picture%20Pending.png"/>
     </div>
     <b>Kristof Van Tomme</b></a>
     <p>
