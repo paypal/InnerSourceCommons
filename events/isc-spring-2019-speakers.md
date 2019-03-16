@@ -4,7 +4,7 @@ title: 'InnerSource Commons Spring Summit 2019 Speakers'
 ---
 [[Return to the Spring Summit 2019 page](/InnerSourceCommons/events/isc-spring-2019/)]
 
-<a name="Max_Campraro">&nbsp;</a>
+<a name="max_campraro">&nbsp;</a>
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
@@ -17,7 +17,7 @@ Maximilian Capraro is a researcher and doctoral candidate at the Open Source Res
 </div>
 
 <div style="clear:both;"></div>
-<a name="Danese_Cooper">&nbsp;</a>
+<a name="danese_cooper">&nbsp;</a>
 <hr/>
 <div style="clear:both;"></div>
   <div style="width:100%">
@@ -31,7 +31,7 @@ Ms. Danese Cooper has been the Head of Open Source Software at PayPal, Inc. sinc
 </div>
 
 <div style="clear:both;"></div>
-<a name="Daniel_Izquierdo_Cortázar">&nbsp;</a>
+<a name="daniel_izquierdo_cortázar">&nbsp;</a>
 <hr/>
   <div style="clear:both;"></div>
     <div style="width:100%">
@@ -44,7 +44,7 @@ Daniel Izquierdo Cortazar is a researcher and one of the founders of Bitergia, a
   </p>
   </div>
 
-<a name="Hong_Dang">&nbsp;</a>
+<a name="hong_dang">&nbsp;</a>
 <hr/>
   <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
@@ -57,7 +57,20 @@ Hong Phuc Dang is currently the InnerSource driver at Zalando where she acts as 
 </div>
 <div style="clear:both;"></div>
 
-<a name="Wolfgang_Gehring">&nbsp;</a>
+<a name="brian_fitzgerald">&nbsp;</a>
+<hr/>
+  <div style="width:100%">
+    <div style="float:left;padding-right:30px;padding-bottom:30px">
+    <img alt="Brian Fitzgerald" width="200" src="/InnerSourceCommons/assets/img/Brian-Fitzgerald.jpg"/>
+    </div>
+    <b>Brian Fitzgerald</b></a>
+    <p>
+Professor Brian Fitzgerald is Director of Lero – the Irish Software Research Centre, where he previously held the role of Chief Scientist.  Prior to that he served as Vice-President Research at the University of Limerick. He also holds an endowed professorship, the Krehbiel Chair in Innovation in Business & Technology, at the University of Limerick.  His research interests lie primarily in software development, encompassing open source and inner source, crowdsourcing software development, agile and lean software development, and global software development. His publications include 16 books, and over 150 peer-reviewed articles in the leading international journals and conferences in both the Information Systems and Software Engineering fields, including MIS Quarterly (MISQ), Information Systems Research (ISR), IEEE Transactions on Software Engineering (TSE) and ACM Transactions on Software Engineering Methodology (TOSEM). Prior to taking up an academic position, he worked in the software industry for about 12 years, in a variety of sectors (including finance, telecommunications, manufacturing, bespoke software development) in a number of countries (Ireland, Belgium, Germany).
+  </p>
+</div>
+<div style="clear:both;"></div>
+
+<a name="wolfgang_gehring">&nbsp;</a>
 <hr/>
   <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
@@ -71,7 +84,7 @@ As Senior Scrum Master and Agile Coach, Dr. Wolfgang Gehring sees one of his mai
 <div style="clear:both;"></div>
 
 
-<a name="Georg_Gruetter">&nbsp;</a>
+<a name="georg_gruetter">&nbsp;</a>
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
@@ -85,7 +98,7 @@ Georg is a software developer with over 30 years of professional experience. He 
 <div style="clear:both;"></div>
 
 
-<a name="Jorge_Herrera">&nbsp;</a>
+<a name="jorge_herrera">&nbsp;</a>
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
@@ -98,7 +111,7 @@ Jorge Herrera is an agility enthusiast, currently working as Technical Manager f
 </div>
 <div style="clear:both;"></div>
 
-<a name="Thomas_Froment">&nbsp;</a>
+<a name="thomas_froment">&nbsp;</a>
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
@@ -110,9 +123,9 @@ Thomas Froment is the lead of Thales Inner Source Software Community – aiming 
   </p>
   </div>
 <div style="clear:both;"></div>
+
+<a name="shelly_nezri">&nbsp;</a>
 <hr/>
-
-
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
        <img alt="Shelly Nezri" width="200" src="/InnerSourceCommons/assets/img/Shelly_Nezri.jpeg"/>
@@ -125,7 +138,8 @@ Shelly Nezri is a software engineer at Elbit Systems and the company’s InnerSo
 <div style="clear:both;"></div>
 <hr/>
 
-
+<a name="malcolm_herbert">&nbsp;</a>
+<hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
        <img alt="Malcolm Herbert" width="200" src="/InnerSourceCommons/assets/img/Malcolm_Herbert.png"/>
@@ -137,7 +151,7 @@ Chief Technologist at Red Hat Consulting, where I've worked for 18 years. Advoca
 </div>
 <div style="clear:both;"></div>
 
-<a name="Tobie_Langel">&nbsp;</a>
+<a name="tobie_langel">&nbsp;</a>
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
@@ -150,7 +164,7 @@ Tobie Langel is the founder of UnlockOpen, a boutique consulting firm that helps
   </div>
 <div style="clear:both;"></div>
 
-<a name="Johannes_Tigges">&nbsp;</a>
+<a name="johannes_tigges">&nbsp;</a>
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
@@ -163,13 +177,13 @@ Johannes is an Open Source and Inner Source enthusiast currently working for HER
   </div>
 <div style="clear:both;"></div>
 
-<a name="Olivier Liechti">&nbsp;</a>
+<a name="olivier_liechti">&nbsp;</a>
   <hr/>
   <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
      <img alt="Olivier Liechti" width="200" src="/InnerSourceCommons/assets/img/Picture Pending.png"/>
     </div>
-    <b>Olivier_Liechti</b></a>
+    <b>Olivier Liechti</b></a>
     <p>
 Olivier is professor at the University of Applied Sciences and Arts Western Switzerland (HEIG-VD). He is also co-founder and CTO of Avalia Systems, a software analytics company. Before joining HEIG-VD in 2007, Olivier worked for 6 years at Sun Microsystems. He was previously CTO of Lotaris, a mobile licensing and payment company. He has a master degree in computer science from University of Fribourg (Switzerland) and a Ph.D. from University of Hiroshima. 
   </p>
@@ -177,7 +191,7 @@ Olivier is professor at the University of Applied Sciences and Arts Western Swit
 <div style="clear:both;"></div>
 
 
-<a name="Kevin_Newman">&nbsp;</a>
+<a name="kevin_newman">&nbsp;</a>
   <hr/>
   <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
@@ -190,7 +204,7 @@ Olivier is professor at the University of Applied Sciences and Arts Western Swit
   </div>
 
 <div style="clear:both;"></div>
-  <a name="Katrina_Novakovic">&nbsp;</a>
+  <a name="katrina_novakovic">&nbsp;</a>
   <hr/>
    <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
@@ -203,11 +217,11 @@ Katrina joined Red Hat, the world's leading provider of enterprise open source s
 </div>
 <div style="clear:both;"></div>
 
-<a name="Ben van 't ende">&nbsp;</a>
+<a name="ben_van_%27t_ende">&nbsp;</a>
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
-       <img alt="Ben_van_'t_ende" width="200" src="/InnerSourceCommons/assets/img/Picture Pending.png"/>
+       <img alt="Ben van 't ende" width="200" src="/InnerSourceCommons/assets/img/Picture Pending.png"/>
     </div>
     <b>Ben van 't ende</b></a>
     <p>
@@ -219,7 +233,7 @@ Ben is partner and collaboration strategist at Age of Peers. With Age of Peers B
 <div style="clear:both;"></div>
 
 
-<a name="Kristof_Van_Tomme">&nbsp;</a>
+<a name="kristof_van_tomme">&nbsp;</a>
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px">
