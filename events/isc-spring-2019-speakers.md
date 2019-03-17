@@ -230,7 +230,7 @@ Katrina joined Red Hat, the world's leading provider of enterprise open source s
   </div>
 <div style="clear:both;"></div>
 
-<a name="ben_van_%27t_ende">&nbsp;</a>
+<a name="#Ben_van_t_ende">&nbsp;</a>
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
