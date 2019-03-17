@@ -16,7 +16,21 @@ Maximilian Capraro is a researcher and doctoral candidate at the Open Source Res
     </p>
 </div>
 
+
+<a name="eoin_conneely">&nbsp;</a>
+<hr/>
+<div style="width:100%">
+    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
+      <img alt="Eoin Conneely" width="200" src="/InnerSourceCommons/assets/img/Eoin-Cooneely.jpg"/>
+    </div>
+    <b>Eoin Conneely</b></a>
+    <p>
+Eoin Conneely is the Head of the Application Development Platform Program to enable cloud native application development & Head of Strategy Implementation for PDU OSS. Prior to this role, Eoin amassed over 25 years’ experience with Ericsson (LM Ericsson Limited), and also holds extensive professional experience in software and Agile S/W development. Eoin earned his Bachelor of Engineering Electronic (1989-1993) from National University of Ireland, Galway
+   </p>
+</div>
 <div style="clear:both;"></div>
+
+
 <a name="danese_cooper">&nbsp;</a>
 <hr/>
 <div style="clear:both;"></div>
@@ -121,6 +135,33 @@ Jorge Herrera is an agility enthusiast, currently working as Technical Manager f
     <p>
 Thomas Froment is the lead of Thales Inner Source Software Community – aiming at promoting Open Source Software (OSS) development practices and establishing open source-like collaborations within Thales group. After two decades of software development and engineering experiences as developer, team lead and architect in Internet, Cloud Computing and Telco industries, Thomas is totally investing himself as an Agile coach willing to make cultural changes happen for real in his company. In 2016, he decided to let aside his agile coach hat, taking the lead of Inner Source initiative as part of the Thales Digital Transformation program. Prior to Thales, Thomas had various experiences ranging from Corporate Research Engineer at Alcatel-Lucent to IT infrastructure manager in a SaaS Software editor. He has been a contributor at Internet Engineering Task Force (IETF), author of RFC 5658, member of SIP Forum and speaker in several international conferences. He is author in several publications and 14 patents around internet protocol security, distributed system, SIP and peer to peer technologies. He is also a Certified Scrum Master and Certified SAFe Agilist.
   </p>
+  </div>
+<div style="clear:both;"></div>
+
+
+<a name="john_landy">&nbsp;</a>
+<hr/>
+<div style="width:100%">
+    <div style="float:left;padding-right:30px;padding-bottom:30px">
+     <img alt="John Landy" width="200" src="InnerSourceCommons/assets/img/John-Lundy.jpg"/>
+    </div>
+    <b>John Landy</b></a>
+    <p>
+John Landy is a leader in Systems and Technology at Ericsson. In his 20-year career at Ericsson, John has held a number of technical leadership roles, including head product owner for the Community-Developed Software project, which introduced Inner Source software development to the Ericsson. As well as participating in numerous industry and academic events in Ireland, John has spoken at OSCON and gave a keynote address at the 2017 Inner Source Commons Fall Summit. He also contributed to the O’Reilly 2018 publication “Adopting Inner Source”. John holds a Bachelor of Science in Computer Systems from the University of Limerick.
+  </p>
+  </div>
+<div style="clear:both;"></div>
+
+<a name="katrina_novakovic">&nbsp;</a>
+<hr/>
+<div style="width:100%">
+    <div style="float:left;padding-right:30px;padding-bottom:30px">
+       <img alt="Katrina Novakovic" width="200" src="InnerSourceCommons/assets/img/Katrina_Novakovic.jpg"/>
+    </div>
+    <b>Katrina Novakovic</b></a>
+    <p>
+Katrina joined Red Hat, the world's leading provider of enterprise open source solutions, in 2013 and is as an Open Source business architect working across the Europe, the Middle East and Africa (EMEA) region within Red Hat Consulting, guiding customers through the process and cultural changes needed for digital transformation and technology adoption to ensure customer success. She holds a Bachelor of Science Honours degree in Computer Science with Management from Royal Holloway University, University of London.
+</p>
   </div>
 <div style="clear:both;"></div>
 
