@@ -214,7 +214,7 @@ How do you bring a legacy Enterprise Resource Planning (ERP) to "The Cloud", wit
 
 <tr>
         <td class="time">13:05 - 14:30</td>
-            <td class="author"><a href="/InnerSourceCommons/events/isc-spring-2019-speakers#kristoff_van_tomme">Kristoff Van Tomme</a> <span class="affiliation">(Provonix)</span>
+            <td class="author"><a href="/InnerSourceCommons/events/isc-spring-2019-speakers">Kristoff Van Tomme</a> <span class="affiliation">(Provonix)</span>
         <td class="title"> Workshop: Dealing with common InnerSource Issues through Developer Portals
             <span onClick="toggleAbstract('van_tomme-1')" class="abstract-toggle">(<a id="van_tomme-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="van_tomme-1">
@@ -340,7 +340,7 @@ Details appearing shortly
 
    <tr >
         <td class="time">13:00 - 13:45</td>    
-<td class="author"><a href="/InnerSourceCommons/events/isc-spring-2019-speakers#]tof_van_tomme">Kristoff Van Tomme </a><span class="affiliation">(Provonix)</span>
+<td class="author"><a href="/InnerSourceCommons/events/isc-spring-2019-speakers">Kristoff Van Tomme </a><span class="affiliation">(Provonix)</span>
 <td class="title">7 cultural insights to help you reinvent your organization            
 <span onClick="toggleAbstract('VanTomme-1')" class="abstract-toggle">(<a id="VanTomme-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="VanTomme-2">
