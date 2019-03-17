@@ -24,7 +24,7 @@ title: 'InnerSource Commons Spring Summit 2019 Agenda'
          <td class="author">
             <a href="/InnerSourceCommons/events/isc-spring-2019-speakers#john_landy">John Landy</a><span class="affiliation"> (Ericsson)
             </span><br/>
-        <a href="/InnerSourceCommons/events/isc-spring-2019-speakers#eoin_conneelly">Eoin Conneelly</a><span class="affiliation"> (Ericsson)</span>
+        <a href="/InnerSourceCommons/events/isc-spring-2019-speakers#eoin_conneely">Eoin Conneelly</a><span class="affiliation"> (Ericsson)</span>
 
    <td class="title">
             <span class="keynoteTag">Keynote:</span></span>
@@ -66,7 +66,7 @@ Thales Inner Source Software (TISS) Community is born from the Thales Digital Tr
 
   <tr>
         <td class="time">11:30 - 12:00</td>
-        <td><a href="/InnerSourceCommons/events/isc-spring-2019-speakers">Ben van 't Ende</a> <span class="affiliation"> (Age of Peers)</span></td>
+        <td><a href="/InnerSourceCommons/events/isc-spring-2019-speakers#Ben_van_%27t_ende">Ben van 't Ende</a> <span class="affiliation"> (Age of Peers)</span></td>
         <td class="title">Detox your Inner Source
             <span onClick="toggleAbstract('ende-1')" class="abstract-toggle">(<a id="ende-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="ende-1">
@@ -83,11 +83,11 @@ Collaborative practices are adopted naturally by participants in today’s open 
 
  <tr>
         <td class="time">13:50 - 14:50</td>
-        <td><a href="/InnerSourceCommons/events/isc-spring-2019-speakers#katrina_novavic">Katrina Novavic</a> <span class="affiliation"> (Redhat)</span></td>
+        <td><a href="/InnerSourceCommons/events/isc-spring-2019-speakers#katrina_novakovic">Katrina Novakovic</a> <span class="affiliation"> (Redhat)</span></td>
 
    <td class="title">Workshop: Most organisations are Better than they Think 
-            <span onClick="toggleAbstract('novavic-1')" class="abstract-toggle">(<a id="novavic-1-link">Show Abstract</a>)</span>
-            <div style="display:none" class="abstract" id="novavic-1">
+            <span onClick="toggleAbstract('novakovic-1')" class="abstract-toggle">(<a id="novakovic-1-link">Show Abstract</a>)</span>
+            <div style="display:none" class="abstract" id="novakovic-1">
 Red Hat, the world's leading provider of Open Source Enterprise solutions, has open sourced an assessment tool, called Open Source Maturity Assessment (OSMA), to allow organisations to understand their current maturity regarding their knowledge, adoption and ability to effectively utilize Open Source / Inner Source technologies within their organisation. The assessment poses a number of questions with multiple choice answers around the following key areas: Business Goals, General Knowledge of Open Source, Development Standards and Tools, Upstream Community Participation, Governance & Legal Policies and Senior Management Support. The results of the assessment are used as a starting point to give an organisation a better understanding of their business goals regarding Open Source / Inner Source software and methodologies, the focus areas to address (under the areas of consume, contribute, create and strategy/governance) and recommended next steps. During this workshop, we will: 
         <ul>
           <li>Have each individual attendee run through the assessment tool to determine their organisation's maturity </li>
@@ -167,7 +167,8 @@ So you have decided that Inner Source is the way to go for your enterprise. Good
 
 <tr>
         <td class="time">09:15 - 10:15</td>
-<td class="author"><a href="/InnerSourceCommons/events/isc-spring-2019-speakers#TBC">TBC</a> <span class="affiliation">TBC</span></td>
+<td class="author">
+    <span class="affiliation">TBC</span></td>
         <td class="title"><span class="keynoteTag">Keynote:</span> TBC
             <span onClick="toggleAbstract(tbc-1')" class="abstract-toggle">(<a id="tbc-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="tbc-1">
@@ -195,10 +196,10 @@ One of the main questions that any company willing to try InnerSource is how thi
 
    <tr >
         <td class="time">11:30 - 12:00</td>
-<td class="author"><a href="/InnerSourceCommons/events/isc-spring-2019-speakers#olivier_lechti">Olivier Lechti</a> <span class="affiliation">(Avalia Systems)</span></td>
+<td class="author"><a href="/InnerSourceCommons/events/isc-spring-2019-speakers#olivier_liechti">Olivier Liechti</a> <span class="affiliation">(Avalia Systems)</span></td>
         <td class="title"> Agile transformation at Softplan: guiding teams with data-driven experiments
-            <span onClick="toggleAbstract('Lechti-1')" class="abstract-toggle">(<a id="Lechti-1-link">Show Abstract</a>)</span>
-            <div style="display:none" class="abstract" id="Lechti-1">
+            <span onClick="toggleAbstract('liechti-1')" class="abstract-toggle">(<a id="liechti-1-link">Show Abstract</a>)</span>
+            <div style="display:none" class="abstract" id="liechti-1">
 How do you bring a legacy Enterprise Resource Planning (ERP) to "The Cloud", with the promise of enabling new business models and reducing costs? How do you tackle an enormous technical and organizational debt accumulated over decades? How do you initiate a radical transformation and how do you put people in motion? These are the challenges that the newly hired CTO of a business unit within Softplan, large Brazilian company, accepted a couple of years ago. In this talk, we explain how we had the opportunity to work with the CTO, and to support hims with a data-driven approach. After introducing the notion of software analytics, we explain how we have used metrics first to diagnose the problems, and then to support a continuous improvement process. We review a series of specific experiments done in this context, discussing both successes and challenges. We emphasize the human aspects of the transition and explain how metrics can be powerful when it comes to trigger conversations and to drive behavior change. We explain how our initial recommendations were to inspire teams to adopt practices that can be seen "in action" on GitHub. When we embarked on this journey, we did not know about the InnerSource Commons. Nevertheless, some of the problems that we encountered are very similar to those enlisted in the Patterns Catalog. In the talk, we map our experiments to problems described in the catalog. We compare our solutions to those embodied in the patterns.            
             </div>
         </td>
@@ -213,7 +214,7 @@ How do you bring a legacy Enterprise Resource Planning (ERP) to "The Cloud", wit
 
 <tr>
         <td class="time">13:05 - 14:30</td>
-            <td class="author"><a href="/InnerSourceCommons/events/isc-spring-2019-speakers#kristoff_van_tomme">Kristoff Van Tomme</a> <span class="affiliation">(Provonix)</span>
+            <td class="author"><a href="/InnerSourceCommons/events/isc-spring-2019-speakers#kristof_van_tomme">Kristoff Van Tomme</a> <span class="affiliation">(Provonix)</span>
         <td class="title"> Workshop: Dealing with common InnerSource Issues through Developer Portals
             <span onClick="toggleAbstract('van_tomme-1')" class="abstract-toggle">(<a id="van_tomme-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="van_tomme-1">
@@ -339,7 +340,7 @@ Details appearing shortly
 
    <tr >
         <td class="time">13:00 - 13:45</td>    
-<td class="author"><a href="/InnerSourceCommons/events/isc-spring-2019-speakers#kristoff_van_tomme">Kristoff Van Tomme </a><span class="affiliation">(Provonix)</span>
+<td class="author"><a href="/InnerSourceCommons/events/isc-spring-2019-speakers#]tof_van_tomme">Kristoff Van Tomme </a><span class="affiliation">(Provonix)</span>
 <td class="title">7 cultural insights to help you reinvent your organization            
 <span onClick="toggleAbstract('VanTomme-1')" class="abstract-toggle">(<a id="VanTomme-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="VanTomme-2">
