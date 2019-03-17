@@ -65,7 +65,7 @@ Thales Inner Source Software (TISS) Community is born from the Thales Digital Tr
 
 
   <tr>
-        <td class="time">11:30 - 12:00</td>
+        <td class="time">12:10 - 12:40</td>
         <td><a href="/InnerSourceCommons/events/isc-spring-2019-speakers">Ben van 't Ende</a> <span class="affiliation"> (Age of Peers)</span></td>
         <td class="title">Detox your Inner Source
             <span onClick="toggleAbstract('ende-1')" class="abstract-toggle">(<a id="ende-1-link">Show Abstract</a>)</span>
@@ -317,6 +317,7 @@ Crowdsourcing is emerging as an alternative outsourcing strategy which is gainin
      <span onClick="toggleAbstract('cortázar-2')" class="abstract-toggle">(<a id="cortázar-2-link">Show Abstract</a>)</span>
 
 <td class="title">Metrics and KPIs for an InnerSource Office 
+     <span onClick="toggleAbstract('cortázar-2')" class="abstract-toggle">(<a id="cortázar-2-link">Show Abstract</a>)</span>
 <div style="display:none" class="abstract" id="cortázar-2">
 Metrics are an important part of the InnerSource journey. The InnerSource Commons has been a great place for discussion around the topic. Specifically the InnerSource Patterns community delivered a pattern focused on first steps with metrics [1] where no specific metrics are detailed, but this gives a starting point to discuss when, how and what to measure. This talk aims at detailing these set of metrics and KPIs for further discussion across the community. This is based on work in progress in the GrimoireLab/CHAOSS community, a Linux Foundation Project. The proposed set of metrics are split into three main areas: Activity, Community and Process. [1] https://github.com/paypal/InnerSourcePatterns/blob/master/introducing-metrics-in-innersource.md
 </div>
