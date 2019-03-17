@@ -8,7 +8,7 @@ title: 'InnerSource Commons Spring Summit 2019 Speakers'
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-      <img alt="Max Campraro" width="200" src="/InnerSourceCommons/assets/img/Picture Pending.png"/>
+      <img alt="Max Campraro" width="200" src="/InnerSourceCommons/assets/img/Max_Capraro.png"/>
     </div>
     <b>Max Campraro</b></a>
     <p>
@@ -35,19 +35,18 @@ Eoin Conneely is the Head of the Application Development Platform Program to ena
 <hr/>
   <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-        <img alt="Danese Cooper" width="200" src="/InnerSourceCommons/assets/img/Picture Pending.png"/>
+        <img alt="Danese Cooper" width="200" src="/InnerSourceCommons/assets/img/Danese_Cooper.jpg"/>
     </div>
     <b>Danese Cooper</b></a>
     <p>
 Ms. Danese Cooper has been the Head of Open Source Software at PayPal, Inc. since February 2014. She was Chairperson of the Node.js Foundation from June 2015 through June 2017, and continues to serve on that board. Ms. Cooper previously served as the CTO of Wikimedia Foundation, Inc., as Chief Open Source Evangelist for Sun and as Sr. Director of Open Source Strategies for Intel. She concentrates on creating healthy open source communities and has served on the Boards of the Drupal Association, the Open Source Initiative, the Open Hardware Association and has advised Mozilla and the Apache Software Foundation, where she has been a Member since 2005. She also runs a successful open source consultancy which counts Bill & Melinda Gates Foundation, SETI Foundation, Harris Corporation and Numenta as clients. She has been known to knit through meetings. 
 </p>
 </div>
-
 <div style="clear:both;"></div>
+
 <a name="daniel_izquierdo_cortázar">&nbsp;</a>
 <hr/>
-  <div style="clear:both;"></div>
-    <div style="width:100%">
+  <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
        <img alt="Daniel Izquierdo Cortázar" width="200" src="/InnerSourceCommons/assets/img/Daniel_Izquierdo.jpg"/>
     </div>
@@ -56,6 +55,7 @@ Ms. Danese Cooper has been the Head of Open Source Software at PayPal, Inc. sinc
 Daniel Izquierdo Cortazar is a researcher and one of the founders of Bitergia, a company that provides software analytics for open source ecosystems. Currently the chief data officer at Bitergia, he is focused on the quality of the data, research of new metrics, analysis, and studies of interest for Bitergia customers via data mining and processing. Daniel holds a PhD in free software engineering from the Universidad Rey Juan Carlos in Madrid, where he focused on the analysis of buggy developers activity patterns in the Mozilla community. 
   </p>
   </div>
+<div style="clear:both;"></div>
 
 <a name="hong_dang">&nbsp;</a>
 <hr/>
@@ -87,7 +87,7 @@ Professor Brian Fitzgerald is Director of Lero – the Irish Software Research C
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-     <img alt="Thomas Froment" width="200" src="/InnerSourceCommons/assets/img/Picture Pending.png"/>
+     <img alt="Thomas Froment" width="200" src="/InnerSourceCommons/assets/img/Thomas_Froment.jpg"/>
     </div>
     <b>Thomas Froment</b></a>
     <p>
@@ -155,7 +155,7 @@ Jorge Herrera is an agility enthusiast, currently working as Technical Manager f
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-     <img alt="John Landy" width="200" src="/InnerSourceCommons/assets/img/Picture Pending.png"/>   
+     <img alt="John Landy" width="200" src="/InnerSourceCommons/assets/img/John-Lundy.jpg"/>   
     </div>
     <b>John Landy</b></a>
     <p>
@@ -169,7 +169,7 @@ John Landy is a leader in Systems and Technology at Ericsson. In his 20-year car
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-      <img alt="Tobie Langel" width="200" src="/InnerSourceCommons/assets/img/Picture Pending.png"/>
+      <img alt="Tobie Langel" width="200" src="/InnerSourceCommons/assets/img/Tobie_Langel.jpg"/>
     </div>
     <b>Tobie Langel</b></a>
     <p>
@@ -221,7 +221,7 @@ Shelly Nezri is a software engineer at Elbit Systems and the company’s InnerSo
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-       <img alt="Katrina Novakovic" width="200" src="/InnerSourceCommons/assets/img/Picture Pending.png"/>
+       <img alt="Katrina Novakovic" width="200" src="/InnerSourceCommons/assets/img/Katrina_Novakovic.jpg"/>
     </div>
     <b>Katrina Novakovic</b></a>
     <p>
@@ -263,7 +263,7 @@ Johannes is an Open Source and Inner Source enthusiast currently working for HER
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-     <img alt="Kristof Van Tomme" width="200" src="/InnerSourceCommons/assets/img/Picture Pending.png"/>
+     <img alt="Kristof Van Tomme" width="200" src="/InnerSourceCommons/assets/img/Kristof Van Tomme.png"/>
     </div>
     <b>Kristof Van Tomme</b></a>
     <p>
