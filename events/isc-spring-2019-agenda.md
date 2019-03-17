@@ -52,6 +52,7 @@ I will share the story of InnerSource at Bosch, which started about a decade ago
     </div>
         </td>
     </tr>
+    
     <tr >
         <td class="time">11:35 - 12:05</td>
         <td><a href="/InnerSourceCommons/events/isc-spring-2019-speakers#thomas_froment">Thomas Froment</a> <span class="affiliation"> (Thales)</span></td>
@@ -62,10 +63,8 @@ Thales Inner Source Software (TISS) Community is born from the Thales Digital Tr
             </div>
         </td>
     </tr>
-
-
-  <tr>
-        <td class="time">11:30 - 12:00</td>
+<tr>
+        <td class="time">12:10 - 12:40</td>
         <td><a href="/InnerSourceCommons/events/isc-spring-2019-speakers">Ben van 't Ende</a> <span class="affiliation"> (Age of Peers)</span></td>
         <td class="title">Detox your Inner Source
             <span onClick="toggleAbstract('ende-1')" class="abstract-toggle">(<a id="ende-1-link">Show Abstract</a>)</span>
@@ -75,11 +74,10 @@ Collaborative practices are adopted naturally by participants in today’s open 
         </td>
     </tr>
 
- <tr >
-        <tr>
+ <tr>
         <td class="time">12:45 - 13:45</td>
         <td colspan="2">Lunch</td>
-    </tr>
+  </tr>
 
  <tr>
         <td class="time">13:50 - 14:50</td>
@@ -101,7 +99,7 @@ Red Hat, the world's leading provider of Open Source Enterprise solutions, has o
 
 
 <tr >
-        <td class="time">14:55 - 15:25</td>
+       <td class="time">14:55 - 15:25</td>
 
    <td class="author"><a href="/InnerSourceCommons/events/isc-spring-2019-speakers#hong_dang">Hong Dang</a><span class="affiliation"> (Zalando)</span></td>
         <td class="title">Open Source within the walls: The Case of a German fashion Platform
@@ -205,8 +203,7 @@ How do you bring a legacy Enterprise Resource Planning (ERP) to "The Cloud", wit
         </td>
     </tr>
 
-<tr >
-        <tr>
+ <tr>
         <td class="time">12:05 - 13:00</td>
         <td colspan="2">Lunch</td>
     </tr>
