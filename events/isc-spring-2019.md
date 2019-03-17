@@ -17,6 +17,7 @@ Please visit our [Registration Page](https://innersourcesummit2019.brownpapertic
 We invite interested organisations and companies to sponsor this renowned event. These summits provide a basis to encourage InnerSource practitioners to share their experiences and to collaborate with each other on improving InnerSource. If interested in sponsoring this event, please contact Dr. Lorraine Morgan for more details (Lorraine.morgan@nuigalway.ie).
 
 ### Agenda and Speakers
+The Summit agenda is available [here](http://paypal.github.io/InnerSourceCommons/events/isc-spring-2019-agenda/) and you can also check out our speakers [here](http://paypal.github.io/InnerSourceCommons/events/isc-spring-2019-speakers/) 
 
 We are delighted to welcome John Landy and Eoin Conneely (Ericsson) and Professor Brian Fitzgerald (Lero – the Irish Software Research Centre) as our keynote speakers.
 
