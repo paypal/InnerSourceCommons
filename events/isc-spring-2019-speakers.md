@@ -16,12 +16,25 @@ Maximilian Capraro is a researcher and doctoral candidate at the Open Source Res
     </p>
 </div>
 
+
+<a name="eoin_conneely">&nbsp;</a>
+<hr/>
+<div style="width:100%">
+    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
+      <img alt="Eoin Conneely" width="200" src="/InnerSourceCommons/assets/img/Eoin-Cooneely.jpg"/>
+    </div>
+    <b>Eoin Conneely</b></a>
+    <p>
+Eoin Conneely is the Head of the Application Development Platform Program to enable cloud native application development & Head of Strategy Implementation for PDU OSS. Prior to this role, Eoin amassed over 25 years’ experience with Ericsson (LM Ericsson Limited), and also holds extensive professional experience in software and Agile S/W development. Eoin earned his Bachelor of Engineering Electronic (1989-1993) from National University of Ireland, Galway
+   </p>
+</div>
 <div style="clear:both;"></div>
+
+
 <a name="danese_cooper">&nbsp;</a>
 <hr/>
-<div style="clear:both;"></div>
   <div style="width:100%">
-    <div style="float:left;padding-right:30px;padding-bottom:30px">
+    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
         <img alt="Danese Cooper" width="200" src="/InnerSourceCommons/assets/img/Picture Pending.png"/>
     </div>
     <b>Danese Cooper</b></a>
@@ -35,7 +48,7 @@ Ms. Danese Cooper has been the Head of Open Source Software at PayPal, Inc. sinc
 <hr/>
   <div style="clear:both;"></div>
     <div style="width:100%">
-    <div style="float:left;padding-right:30px;padding-bottom:30px">
+    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
        <img alt="Daniel Izquierdo Cortázar" width="200" src="/InnerSourceCommons/assets/img/Daniel_Izquierdo.jpg"/>
     </div>
     <b>Daniel Izquierdo Cortázar</b></a>
@@ -47,7 +60,7 @@ Daniel Izquierdo Cortazar is a researcher and one of the founders of Bitergia, a
 <a name="hong_dang">&nbsp;</a>
 <hr/>
   <div style="width:100%">
-    <div style="float:left;padding-right:30px;padding-bottom:30px">
+    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
     <img alt="Hong Dang" width="200" src="/InnerSourceCommons/assets/img/Hong_Dang.png"/>
     </div>
     <b>Hong Dang</b></a>
@@ -60,7 +73,7 @@ Hong Phuc Dang is currently the InnerSource driver at Zalando where she acts as 
 <a name="brian_fitzgerald">&nbsp;</a>
 <hr/>
   <div style="width:100%">
-    <div style="float:left;padding-right:30px;padding-bottom:30px">
+    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
     <img alt="Brian Fitzgerald" width="200" src="/InnerSourceCommons/assets/img/Brian-Fitzgerald.jpg"/>
     </div>
     <b>Brian Fitzgerald</b></a>
@@ -70,10 +83,23 @@ Professor Brian Fitzgerald is Director of Lero – the Irish Software Research C
 </div>
 <div style="clear:both;"></div>
 
+<a name="thomas_froment">&nbsp;</a>
+<hr/>
+<div style="width:100%">
+    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
+     <img alt="Thomas Froment" width="200" src="/InnerSourceCommons/assets/img/Picture Pending.png"/>
+    </div>
+    <b>Thomas Froment</b></a>
+    <p>
+Thomas Froment is the lead of Thales Inner Source Software Community – aiming at promoting Open Source Software (OSS) development practices and establishing open source-like collaborations within Thales group. After two decades of software development and engineering experiences as developer, team lead and architect in Internet, Cloud Computing and Telco industries, Thomas is totally investing himself as an Agile coach willing to make cultural changes happen for real in his company. In 2016, he decided to let aside his agile coach hat, taking the lead of Inner Source initiative as part of the Thales Digital Transformation program. Prior to Thales, Thomas had various experiences ranging from Corporate Research Engineer at Alcatel-Lucent to IT infrastructure manager in a SaaS Software editor. He has been a contributor at Internet Engineering Task Force (IETF), author of RFC 5658, member of SIP Forum and speaker in several international conferences. He is author in several publications and 14 patents around internet protocol security, distributed system, SIP and peer to peer technologies. He is also a Certified Scrum Master and Certified SAFe Agilist.
+  </p>
+  </div>
+<div style="clear:both;"></div>
+
 <a name="wolfgang_gehring">&nbsp;</a>
 <hr/>
   <div style="width:100%">
-    <div style="float:left;padding-right:30px;padding-bottom:30px">
+    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
       <img alt="Wolfgang Gehring" width="200" src="/InnerSourceCommons/assets/img/Wolfgang_Gehring.jpg"/>
     </div>
     <b>Wolfgang Gehring</b></a>
@@ -87,7 +113,7 @@ As Senior Scrum Master and Agile Coach, Dr. Wolfgang Gehring sees one of his mai
 <a name="georg_gruetter">&nbsp;</a>
 <hr/>
 <div style="width:100%">
-    <div style="float:left;padding-right:30px;padding-bottom:30px">
+    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
        <img alt="Georg Gruetter" width="200" src="/InnerSourceCommons/assets/img/Georg Gruetter.jpg"/>
     </div>
     <b>Georg Gruetter</b></a>
@@ -98,10 +124,23 @@ Georg is a software developer with over 30 years of professional experience. He 
 <div style="clear:both;"></div>
 
 
+<a name="malcolm_herbert">&nbsp;</a>
+<hr/>
+<div style="width:100%">
+    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
+       <img alt="Malcolm Herbert" width="200" src="/InnerSourceCommons/assets/img/Malcolm_Herbert.png"/>
+    </div>
+    <b>Malcolm Herbert</b></a>
+    <p>
+Chief Technologist at Red Hat Consulting, where I've worked for 18 years. Advocate of organisational and business change to support technology developments.
+</p>
+</div>
+<div style="clear:both;"></div>
+
 <a name="jorge_herrera">&nbsp;</a>
 <hr/>
 <div style="width:100%">
-    <div style="float:left;padding-right:30px;padding-bottom:30px">
+    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
      <img alt="Jorge Herrera" width="200" src="/InnerSourceCommons/assets/img/jorge-herrera.jpg"/>
     </div>
     <b>Jorge Herrera</b></a>
@@ -111,50 +150,25 @@ Jorge Herrera is an agility enthusiast, currently working as Technical Manager f
 </div>
 <div style="clear:both;"></div>
 
-<a name="thomas_froment">&nbsp;</a>
+
+<a name="john_landy">&nbsp;</a>
 <hr/>
 <div style="width:100%">
-    <div style="float:left;padding-right:30px;padding-bottom:30px">
-     <img alt="Thomas Froment" width="200" src="/InnerSourceCommons/assets/img/Picture Pending.png"/>
+    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
+     <img alt="John Landy" width="200" src="/InnerSourceCommons/assets/img/Picture Pending.png"/>   
     </div>
-    <b>Thomas Froment</b></a>
+    <b>John Landy</b></a>
     <p>
-Thomas Froment is the lead of Thales Inner Source Software Community – aiming at promoting Open Source Software (OSS) development practices and establishing open source-like collaborations within Thales group. After two decades of software development and engineering experiences as developer, team lead and architect in Internet, Cloud Computing and Telco industries, Thomas is totally investing himself as an Agile coach willing to make cultural changes happen for real in his company. In 2016, he decided to let aside his agile coach hat, taking the lead of Inner Source initiative as part of the Thales Digital Transformation program. Prior to Thales, Thomas had various experiences ranging from Corporate Research Engineer at Alcatel-Lucent to IT infrastructure manager in a SaaS Software editor. He has been a contributor at Internet Engineering Task Force (IETF), author of RFC 5658, member of SIP Forum and speaker in several international conferences. He is author in several publications and 14 patents around internet protocol security, distributed system, SIP and peer to peer technologies. He is also a Certified Scrum Master and Certified SAFe Agilist.
+John Landy is a leader in Systems and Technology at Ericsson. In his 20-year career at Ericsson, John has held a number of technical leadership roles, including head product owner for the Community-Developed Software project, which introduced Inner Source software development to the Ericsson. As well as participating in numerous industry and academic events in Ireland, John has spoken at OSCON and gave a keynote address at the 2017 Inner Source Commons Fall Summit. He also contributed to the O’Reilly 2018 publication “Adopting Inner Source”. John holds a Bachelor of Science in Computer Systems from the University of Limerick.
   </p>
   </div>
 <div style="clear:both;"></div>
 
-<a name="shelly_nezri">&nbsp;</a>
-<hr/>
-<div style="width:100%">
-    <div style="float:left;padding-right:30px;padding-bottom:30px">
-       <img alt="Shelly Nezri" width="200" src="/InnerSourceCommons/assets/img/Shelly_Nezri.jpeg"/>
-    </div>
-    <b>Shelly_Nezri</b></a>
-    <p>
-Shelly Nezri is a software engineer at Elbit Systems and the company’s InnerSource community leader, where she promotes fun and gamification. Previously, Shelly was a software developer, architect, and manager. She holds a BSc in computer engineering from the Technion – Israel Institute of Technology. In her free time, she likes hanging out with friends, jogging, and raising three little tearaways.
-</p>
-</div>
-<div style="clear:both;"></div>
-<hr/>
-
-<a name="malcolm_herbert">&nbsp;</a>
-<hr/>
-<div style="width:100%">
-    <div style="float:left;padding-right:30px;padding-bottom:30px">
-       <img alt="Malcolm Herbert" width="200" src="/InnerSourceCommons/assets/img/Malcolm_Herbert.png"/>
-    </div>
-    <b>Malcolm_Herbert</b></a>
-    <p>
-Chief Technologist at Red Hat Consulting, where I've worked for 18 years. Advocate of organisational and business change to support technology developments.
-</p>
-</div>
-<div style="clear:both;"></div>
 
 <a name="tobie_langel">&nbsp;</a>
 <hr/>
 <div style="width:100%">
-    <div style="float:left;padding-right:30px;padding-bottom:30px">
+    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
       <img alt="Tobie Langel" width="200" src="/InnerSourceCommons/assets/img/Picture Pending.png"/>
     </div>
     <b>Tobie Langel</b></a>
@@ -164,23 +178,10 @@ Tobie Langel is the founder of UnlockOpen, a boutique consulting firm that helps
   </div>
 <div style="clear:both;"></div>
 
-<a name="johannes_tigges">&nbsp;</a>
-<hr/>
-<div style="width:100%">
-    <div style="float:left;padding-right:30px;padding-bottom:30px">
-  <img alt="Johannes Tigges" width="200" src="/InnerSourceCommons/assets/img/Picture Pending.png"/>
-    </div>
-    <b>Johannes Tigges</b></a>
-    <p>
-Johannes is an Open Source and Inner Source enthusiast currently working for HERE Technologies. He is working on establishing Inner Source and internal software communities within HERE. Before that he established and contributed to CI, CD and DevOps efforts in various other organizations - be it the technical or organizational and cultural aspects. He has a background in computer science and sociology and is generally interested in organizations, the human aspects of the software development domain as well as technical approaches to facilitating and measuring those.
-  </p>
-  </div>
-<div style="clear:both;"></div>
-
 <a name="olivier_liechti">&nbsp;</a>
   <hr/>
   <div style="width:100%">
-    <div style="float:left;padding-right:30px;padding-bottom:30px">
+    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
      <img alt="Olivier Liechti" width="200" src="/InnerSourceCommons/assets/img/Picture Pending.png"/>
     </div>
     <b>Olivier Liechti</b></a>
@@ -190,11 +191,10 @@ Olivier is professor at the University of Applied Sciences and Arts Western Swit
   </div>
 <div style="clear:both;"></div>
 
-
 <a name="kevin_newman">&nbsp;</a>
   <hr/>
   <div style="width:100%">
-    <div style="float:left;padding-right:30px;padding-bottom:30px">
+    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
        <img alt="Kevin Newman" width="200" src="/InnerSourceCommons/assets/img/Picture Pending.png"/>
     </div>
     <b>Kevin Newman</b></a>
@@ -202,25 +202,38 @@ Olivier is professor at the University of Applied Sciences and Arts Western Swit
       Managing Director, Product Engineering 
     </p>
   </div>
-
+  
+<a name="shelly_nezri">&nbsp;</a>
+<hr/>
+<div style="width:100%">
+    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
+       <img alt="Shelly Nezri" width="200" src="/InnerSourceCommons/assets/img/Shelly_Nezri.jpeg"/>
+    </div>
+    <b>Shelly Nezri</b></a>
+    <p>
+Shelly Nezri is a software engineer at Elbit Systems and the company’s InnerSource community leader, where she promotes fun and gamification. Previously, Shelly was a software developer, architect, and manager. She holds a BSc in computer engineering from the Technion – Israel Institute of Technology. In her free time, she likes hanging out with friends, jogging, and raising three little tearaways.
+</p>
+</div>
 <div style="clear:both;"></div>
-  <a name="katrina_novakovic">&nbsp;</a>
-  <hr/>
-   <div style="width:100%">
-    <div style="float:left;padding-right:30px;padding-bottom:30px">
-      <img alt="Katrina Novakovic" width="200" src="/InnerSourceCommons/assets/img/Katrina_Novakovic.jpg"/>
+<hr/>
+
+<a name="katrina_novakovic">&nbsp;</a>
+<hr/>
+<div style="width:100%">
+    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
+       <img alt="Katrina Novakovic" width="200" src="/InnerSourceCommons/assets/img/Picture Pending.png"/>
     </div>
     <b>Katrina Novakovic</b></a>
     <p>
 Katrina joined Red Hat, the world's leading provider of enterprise open source solutions, in 2013 and is as an Open Source business architect working across the Europe, the Middle East and Africa (EMEA) region within Red Hat Consulting, guiding customers through the process and cultural changes needed for digital transformation and technology adoption to ensure customer success. She holds a Bachelor of Science Honours degree in Computer Science with Management from Royal Holloway University, University of London.
-  </p>
-</div>
+</p>
+  </div>
 <div style="clear:both;"></div>
 
 <a name="ben_van_%27t_ende">&nbsp;</a>
 <hr/>
 <div style="width:100%">
-    <div style="float:left;padding-right:30px;padding-bottom:30px">
+    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
        <img alt="Ben van 't ende" width="200" src="/InnerSourceCommons/assets/img/Picture Pending.png"/>
     </div>
     <b>Ben van 't ende</b></a>
@@ -232,11 +245,24 @@ Ben is partner and collaboration strategist at Age of Peers. With Age of Peers B
 </div>
 <div style="clear:both;"></div>
 
+<a name="johannes_tigges">&nbsp;</a>
+<hr/>
+<div style="width:100%">
+    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
+  <img alt="Johannes Tigges" width="200" src="/InnerSourceCommons/assets/img/Picture Pending.png"/>
+    </div>
+    <b>Johannes Tigges</b></a>
+    <p>
+Johannes is an Open Source and Inner Source enthusiast currently working for HERE Technologies. He is working on establishing Inner Source and internal software communities within HERE. Before that he established and contributed to CI, CD and DevOps efforts in various other organizations - be it the technical or organizational and cultural aspects. He has a background in computer science and sociology and is generally interested in organizations, the human aspects of the software development domain as well as technical approaches to facilitating and measuring those.
+  </p>
+  </div>
+<div style="clear:both;"></div>
+
 
 <a name="kristof_van_tomme">&nbsp;</a>
 <hr/>
 <div style="width:100%">
-    <div style="float:left;padding-right:30px;padding-bottom:30px">
+    <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
      <img alt="Kristof Van Tomme" width="200" src="/InnerSourceCommons/assets/img/Picture Pending.png"/>
     </div>
     <b>Kristof Van Tomme</b></a>
@@ -245,4 +271,3 @@ Kristof Van Tomme is an open source strategist and architect. He is the CEO and 
   </p>
 </div>
 <div style="clear:both;"></div>
-
