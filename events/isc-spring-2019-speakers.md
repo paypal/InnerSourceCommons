@@ -4,13 +4,13 @@ title: 'InnerSource Commons Spring Summit 2019 Speakers'
 ---
 [[Return to the Spring Summit 2019 page](/InnerSourceCommons/events/isc-spring-2019/)]
 
-<a name="max_campraro">&nbsp;</a>
+<a name="max_capraro">&nbsp;</a>
 <hr/>
 <div style="width:100%">
     <div style="float:left;padding-right:30px;padding-bottom:30px;overflow:auto">
-      <img alt="Max Campraro" width="200" src="/InnerSourceCommons/assets/img/Max_Capraro.png"/>
+      <img alt="Max Capraro" width="200" src="/InnerSourceCommons/assets/img/Max_Capraro.png"/>
     </div>
-    <b>Max Campraro</b></a>
+    <b>Max Capraro</b></a>
     <p>
 Maximilian Capraro is a researcher and doctoral candidate at the Open Source Research Group at Friedrich-Alexander-University Erlangen-Nuremberg. He received the bachelor of engineering degree in information and communication technology from the BA Eisenach and the master of science degree in computer science from the Friedrich-Alexander-University. He is alumnus of the Siemens Masters Program. Max worked on inner source in research projects with a variety of companies including Black Duck Software, Continental, and multiple Siemens business units. He developed the patch-flow measurement method (for measuring software development collaboration) and the first classification framework for inner source projects and programs. His research interests include quantification of software development collaboration, inner source and open source, software code code and process metrics, software architecture, design and implementation.
     </p>
