@@ -252,7 +252,7 @@ An informal, but hopefully informative, presentation on the challenges of implem
 
 <tr >
         <td class="time">16:15 - 16:45</td>
-        <td class="author"><a href="/InnerSourceCommons/events/isc-spring-2019-speakers#max_campraro"> Max Campraro <br>
+        <td class="author"><a href="/InnerSourceCommons/events/isc-spring-2019-speakers#max_campraro"> Max Capraro <br>
             <a href="/InnerSourceCommons/events/isc-spring-2019-speakers#johannes_tigges">Johannes Tigges
 </span></td>
         <td class="title"> The Inner Source Learning Path
