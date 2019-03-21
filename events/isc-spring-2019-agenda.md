@@ -360,7 +360,7 @@ Culture is hard to describe, and even harder to emulate. So how do you even star
         </td>
     </tr>
 <tr >
-        <td class="time">16:30 - 17:15</td>
+        <td class="time">14:35 - 14:45</td>
         <td colspan="2">Closing (Dr. Lorraine Morgan)</td>
     </tr>
 </table>
