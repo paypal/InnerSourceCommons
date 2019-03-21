@@ -312,8 +312,6 @@ Crowdsourcing is emerging as an alternative outsourcing strategy which is gainin
 
         <td class="author">
 <a href="/InnerSourceCommons/events/isc-spring-2019-speakers#daniel_izquierdo_cortázar">Daniel Izquierdo Cortázar</a> <span class="affiliation">(Bitergia)</span></td>
-     <span onClick="toggleAbstract('cortázar-2')" class="abstract-toggle">(<a id="cortázar-2-link">Show Abstract</a>)</span>
-
 <td class="title">Metrics and KPIs for an InnerSource Office 
      <span onClick="toggleAbstract('cortázar-2')" class="abstract-toggle">(<a id="cortázar-2-link">Show Abstract</a>)</span>
 <div style="display:none" class="abstract" id="cortázar-2">
