@@ -102,7 +102,7 @@ Red Hat, the world's leading provider of Open Source Enterprise solutions, has o
 <tr >
        <td class="time">14:55 - 15:25</td>
 
-   <td class="author"><a href="/InnerSourceCommons/events/isc-spring-2019-speakers#hong_dang">Hong Dang</a><span class="affiliation"> (Zalando)</span></td>
+   <td class="author"><a href="/InnerSourceCommons/events/isc-spring-2019-speakers#hong_dang">Hong Phuc Dang</a><span class="affiliation"> (Zalando)</span></td>
         <td class="title">Open Source within the walls: The Case of a German fashion Platform
             <span onClick="toggleAbstract('dong-1')" class="abstract-toggle">(<a id="dong-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="dong-1">
