@@ -1,13 +1,6 @@
 ---
-layout: page
-show_meta: false
-title: 'InnerSource Patterns'       
+layout: redirect
 permalink: "/patterns/"
-redirect_to: 
-    - https://github.com/InnerSourceCommons/InnerSourcePatterns
-redirect_to: http://innersourcecommons.org/pages/patterns
+redirect_to:
+    - http://innersourcecommons.org/patterns/
 ---
-
-# Moved
-
-This site has been moved. You should now be redirected to [http://innersourcecommons.org/pages/patterns](http://innersourcecommons.org/pages/patterns).
