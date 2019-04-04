@@ -2,10 +2,9 @@
 layout: 'page'
 title: 'InnerSource Books'
 permalink: '/resources/books/'
+redirect_to: http://innersourcecommons.org/resources/books/
 ---
 
-  * [Getting Started With InnerSource](http://www.oreilly.com/programming/free/getting-started-with-innersource.csp)
-  * [Understanding the InnerSource Checklist]({{ site.baseurl }}/checklist/)
-  * [Adopting InnerSource - Principles and Case Studies](adoptinginnersource)
+# Moved
 
-
+This site has been moved. You should now be redirected to [http://innersourcecommons.org/resources/books/](http://innersourcecommons.org/resources/books/).

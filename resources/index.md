@@ -1,30 +1,9 @@
 ---
 layout: page
 title: 'InnerSource Resources'
+redirect_to: http://innersourcecommons.org/resources/index
 ---
 
-### [Articles](articles/)
+# Moved
 
-Academic papers, news articles, blogs
-
-### [Books](books/)
-
-  * [Getting Started With InnerSource](http://www.oreilly.com/programming/free/getting-started-with-innersource.csp)
-  * [Understanding the InnerSource Checklist]({{ site.baseurl }}/checklist/)
-  * [Adopting InnerSource - Principles and Case Studies](books/adoptinginnersource)
-
-### [InnerSource Commons Wiki](https://github.com/paypal/InnerSourceCommons/wiki)
-
-Checklists, definitions, and all the other random, uncategorized stuff
-
-### [Events](/InnerSourceCommons/events/)
-
-Meet up with other folks working to implement InnerSource in their organizations
-
-### The [InnerSource Book](http://www.oreilly.com/programming/free/getting-started-with-innersource.csp)
-
-Free e-book from O'Reilly on getting started with InnerSource
-
-### Videos
-
-See [the InnerSource Patterns videos](http://bit.ly/innersource_patterns_videos).
+This site has been moved. You should now be redirected to [http://innersourcecommons.org/resources/index](http://innersourcecommons.org/resources/index).
