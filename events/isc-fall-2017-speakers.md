@@ -1,9 +1,9 @@
 ---
 layout: page-fullwidth
 title: 'InnerSource Commons Fall Summit 2017 Speakers'
+redirect_to: http://innersourcecommons.org/events/isc-fall-2017-speakers
 ---
 
-[[Return to the Fall Summit 2017 page](/InnerSourceCommons/events/isc-fall-2017/)]
-[[See the agenda](/InnerSourceCommons/events/isc-fall-2017-agenda/)]
+# Moved
 
-<iframe width="960" height="5200" src="https://docs.google.com/document/d/e/2PACX-1vRaHfTleJAKWYUQd8R5sd_44HuBMJ_m6ZvI3LPVbgD5G8v4qNBhhOtDOhEkgjT7IiVkAAMBJutfjJzO/pub?embedded=true"></iframe>
+This site has been moved. You should now be redirected to [http://innersourcecommons.org/events/isc-fall-2017-speakers](http://innersourcecommons.org/events/isc-fall-2017-speakers).

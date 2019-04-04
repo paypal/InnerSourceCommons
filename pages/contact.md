@@ -5,8 +5,9 @@ meta_title: "Join the discussion"
 subheadline: "Join the discussion"
 teaser: "Here's how to connect with the community"
 permalink: "/contact/"
+redirect_to: http://innersourcecommons.org/pages/contact
 ---
 
-* Email <questions@innersourcecommons.org>
-* Join the [#innersourcecommons](https://isc-inviter.herokuapp.com/) slack channel
-    - *Should the inviter be down, please email the address above.*
+# Moved
+
+This site has been moved. You should now be redirected to [http://innersourcecommons.org/pages/contact](http://innersourcecommons.org/pages/contact).

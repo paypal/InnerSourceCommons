@@ -52,12 +52,12 @@ logo: "isc-border.png"
 #   /_/    \__,_/\__, /_/_/ /_/\__,_/\__/_/\____/_/ /_/
 #               /____/
 #
-gems:
+plugins:
     - jekyll-gist
     - jekyll-paginate
     - jekyll-redirect-from
-paginate: 5                      # Paginates all X entries
-paginate_path: "blog/page:num"   # Pagination path › Important for blog page in /blog/ to work
+#paginate: 5                      # Paginates all X entries
+#paginate_path: "blog/page:num"   # Pagination path › Important for blog page in /blog/ to work
 
 
 
