@@ -46,23 +46,29 @@ for my $filename (@filenames) {
     }
     
     print "Converting $filename...\n";
-
-    my @keep = @lines[1 .. $endmatter - 1];
-
-    my $url_base = 'http://innersourcecommons.org/';
-    my $url_part = substr($filename,0,-3);
-    my $url = $url_base . $url_part;
-    my $redirect = 'redirect_to: ' .$url;
     
-    print $redirect . "\n";
+    my $url_base = 'http://innersourcecommons.org';
+    my $url_part = '/' . substr($filename,0,-3) . '/';
 
-    unshift @keep, '---';
-    push @keep, $redirect, '---', '', '# Moved', '', "This site has been moved. You should now be redirected to [$url]($url).";
+    # Handle special cases for 'pages' and 'pages/pages_root_folder'
+    #        directories, as well as index files
+    # Using | (pipe) as separator to avoid lots of escaping in regex
+    $url_part =~ s|/pages/pages-root-folder/|/|;
+    $url_part =~ s|/pages/|/|;
+    $url_part =~ s|/index/|/|;
+    
+    my $url = $url_base . $url_part;
+    my $redirect = "redirect_to:\n    - $url";
+    my $permalink = 'permalink: "' . $url_part . '"';
+
+    my $layout = 'layout: redirect';
+    
+    push my @newlines, '---', $layout, $permalink, $redirect, '---', '';
 
     open my $outfile, ">", $filename or die "Unable to open '$filename' for writing: $!";
-    print $outfile join("\n", @keep);
+    print $outfile join("\n", @newlines);
     close $outfile;
 
-    print "Done\n";
+    print "Done\n\n";
 
 }

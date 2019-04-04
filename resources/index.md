@@ -1,9 +1,6 @@
 ---
-layout: page
-title: 'InnerSource Resources'
-redirect_to: http://innersourcecommons.org/resources/index
+layout: redirect
+permalink: "/resources/"
+redirect_to:
+    - http://innersourcecommons.org/resources/
 ---
-
-# Moved
-
-This site has been moved. You should now be redirected to [http://innersourcecommons.org/resources/index](http://innersourcecommons.org/resources/index).
